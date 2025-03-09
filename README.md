@@ -126,7 +126,7 @@ The project directory is organized as follows:
 - **`notebooks/`**: Core notebooks:
   - `01_w2_dataset_preprocessing.ipynb`
   - `02_zero_shot_baseline.ipynb`
-  - `03_glora_fine_tuning.ipynb`
+  - `03_qlora_fine_tuning.ipynb`
 - **`scripts/`**: Utility scripts (e.g., `setup_venv.sh` for setting up a virtual environment locally).
 - **`src/`**:
   - **`model/`**: Model-related helper functions (e.g., `qwen_vl_model_adapter.py`, `reporting.py`).
