@@ -1,0 +1,15 @@
+torch
+pandas
+openpyxl
+datasets
+PyMuPDF
+kagglehub
+jupyter
+ipywidgets
+accelerate
+pillow
+transformers>=4.49.0
+qwen-vl-utils[decord]==0.0.8
+peft
+bitsandbytes
+lightning 

@@ -1,0 +1,1301 @@
+Comparison ID,Field,Predicted Value,Ground Truth Value,Match,Form Type
+0,Employee Name,Richard Clay,Richard Clay,True,ADP1
+0,Employer Name,Stewart LLC PLC,Stewart LLC PLC,True,ADP1
+0,Wages and Tips,212959.47,212599.67,False,ADP1
+0,Federal Income Tax Withheld,38321.07,38321.07,True,ADP1
+0,Social Security Wages,264504.45,264058.45,False,ADP1
+0,Medicare Wages and Tips,7487.17,258178.22,False,ADP1
+0,State 1,CA,CA,True,ADP1
+0,State 1 Wages and Tips,111769.70,111769.70,True,ADP1
+0,State 1 Income Tax Withheld,10323.28,9408.37,False,ADP1
+0,State 2,,,True,ADP1
+0,State 2 Wages and Tips,,,True,ADP1
+0,State 2 Income Tax Withheld,,,True,ADP1
+0,Field Count Check,Yes,Yes,True,ADP1
+1,Employee Name,Michele Stewart,Michele Stewart,True,ADP1
+1,Employer Name,Fowler and Sons Sons,Fowler and Sons and Sons,False,ADP1
+1,Wages and Tips,124942.80,101030.49,False,ADP1
+1,Federal Income Tax Withheld,14946.90,14946.90,True,ADP1
+1,Social Security Wages,8965.45,117195.40,False,ADP1
+1,Medicare Wages and Tips,3147.63,108538.83,False,ADP1
+1,State 1,CO,CO,True,ADP1
+1,State 1 Wages and Tips,52462.33,52462.33,True,ADP1
+1,State 1 Income Tax Withheld,83042.37,3142.29,False,ADP1
+1,State 2,,,True,ADP1
+1,State 2 Wages and Tips,,,True,ADP1
+1,State 2 Income Tax Withheld,,,True,ADP1
+1,Field Count Check,Yes,Yes,True,ADP1
+2,Employee Name,Robert Hines,Robert Hines,True,ADP1
+2,Employer Name,Scott-Lewis and Sons,Scott-Lewis and Sons,True,ADP1
+2,Wages and Tips,181723.90,128916.10,False,ADP1
+2,Federal Income Tax Withheld,41874.30,41874.30,True,ADP1
+2,Social Security Wages,10993.49,142921.45,False,ADP1
+2,Medicare Wages and Tips,2715.06,93622.64,False,ADP1
+2,State 1,MD,MD,True,ADP1
+2,State 1 Wages and Tips,66019.13,66019.13,True,ADP1
+2,State 1 Income Tax Withheld,,3874.84,False,ADP1
+2,State 2,SD,,False,ADP1
+2,State 2 Wages and Tips,11334.81,,False,ADP1
+2,State 2 Income Tax Withheld,,,True,ADP1
+2,Field Count Check,Yes,Yes,True,ADP1
+3,Employee Name,Laura Rogers,Laura Rogers,True,ADP1
+3,Employer Name,Johnson-Murray PLC,Johnson-Murray PLC,True,ADP1
+3,Wages and Tips,89164.04,89164.04,True,ADP1
+3,Federal Income Tax Withheld,14534.95,14534.95,True,ADP1
+3,Social Security Wages,8261.00,107986.99,False,ADP1
+3,Medicare Wages and Tips,8261.00,106993.93,False,ADP1
+3,State 1,LA,LA,True,ADP1
+3,State 1 Wages and Tips,46264.90,46264.90,True,ADP1
+3,State 1 Income Tax Withheld,11157.70,4807.32,False,ADP1
+3,State 2,,,True,ADP1
+3,State 2 Wages and Tips,,,True,ADP1
+3,State 2 Income Tax Withheld,,,True,ADP1
+3,Field Count Check,Yes,Yes,True,ADP1
+4,Employee Name,Johnny Snyder,Johnny Snyder,True,ADP1
+4,Employer Name,Cruz-Rodriguez Group,Cruz-Rodriguez Group,True,ADP1
+4,Wages and Tips,240998.70,172089.92,False,ADP1
+4,Federal Income Tax Withheld,57028.12,57028.12,True,ADP1
+4,Social Security Wages,11880.66,155302.71,False,ADP1
+4,Medicare Wages and Tips,4410.37,152081.76,False,ADP1
+4,State 1,KS,KS,True,ADP1
+4,State 1 Wages and Tips,85181.15,85181.15,True,ADP1
+4,State 1 Income Tax Withheld,4176.75,4176.75,True,ADP1
+4,State 2,,,True,ADP1
+4,State 2 Wages and Tips,,,True,ADP1
+4,State 2 Income Tax Withheld,,,True,ADP1
+4,Field Count Check,Yes,Yes,True,ADP1
+5,Employee Name,Alec Stuart,Alec Stuart,True,ADP1
+5,Employer Name,Ross-Owen LLC,Ross-Owen LLC,True,ADP1
+5,Wages and Tips,175632.86,135409.02,False,ADP1
+5,Federal Income Tax Withheld,27048.50,27048.50,True,ADP1
+5,Social Security Wages,175632.86,172226.73,False,ADP1
+5,Medicare Wages and Tips,4723.83,162890.57,False,ADP1
+5,State 1,TN,TN,True,ADP1
+5,State 1 Wages and Tips,17222.73,66698.70,False,ADP1
+5,State 1 Income Tax Withheld,13175.34,4869.42,False,ADP1
+5,State 2,FL,,False,ADP1
+5,State 2 Wages and Tips,44698.70,,False,ADP1
+5,State 2 Income Tax Withheld,13245.76,,False,ADP1
+5,Field Count Check,Yes,Yes,True,ADP1
+6,Employee Name,Thomas Harrington,Thomas Harrington,True,ADP1
+6,Employer Name,Marshall-Grant Inc,Marshall-Grant Inc,True,ADP1
+6,Wages and Tips,329104.81,247552.50,False,ADP1
+6,Federal Income Tax Withheld,21016.89,61445.42,False,ADP1
+6,Social Security Wages,18927.00,262835.13,False,ADP1
+6,Medicare Wages and Tips,9108.02,314069.58,False,ADP1
+6,State 1,VA,VA,True,ADP1
+6,State 1 Wages and Tips,122407.69,122407.69,True,ADP1
+6,State 1 Income Tax Withheld,20106.89,11895.36,False,ADP1
+6,State 2,,,True,ADP1
+6,State 2 Wages and Tips,,,True,ADP1
+6,State 2 Income Tax Withheld,,,True,ADP1
+6,Field Count Check,Yes,Yes,True,ADP1
+7,Employee Name,Heather Martin,Heather Martin,True,ADP1
+7,Employer Name,Henderson and Sons Inc,Henderson and Sons Inc,True,ADP1
+7,Wages and Tips,62551.48,44792.71,False,ADP1
+7,Federal Income Tax Withheld,15008.60,15008.60,True,ADP1
+7,Social Security Wages,62551.48,35949.89,False,ADP1
+7,Medicare Wages and Tips,1303.10,44934.56,False,ADP1
+7,State 1,ME,ME,True,ADP1
+7,State 1 Wages and Tips,21382.66,21382.66,True,ADP1
+7,State 1 Income Tax Withheld,,1706.35,False,ADP1
+7,State 2,AK,,False,ADP1
+7,State 2 Wages and Tips,44792.71,,False,ADP1
+7,State 2 Income Tax Withheld,1642.27,,False,ADP1
+7,Field Count Check,Yes,Yes,True,ADP1
+8,Employee Name,Randy Calhoun,Randy Calhoun,True,ADP1
+8,Employer Name,Griffin-Howard Ltd,Griffin-Howard Ltd,True,ADP1
+8,Wages and Tips,302897.50,220511.28,False,ADP1
+8,Federal Income Tax Withheld,63593.70,63593.70,True,ADP1
+8,Social Security Wages,18792.51,245653.79,False,ADP1
+8,Medicare Wages and Tips,4531.66,156264.20,False,ADP1
+8,State 1,IA,SC,False,ADP1
+8,State 1 Wages and Tips,220511.28,101610.23,False,ADP1
+8,State 1 Income Tax Withheld,11987.62,11987.62,True,ADP1
+8,State 2,,,True,ADP1
+8,State 2 Wages and Tips,,,True,ADP1
+8,State 2 Income Tax Withheld,,,True,ADP1
+8,Field Count Check,Yes,Yes,True,ADP1
+9,Employee Name,Barbara Gonzales,Barbara Gonzales,True,ADP1
+9,Employer Name,"Collins, Dominguez and Cook PLC","Collins, Dominguez and Cook PLC",True,ADP1
+9,Wages and Tips,222796.64,222798.64,False,ADP1
+9,Federal Income Tax Withheld,46306.98,46306.98,True,ADP1
+9,Social Security Wages,291139.60,288026.00,False,ADP1
+9,Medicare Wages and Tips,6650.90,229341.37,False,ADP1
+9,State 1,Florida,ID,False,ADP1
+9,State 1 Wages and Tips,105497.72,105497.72,True,ADP1
+9,State 1 Income Tax Withheld,30383.43,11359.73,False,ADP1
+9,State 2,,,True,ADP1
+9,State 2 Wages and Tips,,,True,ADP1
+9,State 2 Income Tax Withheld,,,True,ADP1
+9,Field Count Check,Yes,Yes,True,ADP1
+10,Employee Name,Erica Lee,Erica Lee,True,ADP1
+10,Employer Name,Castillo-Schroeder PLC,Castillo-Schroeder PLC,True,ADP1
+10,Wages and Tips,58869.60,48477.16,False,ADP1
+10,Federal Income Tax Withheld,7189.48,7189.48,True,ADP1
+10,Social Security Wages,58870.00,41868.71,False,ADP1
+10,Medicare Wages and Tips,1569.11,54107.36,False,ADP1
+10,State 1,KS,KS,True,ADP1
+10,State 1 Wages and Tips,25909.23,25909.23,True,ADP1
+10,State 1 Income Tax Withheld,8134.48,845.38,False,ADP1
+10,State 2,,,True,ADP1
+10,State 2 Wages and Tips,,,True,ADP1
+10,State 2 Income Tax Withheld,,,True,ADP1
+10,Field Count Check,Yes,Yes,True,ADP1
+11,Employee Name,Tina Bryant,Tina Bryant,True,ADP1
+11,Employer Name,"Reed, Middleton and Lynch PLC","Reed, Middleton and Lynch PLC",True,ADP1
+11,Wages and Tips,141234.30,105976.02,False,ADP1
+11,Federal Income Tax Withheld,26192.82,26192.82,True,ADP1
+11,Social Security Wages,9065.41,118502.15,False,ADP1
+11,Medicare Wages and Tips,3036.84,104718.48,False,ADP1
+11,State 1,MI,MI,True,ADP1
+11,State 1 Wages and Tips,53743.22,53745.22,False,ADP1
+11,State 1 Income Tax Withheld,,3841.89,False,ADP1
+11,State 2,HI,,False,ADP1
+11,State 2 Wages and Tips,26192.82,,False,ADP1
+11,State 2 Income Tax Withheld,19533.39,,False,ADP1
+11,Field Count Check,Yes,Yes,True,ADP1
+12,Employee Name,Stacie Bruce,Stacie Bruce,True,ADP1
+12,Employer Name,"Terry, Brown and Clark Ltd","Terry, Brown and Clark Ltd",True,ADP1
+12,Wages and Tips,235098.14,236986.14,False,ADP1
+12,Federal Income Tax Withheld,76159.82,76159.82,True,ADP1
+12,Social Security Wages,14564.69,190388.15,False,ADP1
+12,Medicare Wages and Tips,5502.01,174207.22,False,ADP1
+12,State 1,VA,VA,True,ADP1
+12,State 1 Wages and Tips,112115.42,112115.42,True,ADP1
+12,State 1 Income Tax Withheld,274943.91,9114.07,False,ADP1
+12,State 2,WA,,False,ADP1
+12,State 2 Wages and Tips,123182.72,,False,ADP1
+12,State 2 Income Tax Withheld,29866.12,,False,ADP1
+12,Field Count Check,Yes,Yes,True,ADP1
+13,Employee Name,Nicholas Perry,Nicholas Perry,True,ADP1
+13,Employer Name,Nelson Group Inc,Nelson Group Inc,True,ADP1
+13,Wages and Tips,87905.26,72366.23,False,ADP1
+13,Federal Income Tax Withheld,10259.70,10259.70,True,ADP1
+13,Social Security Wages,5279.33,69010.85,False,ADP1
+13,Medicare Wages and Tips,1912.20,65937.92,False,ADP1
+13,State 1,KY,WY,False,ADP1
+13,State 1 Wages and Tips,34841.25,34841.25,True,ADP1
+13,State 1 Income Tax Withheld,8274.25,2630.56,False,ADP1
+13,State 2,,,True,ADP1
+13,State 2 Wages and Tips,,,True,ADP1
+13,State 2 Income Tax Withheld,,,True,ADP1
+13,Field Count Check,Yes,Yes,True,ADP1
+14,Employee Name,Robin Torres,Robin Torres,True,ADP1
+14,Employer Name,Williams-Myers Inc,Williams-Myers Inc,True,ADP1
+14,Wages and Tips,221439.75,221439.75,True,ADP1
+14,Federal Income Tax Withheld,60479.34,60479.34,True,ADP1
+14,Social Security Wages,17054.69,228819.45,False,ADP1
+14,Medicare Wages and Tips,7185.13,247763.27,False,ADP1
+14,State 1,TN,NC,False,ADP1
+14,State 1 Wages and Tips,221439.75,107638.10,False,ADP1
+14,State 1 Income Tax Withheld,60479.34,10509.80,False,ADP1
+14,State 2,NC,,False,ADP1
+14,State 2 Wages and Tips,228819.45,,False,ADP1
+14,State 2 Income Tax Withheld,17054.69,,False,ADP1
+14,Field Count Check,Yes,Yes,True,ADP1
+15,Employee Name,Kristin Hartman,Kristin Hartman,True,ADP1
+15,Employer Name,Mogee-Roberts Ltd,Mcgee-Roberts Ltd,False,ADP1
+15,Wages and Tips,126847.24,104281.69,False,ADP1
+15,Federal Income Tax Withheld,14675.73,16475.73,False,ADP1
+15,Social Security Wages,104281.69,79605.47,False,ADP1
+15,Medicare Wages and Tips,3000.72,103473.00,False,ADP1
+15,State 1,MI,MN,False,ADP1
+15,State 1 Wages and Tips,51791.91,57191.91,False,ADP1
+15,State 1 Income Tax Withheld,11779.95,3039.12,False,ADP1
+15,State 2,PA,,False,ADP1
+15,State 2 Wages and Tips,74855.29,,False,ADP1
+15,State 2 Income Tax Withheld,15446.59,,False,ADP1
+15,Field Count Check,Yes,Yes,True,ADP1
+16,Employee Name,Mitchell Kirk,Mitchell Kirk,True,ADP1
+16,Employer Name,White-Harris Group,White-Harris Group,True,ADP1
+16,Wages and Tips,84746.51,84746.51,True,ADP1
+16,Federal Income Tax Withheld,23351.01,23351.01,True,ADP1
+16,Social Security Wages,8220.00,95765.31,False,ADP1
+16,Medicare Wages and Tips,2084.44,99463.54,False,ADP1
+16,State 1,MI,HI,False,ADP1
+16,State 1 Wages and Tips,42581.88,42581.88,True,ADP1
+16,State 1 Income Tax Withheld,,3656.46,False,ADP1
+16,State 2,ND,,False,ADP1
+16,State 2 Wages and Tips,,,True,ADP1
+16,State 2 Income Tax Withheld,,,True,ADP1
+16,Field Count Check,Yes,Yes,True,ADP1
+17,Employee Name,Bruce Jones,Bruce Jones,True,ADP1
+17,Employer Name,Gardner-Anderson LLC,Gardner-Anderson LLC,True,ADP1
+17,Wages and Tips,49395.62,42985.62,False,ADP1
+17,Federal Income Tax Withheld,8599.38,8599.38,True,ADP1
+17,Social Security Wages,54823.41,42332.19,False,ADP1
+17,Medicare Wages and Tips,1029.24,35491.09,False,ADP1
+17,State 1,KY,NJ,False,ADP1
+17,State 1 Wages and Tips,21589.72,21589.72,True,ADP1
+17,State 1 Income Tax Withheld,3319.22,1285.90,False,ADP1
+17,State 2,OK,,False,ADP1
+17,State 2 Wages and Tips,0.00,,False,ADP1
+17,State 2 Income Tax Withheld,0.00,,False,ADP1
+17,Field Count Check,Yes,Yes,True,ADP1
+18,Employee Name,Aaron Hill,Aaron Hill,True,ADP1
+18,Employer Name,Cherry PLC LLC,Cherry PLC LLC,True,ADP1
+18,Wages and Tips,231104.78,231104.78,True,ADP1
+18,Federal Income Tax Withheld,68864.89,68864.89,True,ADP1
+18,Social Security Wages,14397.71,188074.58,False,ADP1
+18,Medicare Wages and Tips,7728.96,266516.03,False,ADP1
+18,State 1,IN,WI,False,ADP1
+18,State 1 Wages and Tips,114371.57,114371.57,True,ADP1
+18,State 1 Income Tax Withheld,,6606.78,False,ADP1
+18,State 2,FL,,False,ADP1
+18,State 2 Wages and Tips,,,True,ADP1
+18,State 2 Income Tax Withheld,,,True,ADP1
+18,Field Count Check,Yes,Yes,True,ADP1
+19,Employee Name,Spencer White,Spencer White,True,ADP1
+19,Employer Name,Sanders PLC LLC,Sanders PLC LLC,True,ADP1
+19,Wages and Tips,76141.73,64270.87,False,ADP1
+19,Federal Income Tax Withheld,8029.44,8029.44,True,ADP1
+19,Social Security Wages,3841.42,50214.61,False,ADP1
+19,Medicare Wages and Tips,1730.04,59656.44,False,ADP1
+19,State 1,UT,UT,True,ADP1
+19,State 1 Wages and Tips,34987.05,34987.05,True,ADP1
+19,State 1 Income Tax Withheld,2444.43,2846.60,False,ADP1
+19,State 2,OK,,False,ADP1
+19,State 2 Wages and Tips,59656.44,,False,ADP1
+19,State 2 Income Tax Withheld,13265.44,,False,ADP1
+19,Field Count Check,Yes,Yes,True,ADP1
+20,Employee Name,Jamie Larsen,Jamie Larsen,True,ADP1
+20,Employer Name,"Gibson, Sanchez and Campbell LLC","Gibson, Sanchez and Campbell LLC",True,ADP1
+20,Wages and Tips,176959.87,142074.82,False,ADP1
+20,Federal Income Tax Withheld,25908.38,25988.38,False,ADP1
+20,Social Security Wages,8896.67,116296.36,False,ADP1
+20,Medicare Wages and Tips,4133.99,142551.35,False,ADP1
+20,State 1,AR,AR,True,ADP1
+20,State 1 Wages and Tips,69343.61,69343.61,True,ADP1
+20,State 1 Income Tax Withheld,10402.28,3757.81,False,ADP1
+20,State 2,,,True,ADP1
+20,State 2 Wages and Tips,,,True,ADP1
+20,State 2 Income Tax Withheld,,,True,ADP1
+20,Field Count Check,Yes,Yes,True,ADP1
+21,Employee Name,Bryan Herring,Bryan Herring,True,ADP1
+21,Employer Name,"Luna, Hernandes and Mata PLC","Luna, Hernandez and Mata PLC",False,ADP1
+21,Wages and Tips,199943.50,143845.70,False,ADP1
+21,Federal Income Tax Withheld,48026.60,48268.60,False,ADP1
+21,Social Security Wages,199943.50,102342.82,False,ADP1
+21,Medicare Wages and Tips,3032.72,104576.64,False,ADP1
+21,State 1,MO,MO,True,ADP1
+21,State 1 Wages and Tips,76108.79,76108.79,True,ADP1
+21,State 1 Income Tax Withheld,17054.27,5780.14,False,ADP1
+21,State 2,GA,,False,ADP1
+21,State 2 Wages and Tips,143845.70,,False,ADP1
+21,State 2 Income Tax Withheld,5780.14,,False,ADP1
+21,Field Count Check,Yes,Yes,True,ADP1
+22,Employee Name,David Choi,David Choi,True,ADP1
+22,Employer Name,Sanchez-Leon Inc,Sanchez-Leon Inc,True,ADP1
+22,Wages and Tips,131702.80,94854.66,False,ADP1
+22,Federal Income Tax Withheld,27856.75,27856.75,True,ADP1
+22,Social Security Wages,8991.37,117534.27,False,ADP1
+22,Medicare Wages and Tips,2678.28,92354.49,False,ADP1
+22,State 1,MI,SD,False,ADP1
+22,State 1 Wages and Tips,43144.55,43146.55,False,ADP1
+22,State 1 Income Tax Withheld,,1906.21,False,ADP1
+22,State 2,,,True,ADP1
+22,State 2 Wages and Tips,,,True,ADP1
+22,State 2 Income Tax Withheld,,,True,ADP1
+22,Field Count Check,Yes,Yes,True,ADP1
+23,Employee Name,Justin Gonzalez,Justin Gonzalez,True,ADP1
+23,Employer Name,"Smith, Rose and French Ltd","Smith, Rose and French Ltd",True,ADP1
+23,Wages and Tips,66536.18,53364.86,False,ADP1
+23,Federal Income Tax Withheld,9981.38,9981.38,True,ADP1
+23,Social Security Wages,66536.18,41698.60,False,ADP1
+23,Medicare Wages and Tips,1134.91,39135.00,False,ADP1
+23,State 1,UT,UT,True,ADP1
+23,State 1 Wages and Tips,26838.41,26838.41,True,ADP1
+23,State 1 Income Tax Withheld,0.00,2527.01,False,ADP1
+23,State 2,NH,,False,ADP1
+23,State 2 Wages and Tips,39337.77,,False,ADP1
+23,State 2 Income Tax Withheld,0.00,,False,ADP1
+23,Field Count Check,Yes,Yes,True,ADP1
+24,Employee Name,John Kelly,John Kelly,True,ADP1
+24,Employer Name,Jones Ltd Ltd,Jones Ltd Ltd,True,ADP1
+24,Wages and Tips,77796.34,64016.25,False,ADP1
+24,Federal Income Tax Withheld,10020.58,10020.58,True,ADP1
+24,Social Security Wages,3759.51,49143.87,False,ADP1
+24,Medicare Wages and Tips,1483.25,51146.50,False,ADP1
+24,State 1,WI,WI,True,ADP1
+24,State 1 Wages and Tips,31107.89,31107.89,True,ADP1
+24,State 1 Income Tax Withheld,62445.42,2200.93,False,ADP1
+24,State 2,AZ,,False,ADP1
+24,State 2 Wages and Tips,64016.25,,False,ADP1
+24,State 2 Income Tax Withheld,12720.57,,False,ADP1
+24,Field Count Check,Yes,Yes,True,ADP1
+25,Employee Name,Steven Gallagher,Steven Gallagher,True,ADP2
+25,Employer Name,Russell-Perry Ltd,Russell-Perry Ltd,True,ADP2
+25,Wages and Tips,158646.42,158646.42,True,ADP2
+25,Federal Income Tax Withheld,53019.99,53019.99,True,ADP2
+25,Social Security Wages,202034.93,202034.93,True,ADP2
+25,Medicare Wages and Tips,186980.56,186980.56,True,ADP2
+25,State 1,MS,MS,True,ADP2
+25,State 1 Wages and Tips,84606.23,84606.23,True,ADP2
+25,State 1 Income Tax Withheld,6352.73,6352.73,True,ADP2
+25,State 2,,,True,ADP2
+25,State 2 Wages and Tips,,,True,ADP2
+25,State 2 Income Tax Withheld,,,True,ADP2
+25,Field Count Check,Yes,Yes,True,ADP2
+26,Employee Name,James Patel,James Patel,True,ADP2
+26,Employer Name,"Thomas, Wang and Dean Inc","Thomas, Wang and Dean Inc",True,ADP2
+26,Wages and Tips,240550.20,240550.20,True,ADP2
+26,Federal Income Tax Withheld,66193.23,66193.23,True,ADP2
+26,Social Security Wages,193414.25,193414.25,True,ADP2
+26,Medicare Wages and Tips,190639.64,190639.64,True,ADP2
+26,State 1,NV,NV,True,ADP2
+26,State 1 Wages and Tips,114871.17,114871.17,True,ADP2
+26,State 1 Income Tax Withheld,8020.75,8020.75,True,ADP2
+26,State 2,,,True,ADP2
+26,State 2 Wages and Tips,,,True,ADP2
+26,State 2 Income Tax Withheld,,,True,ADP2
+26,Field Count Check,Yes,Yes,True,ADP2
+27,Employee Name,Samuel Sampson,Samuel Sampson,True,ADP2
+27,Employer Name,"Olson, White and Rodriguez Ltd","Olson, White and Rodriguez Ltd",True,ADP2
+27,Wages and Tips,190474.44,190474.44,True,ADP2
+27,Federal Income Tax Withheld,51726.34,51726.34,True,ADP2
+27,Social Security Wages,175050.27,175050.27,True,ADP2
+27,Medicare Wages and Tips,230247.50,230247.50,True,ADP2
+27,State 1,KS,KS,True,ADP2
+27,State 1 Wages and Tips,90356.58,90356.58,True,ADP2
+27,State 1 Income Tax Withheld,6612.65,6612.65,True,ADP2
+27,State 2,,,True,ADP2
+27,State 2 Wages and Tips,,,True,ADP2
+27,State 2 Income Tax Withheld,,,True,ADP2
+27,Field Count Check,Yes,Yes,True,ADP2
+28,Employee Name,Erik Gibbs,Erik Gibbs,True,ADP2
+28,Employer Name,Smith-Barnett PLC,Smith-Barnett PLC,True,ADP2
+28,Wages and Tips,201152.66,201152.66,True,ADP2
+28,Federal Income Tax Withheld,29090.79,29090.79,True,ADP2
+28,Social Security Wages,236162.64,236162.64,True,ADP2
+28,Medicare Wages and Tips,190655.79,190655.79,True,ADP2
+28,State 1,NY,NY,True,ADP2
+28,State 1 Wages and Tips,102786.37,102786.37,True,ADP2
+28,State 1 Income Tax Withheld,7528.44,7528.44,True,ADP2
+28,State 2,,,True,ADP2
+28,State 2 Wages and Tips,,,True,ADP2
+28,State 2 Income Tax Withheld,,,True,ADP2
+28,Field Count Check,Yes,Yes,True,ADP2
+29,Employee Name,Carlos Goodwin,Carlos Goodwin,True,ADP2
+29,Employer Name,Garcia PLC Inc,Garcia PLC Inc,True,ADP2
+29,Wages and Tips,121459.59,121459.59,True,ADP2
+29,Federal Income Tax Withheld,41174.90,41174.90,True,ADP2
+29,Social Security Wages,144405.72,144405.72,True,ADP2
+29,Medicare Wages and Tips,98590.29,98590.29,True,ADP2
+29,State 1,WI,WI,True,ADP2
+29,State 1 Wages and Tips,65909.52,65909.52,True,ADP2
+29,State 1 Income Tax Withheld,5951.87,5951.87,True,ADP2
+29,State 2,,,True,ADP2
+29,State 2 Wages and Tips,,,True,ADP2
+29,State 2 Income Tax Withheld,,,True,ADP2
+29,Field Count Check,Yes,Yes,True,ADP2
+30,Employee Name,Jason Edwards,Jason Edwards,True,ADP2
+30,Employer Name,Johnston-Diaz Ltd,Johnston-Diaz Ltd,True,ADP2
+30,Wages and Tips,94952.85,94952.85,True,ADP2
+30,Federal Income Tax Withheld,16540.33,16540.33,True,ADP2
+30,Social Security Wages,108257.22,108257.22,True,ADP2
+30,Medicare Wages and Tips,79996.43,79996.43,True,ADP2
+30,State 1,OR,OR,True,ADP2
+30,State 1 Wages and Tips,49567.41,49567.41,True,ADP2
+30,State 1 Income Tax Withheld,1920.53,1920.53,True,ADP2
+30,State 2,,,True,ADP2
+30,State 2 Wages and Tips,,,True,ADP2
+30,State 2 Income Tax Withheld,,,True,ADP2
+30,Field Count Check,Yes,Yes,True,ADP2
+31,Employee Name,Natalie Thompson,Natalie Thompson,True,ADP2
+31,Employer Name,King-Conrad LLC,King-Conrad LLC,True,ADP2
+31,Wages and Tips,224863.08,224863.08,True,ADP2
+31,Federal Income Tax Withheld,25845.60,25845.60,True,ADP2
+31,Social Security Wages,189658.20,189658.20,True,ADP2
+31,Medicare Wages and Tips,213604.61,213604.61,True,ADP2
+31,State 1,ME,ME,True,ADP2
+31,State 1 Wages and Tips,118132.98,118132.98,True,ADP2
+31,State 1 Income Tax Withheld,5833.87,5833.87,True,ADP2
+31,State 2,,,True,ADP2
+31,State 2 Wages and Tips,,,True,ADP2
+31,State 2 Income Tax Withheld,,,True,ADP2
+31,Field Count Check,Yes,Yes,True,ADP2
+32,Employee Name,Taylor Watts,Taylor Watts,True,ADP2
+32,Employer Name,Waller-Hammond Group,Waller-Hammond Group,True,ADP2
+32,Wages and Tips,158916.89,158916.89,True,ADP2
+32,Federal Income Tax Withheld,34883.22,34883.22,True,ADP2
+32,Social Security Wages,142978.09,142978.09,True,ADP2
+32,Medicare Wages and Tips,149412.95,149412.95,True,ADP2
+32,State 1,AZ,AZ,True,ADP2
+32,State 1 Wages and Tips,75239.97,75239.97,True,ADP2
+32,State 1 Income Tax Withheld,3710.61,3710.61,True,ADP2
+32,State 2,,,True,ADP2
+32,State 2 Wages and Tips,,,True,ADP2
+32,State 2 Income Tax Withheld,,,True,ADP2
+32,Field Count Check,Yes,Yes,True,ADP2
+33,Employee Name,Edward Valdez,Edward Valdez,True,ADP2
+33,Employer Name,"Jackson, Black and Coleman Ltd","Jackson, Black and Coleman Ltd",True,ADP2
+33,Wages and Tips,67768.27,67768.27,True,ADP2
+33,Federal Income Tax Withheld,22110.14,22110.14,True,ADP2
+33,Social Security Wages,80965.34,80965.34,True,ADP2
+33,Medicare Wages and Tips,56086.09,56086.09,True,ADP2
+33,State 1,MI,MI,True,ADP2
+33,State 1 Wages and Tips,33522.47,33522.47,True,ADP2
+33,State 1 Income Tax Withheld,2453.72,2453.72,True,ADP2
+33,State 2,,,True,ADP2
+33,State 2 Wages and Tips,,,True,ADP2
+33,State 2 Income Tax Withheld,,,True,ADP2
+33,Field Count Check,Yes,Yes,True,ADP2
+34,Employee Name,Lynn Miranda,Lynn Miranda,True,ADP2
+34,Employer Name,"Collins, Potter and Hill Inc","Collins, Potter and Hill Inc",True,ADP2
+34,Wages and Tips,67328.87,67328.87,True,ADP2
+34,Federal Income Tax Withheld,10223.79,10223.79,True,ADP2
+34,Social Security Wages,63436.14,63436.14,True,ADP2
+34,Medicare Wages and Tips,66021.75,66021.75,True,ADP2
+34,State 1,IA,IA,True,ADP2
+34,State 1 Wages and Tips,32567.59,32567.59,True,ADP2
+34,State 1 Income Tax Withheld,2374.56,2374.56,True,ADP2
+34,State 2,,,True,ADP2
+34,State 2 Wages and Tips,,,True,ADP2
+34,State 2 Income Tax Withheld,,,True,ADP2
+34,Field Count Check,Yes,Yes,True,ADP2
+35,Employee Name,Amanda Hale,Amanda Hale,True,ADP2
+35,Employer Name,Martinez-Petty LLC,Martinez-Petty LLC,True,ADP2
+35,Wages and Tips,129454.28,129454.28,True,ADP2
+35,Federal Income Tax Withheld,27149.71,27149.71,True,ADP2
+35,Social Security Wages,154821.10,154821.10,True,ADP2
+35,Medicare Wages and Tips,117419.63,117419.63,True,ADP2
+35,State 1,OR,OR,True,ADP2
+35,State 1 Wages and Tips,59308.91,59308.91,True,ADP2
+35,State 1 Income Tax Withheld,4194.36,4194.36,True,ADP2
+35,State 2,,,True,ADP2
+35,State 2 Wages and Tips,,,True,ADP2
+35,State 2 Income Tax Withheld,,,True,ADP2
+35,Field Count Check,Yes,Yes,True,ADP2
+36,Employee Name,Tamara Parker,Tamara Parker,True,ADP2
+36,Employer Name,Wright-Mullins LLC,Wright-Mullins LLC,True,ADP2
+36,Wages and Tips,217121.52,217121.52,True,ADP2
+36,Federal Income Tax Withheld,59149.63,59149.63,True,ADP2
+36,Social Security Wages,272926.45,272926.45,True,ADP2
+36,Medicare Wages and Tips,164326.30,164326.30,True,ADP2
+36,State 1,HI,HI,True,ADP2
+36,State 1 Wages and Tips,106414.23,106414.23,True,ADP2
+36,State 1 Income Tax Withheld,8331.14,8331.14,True,ADP2
+36,State 2,,,True,ADP2
+36,State 2 Wages and Tips,,,True,ADP2
+36,State 2 Income Tax Withheld,,,True,ADP2
+36,Field Count Check,Yes,Yes,True,ADP2
+37,Employee Name,Eric Williams,Eric Williams,True,ADP2
+37,Employer Name,Davis LLC LLC,Davis LLC LLC,True,ADP2
+37,Wages and Tips,179553.17,179553.17,True,ADP2
+37,Federal Income Tax Withheld,63904.04,63904.04,True,ADP2
+37,Social Security Wages,150330.34,150330.34,True,ADP2
+37,Medicare Wages and Tips,178137.74,178137.74,True,ADP2
+37,State 1,WY,WY,True,ADP2
+37,State 1 Wages and Tips,87372.24,87372.24,True,ADP2
+37,State 1 Income Tax Withheld,3346.50,3346.50,True,ADP2
+37,State 2,,,True,ADP2
+37,State 2 Wages and Tips,,,True,ADP2
+37,State 2 Income Tax Withheld,,,True,ADP2
+37,Field Count Check,Yes,Yes,True,ADP2
+38,Employee Name,Francisco Pierce,Francisco Pierce,True,ADP2
+38,Employer Name,Browning LLC Ltd,Browning LLC Ltd,True,ADP2
+38,Wages and Tips,72866.96,72866.96,True,ADP2
+38,Federal Income Tax Withheld,17704.07,17704.07,True,ADP2
+38,Social Security Wages,76981.85,76981.85,True,ADP2
+38,Medicare Wages and Tips,74634.25,74634.25,True,ADP2
+38,State 1,KS,KS,True,ADP2
+38,State 1 Wages and Tips,37635.07,37635.07,True,ADP2
+38,State 1 Income Tax Withheld,2991.77,2991.77,True,ADP2
+38,State 2,,,True,ADP2
+38,State 2 Wages and Tips,,,True,ADP2
+38,State 2 Income Tax Withheld,,,True,ADP2
+38,Field Count Check,Yes,Yes,True,ADP2
+39,Employee Name,Logan Sparks,Logan Sparks,True,ADP2
+39,Employer Name,Torres-Campos Ltd,Torres-Campos Ltd,True,ADP2
+39,Wages and Tips,170026.02,170026.02,True,ADP2
+39,Federal Income Tax Withheld,18056.06,18056.06,True,ADP2
+39,Social Security Wages,173411.04,173411.04,True,ADP2
+39,Medicare Wages and Tips,188227.23,188227.23,True,ADP2
+39,State 1,TN,TN,True,ADP2
+39,State 1 Wages and Tips,81242.84,81242.84,True,ADP2
+39,State 1 Income Tax Withheld,7546.37,7546.37,True,ADP2
+39,State 2,,,True,ADP2
+39,State 2 Wages and Tips,,,True,ADP2
+39,State 2 Income Tax Withheld,,,True,ADP2
+39,Field Count Check,Yes,Yes,True,ADP2
+40,Employee Name,Dustin Ford,Dustin Ford,True,ADP2
+40,Employer Name,"Crawford, Marquez and Martin Ltd","Crawford, Marquez and Martin Ltd",True,ADP2
+40,Wages and Tips,167194.56,167194.56,True,ADP2
+40,Federal Income Tax Withheld,48973.11,48973.11,True,ADP2
+40,Social Security Wages,158800.38,158800.38,True,ADP2
+40,Medicare Wages and Tips,188082.20,188082.20,True,ADP2
+40,State 1,FL,FL,True,ADP2
+40,State 1 Wages and Tips,86115.66,86115.66,True,ADP2
+40,State 1 Income Tax Withheld,7255.02,7255.02,True,ADP2
+40,State 2,,,True,ADP2
+40,State 2 Wages and Tips,,,True,ADP2
+40,State 2 Income Tax Withheld,,,True,ADP2
+40,Field Count Check,Yes,Yes,True,ADP2
+41,Employee Name,Jessica Arellano,Jessica Arellano,True,ADP2
+41,Employer Name,Shields Inc Group,Shields Inc Group,True,ADP2
+41,Wages and Tips,116343.88,116343.88,True,ADP2
+41,Federal Income Tax Withheld,14883.64,14883.64,True,ADP2
+41,Social Security Wages,90617.08,90617.08,True,ADP2
+41,Medicare Wages and Tips,146763.35,146763.35,True,ADP2
+41,State 1,OH,OH,True,ADP2
+41,State 1 Wages and Tips,60221.17,60221.17,True,ADP2
+41,State 1 Income Tax Withheld,6167.30,6167.30,True,ADP2
+41,State 2,,,True,ADP2
+41,State 2 Wages and Tips,,,True,ADP2
+41,State 2 Income Tax Withheld,,,True,ADP2
+41,Field Count Check,Yes,Yes,True,ADP2
+42,Employee Name,Paul Oneal,Paul Oneal,True,ADP2
+42,Employer Name,Edwards Inc PLC,Edwards Inc PLC,True,ADP2
+42,Wages and Tips,100685.61,100685.61,True,ADP2
+42,Federal Income Tax Withheld,15340.30,15340.30,True,ADP2
+42,Social Security Wages,104087.79,104087.79,True,ADP2
+42,Medicare Wages and Tips,105685.69,105685.69,True,ADP2
+42,State 1,CA,CA,True,ADP2
+42,State 1 Wages and Tips,52757.35,52757.35,True,ADP2
+42,State 1 Income Tax Withheld,4189.84,4189.84,True,ADP2
+42,State 2,,,True,ADP2
+42,State 2 Wages and Tips,,,True,ADP2
+42,State 2 Income Tax Withheld,,,True,ADP2
+42,Field Count Check,Yes,Yes,True,ADP2
+43,Employee Name,Debra Garcia,Debra Garcia,True,ADP2
+43,Employer Name,Reeves and Sons Group,Reeves and Sons Group,True,ADP2
+43,Wages and Tips,182042.65,182042.65,True,ADP2
+43,Federal Income Tax Withheld,55164.76,55164.76,True,ADP2
+43,Social Security Wages,234196.10,234196.10,True,ADP2
+43,Medicare Wages and Tips,147592.92,147592.92,True,ADP2
+43,State 1,SC,SC,True,ADP2
+43,State 1 Wages and Tips,95039.35,95039.35,True,ADP2
+43,State 1 Income Tax Withheld,4194.67,4194.67,True,ADP2
+43,State 2,,,True,ADP2
+43,State 2 Wages and Tips,,,True,ADP2
+43,State 2 Income Tax Withheld,,,True,ADP2
+43,Field Count Check,Yes,Yes,True,ADP2
+44,Employee Name,Janet Maldonado,Janet Maldonado,True,ADP2
+44,Employer Name,Deleon Ltd PLC,Deleon Ltd PLC,True,ADP2
+44,Wages and Tips,100735.35,100735.35,True,ADP2
+44,Federal Income Tax Withheld,12117.21,12117.21,True,ADP2
+44,Social Security Wages,117510.60,117510.60,True,ADP2
+44,Medicare Wages and Tips,81666.71,81666.71,True,ADP2
+44,State 1,WV,WV,True,ADP2
+44,State 1 Wages and Tips,47638.23,47638.23,True,ADP2
+44,State 1 Income Tax Withheld,3373.18,3373.18,True,ADP2
+44,State 2,,,True,ADP2
+44,State 2 Wages and Tips,,,True,ADP2
+44,State 2 Income Tax Withheld,,,True,ADP2
+44,Field Count Check,Yes,Yes,True,ADP2
+45,Employee Name,Jennifer West,Jennifer West,True,ADP2
+45,Employer Name,Logan-Jones PLC,Logan-Jones PLC,True,ADP2
+45,Wages and Tips,81342.73,81342.73,True,ADP2
+45,Federal Income Tax Withheld,18541.17,18541.17,True,ADP2
+45,Social Security Wages,84679.79,84679.79,True,ADP2
+45,Medicare Wages and Tips,78419.15,78419.15,True,ADP2
+45,State 1,MA,MA,True,ADP2
+45,State 1 Wages and Tips,41311.04,41311.04,True,ADP2
+45,State 1 Income Tax Withheld,1984.64,1984.64,True,ADP2
+45,State 2,,,True,ADP2
+45,State 2 Wages and Tips,,,True,ADP2
+45,State 2 Income Tax Withheld,,,True,ADP2
+45,Field Count Check,Yes,Yes,True,ADP2
+46,Employee Name,Mark Smith,Mark Smith,True,ADP2
+46,Employer Name,"Lopez, Harris and Thomas Inc","Lopez, Harris and Thomas Inc",True,ADP2
+46,Wages and Tips,106989.48,106989.48,True,ADP2
+46,Federal Income Tax Withheld,17610.02,17610.02,True,ADP2
+46,Social Security Wages,124686.17,124686.17,True,ADP2
+46,Medicare Wages and Tips,129274.26,129274.26,True,ADP2
+46,State 1,OK,OK,True,ADP2
+46,State 1 Wages and Tips,50787.90,50787.90,True,ADP2
+46,State 1 Income Tax Withheld,6743.02,6743.02,True,ADP2
+46,State 2,,,True,ADP2
+46,State 2 Wages and Tips,,,True,ADP2
+46,State 2 Income Tax Withheld,,,True,ADP2
+46,Field Count Check,Yes,Yes,True,ADP2
+47,Employee Name,Jordan Clark,Jordan Clark,True,ADP2
+47,Employer Name,Mack-Clark LLC,Mack-Clark LLC,True,ADP2
+47,Wages and Tips,234405.35,234405.35,True,ADP2
+47,Federal Income Tax Withheld,71288.69,71288.69,True,ADP2
+47,Social Security Wages,236532.35,236532.35,True,ADP2
+47,Medicare Wages and Tips,164679.76,164679.76,True,ADP2
+47,State 1,MN,MN,True,ADP2
+47,State 1 Wages and Tips,124391.78,124391.78,True,ADP2
+47,State 1 Income Tax Withheld,13323.12,13323.12,True,ADP2
+47,State 2,,,True,ADP2
+47,State 2 Wages and Tips,,,True,ADP2
+47,State 2 Income Tax Withheld,,,True,ADP2
+47,Field Count Check,Yes,Yes,True,ADP2
+48,Employee Name,Maria Gilmore,Maria Gilmore,True,ADP2
+48,Employer Name,"Moore, Morales and Rodriguez Group","Moore, Morales and Rodriguez Group",True,ADP2
+48,Wages and Tips,125957.50,125957.50,True,ADP2
+48,Federal Income Tax Withheld,32266.75,32266.75,True,ADP2
+48,Social Security Wages,143307.79,143307.79,True,ADP2
+48,Medicare Wages and Tips,106535.26,106535.26,True,ADP2
+48,State 1,AK,AK,True,ADP2
+48,State 1 Wages and Tips,56901.10,56901.10,True,ADP2
+48,State 1 Income Tax Withheld,4549.45,4549.45,True,ADP2
+48,State 2,,,True,ADP2
+48,State 2 Wages and Tips,,,True,ADP2
+48,State 2 Income Tax Withheld,,,True,ADP2
+48,Field Count Check,Yes,Yes,True,ADP2
+49,Employee Name,Dawn Johnson,Dawn Johnson,True,ADP2
+49,Employer Name,Williams Inc Inc,Williams Inc Inc,True,ADP2
+49,Wages and Tips,88023.79,88023.79,True,ADP2
+49,Federal Income Tax Withheld,30162.58,30162.58,True,ADP2
+49,Social Security Wages,111310.47,111310.47,True,ADP2
+49,Medicare Wages and Tips,94797.57,94797.57,True,ADP2
+49,State 1,NC,NC,True,ADP2
+49,State 1 Wages and Tips,40973.84,40973.84,True,ADP2
+49,State 1 Income Tax Withheld,3754.31,3754.31,True,ADP2
+49,State 2,,,True,ADP2
+49,State 2 Wages and Tips,,,True,ADP2
+49,State 2 Income Tax Withheld,,,True,ADP2
+49,Field Count Check,Yes,Yes,True,ADP2
+50,Employee Name,Benjamin Burch,Benjamin Burch,True,IRS1
+50,Employer Name,"Ward, Allison and Jimenez Inc","Ward, Allison and Jimenez Inc",True,IRS1
+50,Wages and Tips,209665.25,209665.25,True,IRS1
+50,Federal Income Tax Withheld,53423.50,53423.50,True,IRS1
+50,Social Security Wages,272174.17,272174.17,True,IRS1
+50,Medicare Wages and Tips,225347.99,225347.99,True,IRS1
+50,State 1,UT,UT,True,IRS1
+50,State 1 Wages and Tips,101914.73,101914.73,True,IRS1
+50,State 1 Income Tax Withheld,6744.55,6744.55,True,IRS1
+50,State 2,MS,MS,True,IRS1
+50,State 2 Wages and Tips,111269.12,111269.12,True,IRS1
+50,State 2 Income Tax Withheld,7135.46,7135.46,True,IRS1
+50,Field Count Check,Yes,Yes,True,IRS1
+51,Employee Name,Kevin David,Kevin David,True,IRS1
+51,Employer Name,Nolan-Conley LLC,Nolan-Conley LLC,True,IRS1
+51,Wages and Tips,110531.70,110531.70,True,IRS1
+51,Federal Income Tax Withheld,20338.94,20338.94,True,IRS1
+51,Social Security Wages,92010.56,92010.56,True,IRS1
+51,Medicare Wages and Tips,143486.80,143486.80,True,IRS1
+51,State 1,IN,IN,True,IRS1
+51,State 1 Wages and Tips,59730.53,59730.53,True,IRS1
+51,State 1 Income Tax Withheld,2878.00,2878.00,True,IRS1
+51,State 2,MA,MA,True,IRS1
+51,State 2 Wages and Tips,53139.71,53139.71,True,IRS1
+51,State 2 Income Tax Withheld,2444.56,2444.56,True,IRS1
+51,Field Count Check,Yes,Yes,True,IRS1
+52,Employee Name,Leonard Santos,Leonard Santos,True,IRS1
+52,Employer Name,Ramirez Inc PLC,Ramirez Inc PLC,True,IRS1
+52,Wages and Tips,191413.14,191413.14,True,IRS1
+52,Federal Income Tax Withheld,20411.03,20411.03,True,IRS1
+52,Social Security Wages,237221.81,237221.81,True,IRS1
+52,Medicare Wages and Tips,203385.19,203385.19,True,IRS1
+52,State 1,WA,WA,True,IRS1
+52,State 1 Wages and Tips,95437.14,95437.14,True,IRS1
+52,State 1 Income Tax Withheld,4703.28,4703.28,True,IRS1
+52,State 2,CT,CT,True,IRS1
+52,State 2 Wages and Tips,99440.88,99440.88,True,IRS1
+52,State 2 Income Tax Withheld,4486.37,4486.37,True,IRS1
+52,Field Count Check,Yes,Yes,True,IRS1
+53,Employee Name,Suzanne Cooper,Suzanne Cooper,True,IRS1
+53,Employer Name,Malone and Sons PLC,Malone and Sons PLC,True,IRS1
+53,Wages and Tips,109697.19,109697.19,True,IRS1
+53,Federal Income Tax Withheld,32403.04,32403.04,True,IRS1
+53,Social Security Wages,97797.42,97797.42,True,IRS1
+53,Medicare Wages and Tips,126740.74,126740.74,True,IRS1
+53,State 1,MI,MI,True,IRS1
+53,State 1 Wages and Tips,53275.84,53275.84,True,IRS1
+53,State 1 Income Tax Withheld,3335.04,3335.04,True,IRS1
+53,State 2,KS,KS,True,IRS1
+53,State 2 Wages and Tips,55084.80,55084.80,True,IRS1
+53,State 2 Income Tax Withheld,3845.07,3845.07,True,IRS1
+53,Field Count Check,Yes,Yes,True,IRS1
+54,Employee Name,Luis Crosby,Luis Crosby,True,IRS1
+54,Employer Name,"Hayden, Mercer and Swanson Group","Hayden, Mercer and Swanson Group",True,IRS1
+54,Wages and Tips,168760.56,168760.56,True,IRS1
+54,Federal Income Tax Withheld,48927.19,48927.19,True,IRS1
+54,Social Security Wages,217028.00,217028.00,True,IRS1
+54,Medicare Wages and Tips,119392.91,119392.91,True,IRS1
+54,State 1,MN,MN,True,IRS1
+54,State 1 Wages and Tips,76944.28,76944.28,True,IRS1
+54,State 1 Income Tax Withheld,6204.55,6204.55,True,IRS1
+54,State 2,KS,KS,True,IRS1
+54,State 2 Wages and Tips,91034.04,91034.04,True,IRS1
+54,State 2 Income Tax Withheld,6919.99,6919.99,True,IRS1
+54,Field Count Check,Yes,Yes,True,IRS1
+55,Employee Name,Nathaniel Gonzalez,Nathaniel Gonzalez,True,IRS1
+55,Employer Name,Mcpherson-Martinez Inc,Mcpherson-Martinez Inc,True,IRS1
+55,Wages and Tips,49328.84,49328.84,True,IRS1
+55,Federal Income Tax Withheld,14215.85,14215.85,True,IRS1
+55,Social Security Wages,56148.34,56148.34,True,IRS1
+55,Medicare Wages and Tips,46084.10,46084.10,True,IRS1
+55,State 1,AR,AR,True,IRS1
+55,State 1 Wages and Tips,23185.84,23185.84,True,IRS1
+55,State 1 Income Tax Withheld,2986.98,2986.98,True,IRS1
+55,State 2,NC,NC,True,IRS1
+55,State 2 Wages and Tips,22752.32,22752.32,True,IRS1
+55,State 2 Income Tax Withheld,2504.33,2504.33,True,IRS1
+55,Field Count Check,Yes,Yes,True,IRS1
+56,Employee Name,Patricia Gibson,Patricia Gibson,True,IRS1
+56,Employer Name,"Washington, Smith and Simpson PLC","Washington, Smith and Simpson PLC",True,IRS1
+56,Wages and Tips,202643.68,202643.68,True,IRS1
+56,Federal Income Tax Withheld,26981.59,26981.59,True,IRS1
+56,Social Security Wages,154896.18,154896.18,True,IRS1
+56,Medicare Wages and Tips,202737.90,202737.90,True,IRS1
+56,State 1,MA,MA,True,IRS1
+56,State 1 Wages and Tips,99356.08,99356.08,True,IRS1
+56,State 1 Income Tax Withheld,6246.78,6246.78,True,IRS1
+56,State 2,CT,CT,True,IRS1
+56,State 2 Wages and Tips,107516.39,107516.39,True,IRS1
+56,State 2 Income Tax Withheld,6944.47,6944.47,True,IRS1
+56,Field Count Check,Yes,Yes,True,IRS1
+57,Employee Name,Kimberly Nunez,Kimberly Nunez,True,IRS1
+57,Employer Name,Smith-Robbins PLC,Smith-Robbins PLC,True,IRS1
+57,Wages and Tips,193091.22,193091.22,True,IRS1
+57,Federal Income Tax Withheld,41576.80,41576.80,True,IRS1
+57,Social Security Wages,212786.93,212786.93,True,IRS1
+57,Medicare Wages and Tips,146347.53,146347.53,True,IRS1
+57,State 1,PA,PA,True,IRS1
+57,State 1 Wages and Tips,87557.10,87557.10,True,IRS1
+57,State 1 Income Tax Withheld,9128.26,9128.26,True,IRS1
+57,State 2,NE,NE,True,IRS1
+57,State 2 Wages and Tips,88143.99,88143.99,True,IRS1
+57,State 2 Income Tax Withheld,10290.93,10290.93,True,IRS1
+57,Field Count Check,Yes,Yes,True,IRS1
+58,Employee Name,Ricky Franklin,Ricky Franklin,True,IRS1
+58,Employer Name,Mendoza-Ruiz Inc,Mendoza-Ruiz Inc,True,IRS1
+58,Wages and Tips,211698.37,211698.37,True,IRS1
+58,Federal Income Tax Withheld,69690.62,69690.62,True,IRS1
+58,Social Security Wages,195254.17,195254.17,True,IRS1
+58,Medicare Wages and Tips,198034.16,198034.16,True,IRS1
+58,State 1,VA,VA,True,IRS1
+58,State 1 Wages and Tips,112767.40,112767.40,True,IRS1
+58,State 1 Income Tax Withheld,7884.59,7884.59,True,IRS1
+58,State 2,AR,AR,True,IRS1
+58,State 2 Wages and Tips,113930.54,113930.54,True,IRS1
+58,State 2 Income Tax Withheld,12147.81,12147.81,True,IRS1
+58,Field Count Check,Yes,Yes,True,IRS1
+59,Employee Name,Donald Hobbs,Donald Hobbs,True,IRS1
+59,Employer Name,Arnold-Cuevas and Sons,Arnold-Cuevas and Sons,True,IRS1
+59,Wages and Tips,197057.56,197057.56,True,IRS1
+59,Federal Income Tax Withheld,39818.28,39818.28,True,IRS1
+59,Social Security Wages,154777.55,154777.55,True,IRS1
+59,Medicare Wages and Tips,211965.47,211965.47,True,IRS1
+59,State 1,DE,DE,True,IRS1
+59,State 1 Wages and Tips,105496.90,105496.90,True,IRS1
+59,State 1 Income Tax Withheld,7034.93,7034.93,True,IRS1
+59,State 2,MS,MS,True,IRS1
+59,State 2 Wages and Tips,101620.18,101620.18,True,IRS1
+59,State 2 Income Tax Withheld,11053.64,11053.64,True,IRS1
+59,Field Count Check,Yes,Yes,True,IRS1
+60,Employee Name,Jessica Stevenson,Jessica Stevenson,True,IRS1
+60,Employer Name,"Black, Nguyen and Walton LLC","Black, Nguyen and Walton LLC",True,IRS1
+60,Wages and Tips,125409.41,125409.41,True,IRS1
+60,Federal Income Tax Withheld,32871.70,32871.70,True,IRS1
+60,Social Security Wages,123863.76,123863.76,True,IRS1
+60,Medicare Wages and Tips,104143.05,104143.05,True,IRS1
+60,State 1,ID,ID,True,IRS1
+60,State 1 Wages and Tips,68274.72,68274.72,True,IRS1
+60,State 1 Income Tax Withheld,4558.87,4558.87,True,IRS1
+60,State 2,NV,NV,True,IRS1
+60,State 2 Wages and Tips,58947.68,58947.68,True,IRS1
+60,State 2 Income Tax Withheld,5012.21,5012.21,True,IRS1
+60,Field Count Check,Yes,Yes,True,IRS1
+61,Employee Name,Diane Reyes,Diane Reyes,True,IRS1
+61,Employer Name,"Smith, Evans and Hendricks LLC","Smith, Evans and Hendricks LLC",True,IRS1
+61,Wages and Tips,248637.54,248637.54,True,IRS1
+61,Federal Income Tax Withheld,82937.66,82937.66,True,IRS1
+61,Social Security Wages,188273.72,188273.72,True,IRS1
+61,Medicare Wages and Tips,320962.09,320962.09,True,IRS1
+61,State 1,AK,AK,True,IRS1
+61,State 1 Wages and Tips,112681.86,112681.86,True,IRS1
+61,State 1 Income Tax Withheld,6615.56,6615.56,True,IRS1
+61,State 2,IL,IL,True,IRS1
+61,State 2 Wages and Tips,129923.07,129923.07,True,IRS1
+61,State 2 Income Tax Withheld,5668.50,5668.50,True,IRS1
+61,Field Count Check,Yes,Yes,True,IRS1
+62,Employee Name,James May,James May,True,IRS1
+62,Employer Name,Mata-Ray PLC,Mata-Ray PLC,True,IRS1
+62,Wages and Tips,57879.41,57879.41,True,IRS1
+62,Federal Income Tax Withheld,8877.69,8877.69,True,IRS1
+62,Social Security Wages,53339.23,53339.23,True,IRS1
+62,Medicare Wages and Tips,59863.05,59863.05,True,IRS1
+62,State 1,ME,ME,True,IRS1
+62,State 1 Wages and Tips,30090.50,30090.50,True,IRS1
+62,State 1 Income Tax Withheld,2008.79,2008.79,True,IRS1
+62,State 2,IL,IL,True,IRS1
+62,State 2 Wages and Tips,28897.69,28897.69,True,IRS1
+62,State 2 Income Tax Withheld,2582.75,2582.75,True,IRS1
+62,Field Count Check,Yes,Yes,True,IRS1
+63,Employee Name,Scott Baker,Scott Baker,True,IRS1
+63,Employer Name,Williamson Inc and Sons,Williamson Inc and Sons,True,IRS1
+63,Wages and Tips,195165.08,195165.08,True,IRS1
+63,Federal Income Tax Withheld,31967.95,31967.95,True,IRS1
+63,Social Security Wages,147267.51,147267.51,True,IRS1
+63,Medicare Wages and Tips,245562.89,245562.89,True,IRS1
+63,State 1,OR,OR,True,IRS1
+63,State 1 Wages and Tips,98735.86,98735.86,True,IRS1
+63,State 1 Income Tax Withheld,10334.52,10334.52,True,IRS1
+63,State 2,AK,AK,True,IRS1
+63,State 2 Wages and Tips,104808.53,104808.53,True,IRS1
+63,State 2 Income Tax Withheld,8476.84,8476.84,True,IRS1
+63,Field Count Check,Yes,Yes,True,IRS1
+64,Employee Name,Joseph Butler,Joseph Butler,True,IRS1
+64,Employer Name,"Hunt, Knox and Morgan Inc","Hunt, Knox and Morgan Inc",True,IRS1
+64,Wages and Tips,141025.22,141025.22,True,IRS1
+64,Federal Income Tax Withheld,28756.86,28756.86,True,IRS1
+64,Social Security Wages,110191.96,110191.96,True,IRS1
+64,Medicare Wages and Tips,155756.27,155756.27,True,IRS1
+64,State 1,IA,IA,True,IRS1
+64,State 1 Wages and Tips,70963.38,70963.38,True,IRS1
+64,State 1 Income Tax Withheld,3365.38,3365.38,True,IRS1
+64,State 2,CA,CA,True,IRS1
+64,State 2 Wages and Tips,63940.29,63940.29,True,IRS1
+64,State 2 Income Tax Withheld,2516.51,2516.51,True,IRS1
+64,Field Count Check,Yes,Yes,True,IRS1
+65,Employee Name,Dawn Harris,Dawn Harris,True,IRS1
+65,Employer Name,"Cannon, Diaz and Adkins Inc","Cannon, Diaz and Adkins Inc",True,IRS1
+65,Wages and Tips,238724.37,238724.37,True,IRS1
+65,Federal Income Tax Withheld,35079.80,35079.80,True,IRS1
+65,Social Security Wages,277881.14,277881.14,True,IRS1
+65,Medicare Wages and Tips,184337.69,184337.69,True,IRS1
+65,State 1,NC,NC,True,IRS1
+65,State 1 Wages and Tips,115638.67,115638.67,True,IRS1
+65,State 1 Income Tax Withheld,6891.15,6891.15,True,IRS1
+65,State 2,IN,IN,True,IRS1
+65,State 2 Wages and Tips,113462.27,113462.27,True,IRS1
+65,State 2 Income Tax Withheld,8363.74,8363.74,True,IRS1
+65,Field Count Check,Yes,Yes,True,IRS1
+66,Employee Name,David Perez,David Perez,True,IRS1
+66,Employer Name,Snyder-Nelson Ltd,Snyder-Nelson Ltd,True,IRS1
+66,Wages and Tips,245634.18,245634.18,True,IRS1
+66,Federal Income Tax Withheld,87866.17,87866.17,True,IRS1
+66,Social Security Wages,199149.81,199149.81,True,IRS1
+66,Medicare Wages and Tips,254008.23,254008.23,True,IRS1
+66,State 1,HI,HI,True,IRS1
+66,State 1 Wages and Tips,130579.29,130579.29,True,IRS1
+66,State 1 Income Tax Withheld,6968.62,6968.62,True,IRS1
+66,State 2,AK,AK,True,IRS1
+66,State 2 Wages and Tips,125757.55,125757.55,True,IRS1
+66,State 2 Income Tax Withheld,6405.59,6405.59,True,IRS1
+66,Field Count Check,Yes,Yes,True,IRS1
+67,Employee Name,Jeanne Mullen,Jeanne Mullen,True,IRS1
+67,Employer Name,Bryant Ltd and Sons,Bryant Ltd and Sons,True,IRS1
+67,Wages and Tips,182644.07,182644.07,True,IRS1
+67,Federal Income Tax Withheld,50493.52,50493.52,True,IRS1
+67,Social Security Wages,164747.61,164747.61,True,IRS1
+67,Medicare Wages and Tips,165317.46,165317.46,True,IRS1
+67,State 1,MN,MN,True,IRS1
+67,State 1 Wages and Tips,98269.48,98269.48,True,IRS1
+67,State 1 Income Tax Withheld,5395.06,5395.06,True,IRS1
+67,State 2,HI,HI,True,IRS1
+67,State 2 Wages and Tips,91649.99,91649.99,True,IRS1
+67,State 2 Income Tax Withheld,6424.97,6424.97,True,IRS1
+67,Field Count Check,Yes,Yes,True,IRS1
+68,Employee Name,Ann Greene,Ann Greene,True,IRS1
+68,Employer Name,Ward LLC and Sons,Ward LLC and Sons,True,IRS1
+68,Wages and Tips,224464.93,224464.93,True,IRS1
+68,Federal Income Tax Withheld,77307.24,77307.24,True,IRS1
+68,Social Security Wages,198314.20,198314.20,True,IRS1
+68,Medicare Wages and Tips,281306.94,281306.94,True,IRS1
+68,State 1,NJ,NJ,True,IRS1
+68,State 1 Wages and Tips,123217.09,123217.09,True,IRS1
+68,State 1 Income Tax Withheld,6068.69,6068.69,True,IRS1
+68,State 2,AL,AL,True,IRS1
+68,State 2 Wages and Tips,106991.13,106991.13,True,IRS1
+68,State 2 Income Tax Withheld,5924.24,5924.24,True,IRS1
+68,Field Count Check,Yes,Yes,True,IRS1
+69,Employee Name,Joanne Brown,Joanne Brown,True,IRS1
+69,Employer Name,Brown-Robinson PLC,Brown-Robinson PLC,True,IRS1
+69,Wages and Tips,66753.72,66753.72,True,IRS1
+69,Federal Income Tax Withheld,6849.54,6849.54,True,IRS1
+69,Social Security Wages,57801.10,57801.10,True,IRS1
+69,Medicare Wages and Tips,72290.42,72290.42,True,IRS1
+69,State 1,DE,DE,True,IRS1
+69,State 1 Wages and Tips,34823.21,34823.21,True,IRS1
+69,State 1 Income Tax Withheld,3685.56,3685.56,True,IRS1
+69,State 2,NM,NM,True,IRS1
+69,State 2 Wages and Tips,31772.04,31772.04,True,IRS1
+69,State 2 Income Tax Withheld,2353.15,2353.15,True,IRS1
+69,Field Count Check,Yes,Yes,True,IRS1
+70,Employee Name,Cynthia Evans,Cynthia Evans,True,IRS1
+70,Employer Name,Strickland-Thomas and Sons,Strickland-Thomas and Sons,True,IRS1
+70,Wages and Tips,203417.02,203417.02,True,IRS1
+70,Federal Income Tax Withheld,50205.33,50205.33,True,IRS1
+70,Social Security Wages,164760.51,164760.51,True,IRS1
+70,Medicare Wages and Tips,172996.73,172996.73,True,IRS1
+70,State 1,KY,KY,True,IRS1
+70,State 1 Wages and Tips,108734.78,108734.78,True,IRS1
+70,State 1 Income Tax Withheld,7758.81,7758.81,True,IRS1
+70,State 2,NC,NC,True,IRS1
+70,State 2 Wages and Tips,97953.30,97953.30,True,IRS1
+70,State 2 Income Tax Withheld,7167.40,7167.40,True,IRS1
+70,Field Count Check,Yes,Yes,True,IRS1
+71,Employee Name,Robin Cooke,Robin Cooke,True,IRS1
+71,Employer Name,Walker Group and Sons,Walker Group and Sons,True,IRS1
+71,Wages and Tips,62511.95,62511.95,True,IRS1
+71,Federal Income Tax Withheld,14203.37,14203.37,True,IRS1
+71,Social Security Wages,78648.89,78648.89,True,IRS1
+71,Medicare Wages and Tips,63264.54,63264.54,True,IRS1
+71,State 1,WV,WV,True,IRS1
+71,State 1 Wages and Tips,30482.93,30482.93,True,IRS1
+71,State 1 Income Tax Withheld,1130.20,1130.20,True,IRS1
+71,State 2,FL,FL,True,IRS1
+71,State 2 Wages and Tips,32251.12,32251.12,True,IRS1
+71,State 2 Income Tax Withheld,1092.10,1092.10,True,IRS1
+71,Field Count Check,Yes,Yes,True,IRS1
+72,Employee Name,Bradley Hill,Bradley Hill,True,IRS1
+72,Employer Name,Webb Ltd Group,Webb Ltd Group,True,IRS1
+72,Wages and Tips,212792.18,212792.18,True,IRS1
+72,Federal Income Tax Withheld,39253.58,39253.58,True,IRS1
+72,Social Security Wages,242146.80,242146.80,True,IRS1
+72,Medicare Wages and Tips,174086.86,174086.86,True,IRS1
+72,State 1,VA,VA,True,IRS1
+72,State 1 Wages and Tips,108092.29,108092.29,True,IRS1
+72,State 1 Income Tax Withheld,6122.09,6122.09,True,IRS1
+72,State 2,SD,SD,True,IRS1
+72,State 2 Wages and Tips,103627.29,103627.29,True,IRS1
+72,State 2 Income Tax Withheld,5821.22,5821.22,True,IRS1
+72,Field Count Check,Yes,Yes,True,IRS1
+73,Employee Name,Michelle Hays,Michelle Hays,True,IRS1
+73,Employer Name,Camacho-Ochoa Group,Camacho-Ochoa Group,True,IRS1
+73,Wages and Tips,81793.03,81793.03,True,IRS1
+73,Federal Income Tax Withheld,24504.27,24504.27,True,IRS1
+73,Social Security Wages,61546.64,61546.64,True,IRS1
+73,Medicare Wages and Tips,98860.89,98860.89,True,IRS1
+73,State 1,SD,SD,True,IRS1
+73,State 1 Wages and Tips,42413.97,42413.97,True,IRS1
+73,State 1 Income Tax Withheld,1489.11,1489.11,True,IRS1
+73,State 2,HI,HI,True,IRS1
+73,State 2 Wages and Tips,44318.59,44318.59,True,IRS1
+73,State 2 Income Tax Withheld,1635.73,1635.73,True,IRS1
+73,Field Count Check,Yes,Yes,True,IRS1
+74,Employee Name,Christopher Rogers,Christopher Rogers,True,IRS1
+74,Employer Name,Ross LLC Group,Ross LLC Group,True,IRS1
+74,Wages and Tips,192129.02,192129.02,True,IRS1
+74,Federal Income Tax Withheld,52714.96,52714.96,True,IRS1
+74,Social Security Wages,177600.72,177600.72,True,IRS1
+74,Medicare Wages and Tips,183019.83,183019.83,True,IRS1
+74,State 1,SD,SD,True,IRS1
+74,State 1 Wages and Tips,93676.43,93676.43,True,IRS1
+74,State 1 Income Tax Withheld,5142.92,5142.92,True,IRS1
+74,State 2,MO,MO,True,IRS1
+74,State 2 Wages and Tips,87633.00,87633.00,True,IRS1
+74,State 2 Income Tax Withheld,4998.09,4998.09,True,IRS1
+74,Field Count Check,Yes,Yes,True,IRS1
+75,Employee Name,Travis Lewis,Travis Lewis,True,IRS2
+75,Employer Name,Hebert-Sanchez PLC,Hebert-Sanchez PLC,True,IRS2
+75,Wages and Tips,201001.90,201001.90,True,IRS2
+75,Federal Income Tax Withheld,71155.64,71155.64,True,IRS2
+75,Social Security Wages,252361.47,252361.47,True,IRS2
+75,Medicare Wages and Tips,6830.17,235523.16,False,IRS2
+75,State 1,IL,IL,True,IRS2
+75,State 1 Wages and Tips,97657.05,97657.05,True,IRS2
+75,State 1 Income Tax Withheld,6676.00,6676.00,True,IRS2
+75,State 2,GA,GA,True,IRS2
+75,State 2 Wages and Tips,106759.50,106759.50,True,IRS2
+75,State 2 Income Tax Withheld,6057.55,6057.55,True,IRS2
+75,Field Count Check,Yes,Yes,True,IRS2
+76,Employee Name,Calvin Reyes,Calvin Reyes,True,IRS2
+76,Employer Name,Barrett PLC Inc,Barrett PLC Inc,True,IRS2
+76,Wages and Tips,147067.81,147067.81,True,IRS2
+76,Federal Income Tax Withheld,52046.25,52046.25,True,IRS2
+76,Social Security Wages,161218.91,161218.91,True,IRS2
+76,Medicare Wages and Tips,181620.91,181620.91,True,IRS2
+76,State 1,OR,OR,True,IRS2
+76,State 1 Wages and Tips,72611.82,72611.82,True,IRS2
+76,State 1 Income Tax Withheld,6712.77,6712.77,True,IRS2
+76,State 2,NH,NH,True,IRS2
+76,State 2 Wages and Tips,67111.75,67111.75,True,IRS2
+76,State 2 Income Tax Withheld,6854.35,6854.35,True,IRS2
+76,Field Count Check,Yes,Yes,True,IRS2
+77,Employee Name,David Jones,David Jones,True,IRS2
+77,Employer Name,"Haynes, Brennan and Blair PLC","Haynes, Brennan and Blair PLC",True,IRS2
+77,Wages and Tips,194025.01,194025.01,True,IRS2
+77,Federal Income Tax Withheld,46212.80,46212.80,True,IRS2
+77,Social Security Wages,247751.92,247751.92,True,IRS2
+77,Medicare Wages and Tips,5464.21,188421.16,False,IRS2
+77,State 1,WV,WV,True,IRS2
+77,State 1 Wages and Tips,97840.06,97840.06,True,IRS2
+77,State 1 Income Tax Withheld,7254.97,7254.97,True,IRS2
+77,State 2,NC,NC,True,IRS2
+77,State 2 Wages and Tips,91823.27,91823.27,True,IRS2
+77,State 2 Income Tax Withheld,5340.65,5340.65,True,IRS2
+77,Field Count Check,Yes,Yes,True,IRS2
+78,Employee Name,Rebecca Rivera,Rebecca Rivera,True,IRS2
+78,Employer Name,Martin LLC Ltd,Martin LLC Ltd,True,IRS2
+78,Wages and Tips,115709.06,115709.06,True,IRS2
+78,Federal Income Tax Withheld,34936.61,34936.61,True,IRS2
+78,Social Security Wages,121233.55,121233.55,True,IRS2
+78,Medicare Wages and Tips,2574.88,88788.91,False,IRS2
+78,State 1,OH,OH,True,IRS2
+78,State 1 Wages and Tips,62825.60,62825.60,True,IRS2
+78,State 1 Income Tax Withheld,3967.71,3967.71,True,IRS2
+78,State 2,ID,ID,True,IRS2
+78,State 2 Wages and Tips,60027.45,60027.45,True,IRS2
+78,State 2 Income Tax Withheld,3618.14,3618.14,True,IRS2
+78,Field Count Check,Yes,Yes,True,IRS2
+79,Employee Name,Matthew Dickerson,Matthew Dickerson,True,IRS2
+79,Employer Name,"Flowers, Blanchard and Ibarra and Sons","Flowers, Blanchard and Ibarra and Sons",True,IRS2
+79,Wages and Tips,229992.25,229992.25,True,IRS2
+79,Federal Income Tax Withheld,50474.50,50474.50,True,IRS2
+79,Social Security Wages,162171.50,162171.50,True,IRS2
+79,Medicare Wages and Tips,7769.90,267927.73,False,IRS2
+79,State 1,CA,CA,True,IRS2
+79,State 1 Wages and Tips,123849.93,123849.93,True,IRS2
+79,State 1 Income Tax Withheld,13091.17,13091.17,True,IRS2
+79,State 2,OH,OH,True,IRS2
+79,State 2 Wages and Tips,123325.91,123325.91,True,IRS2
+79,State 2 Income Tax Withheld,10308.81,10308.81,True,IRS2
+79,Field Count Check,Yes,Yes,True,IRS2
+80,Employee Name,Alexander Arroyo,Alexander Arroyo,True,IRS2
+80,Employer Name,Baxter and Sons Ltd,Baxter and Sons Ltd,True,IRS2
+80,Wages and Tips,80898.06,80898.06,True,IRS2
+80,Federal Income Tax Withheld,13910.36,13910.36,True,IRS2
+80,Social Security Wages,60512.04,60512.04,True,IRS2
+80,Medicare Wages and Tips,1799.75,62060.33,False,IRS2
+80,State 1,KY,KY,True,IRS2
+80,State 1 Wages and Tips,42482.44,42482.44,True,IRS2
+80,State 1 Income Tax Withheld,1880.64,1880.64,True,IRS2
+80,State 2,MA,MA,True,IRS2
+80,State 2 Wages and Tips,41676.50,41676.50,True,IRS2
+80,State 2 Income Tax Withheld,1615.49,1615.49,True,IRS2
+80,Field Count Check,Yes,Yes,True,IRS2
+81,Employee Name,Sarah Whitaker,Sarah Whitaker,True,IRS2
+81,Employer Name,Serrano Group and Sons,Serrano Group and Sons,True,IRS2
+81,Wages and Tips,85971.25,85971.25,True,IRS2
+81,Federal Income Tax Withheld,27445.47,27445.47,True,IRS2
+81,Social Security Wages,98821.52,98821.52,True,IRS2
+81,Medicare Wages and Tips,2745.43,94670.10,False,IRS2
+81,State 1,VT,VT,True,IRS2
+81,State 1 Wages and Tips,43802.55,43802.55,True,IRS2
+81,State 1 Income Tax Withheld,1765.91,1765.91,True,IRS2
+81,State 2,AK,AK,True,IRS2
+81,State 2 Wages and Tips,46555.30,46555.30,True,IRS2
+81,State 2 Income Tax Withheld,1968.56,1968.56,True,IRS2
+81,Field Count Check,Yes,Yes,True,IRS2
+82,Employee Name,Ricky Burns,Ricky Burns,True,IRS2
+82,Employer Name,Myers PLC PLC,Myers PLC PLC,True,IRS2
+82,Wages and Tips,203764.35,203764.35,True,IRS2
+82,Federal Income Tax Withheld,54201.20,54201.20,True,IRS2
+82,Social Security Wages,196998.43,196998.43,True,IRS2
+82,Medicare Wages and Tips,228510.68,228510.68,True,IRS2
+82,State 1,KS,KS,True,IRS2
+82,State 1 Wages and Tips,97298.44,97298.44,True,IRS2
+82,State 1 Income Tax Withheld,6538.70,6538.70,True,IRS2
+82,State 2,IL,IL,True,IRS2
+82,State 2 Wages and Tips,105116.66,105116.66,True,IRS2
+82,State 2 Income Tax Withheld,8006.19,8006.19,True,IRS2
+82,Field Count Check,Yes,Yes,True,IRS2
+83,Employee Name,Jennifer Marsh,Jennifer Marsh,True,IRS2
+83,Employer Name,"Christian, Turner and Moreno LLC","Christian, Turner and Moreno LLC",True,IRS2
+83,Wages and Tips,233867.03,233867.03,True,IRS2
+83,Federal Income Tax Withheld,81441.80,81441.80,True,IRS2
+83,Social Security Wages,242349.10,242349.10,True,IRS2
+83,Medicare Wages and Tips,8295.48,286051.20,False,IRS2
+83,State 1,CT,CT,True,IRS2
+83,State 1 Wages and Tips,116725.06,116725.06,True,IRS2
+83,State 1 Income Tax Withheld,11792.03,11792.03,True,IRS2
+83,State 2,SD,SD,True,IRS2
+83,State 2 Wages and Tips,117955.72,117955.72,True,IRS2
+83,State 2 Income Tax Withheld,9628.93,9628.93,True,IRS2
+83,Field Count Check,Yes,Yes,True,IRS2
+84,Employee Name,Jason Smith,Jason Smith,True,IRS2
+84,Employer Name,Hoover LLC Ltd,Hoover LLC Ltd,True,IRS2
+84,Wages and Tips,202445.63,202445.63,True,IRS2
+84,Federal Income Tax Withheld,69653.53,69653.53,True,IRS2
+84,Social Security Wages,185177.48,185177.48,True,IRS2
+84,Medicare Wages and Tips,178969.42,178969.42,True,IRS2
+84,State 1,NV,NV,True,IRS2
+84,State 1 Wages and Tips,96336.52,96336.52,True,IRS2
+84,State 1 Income Tax Withheld,9600.97,9600.97,True,IRS2
+84,State 2,AL,AL,True,IRS2
+84,State 2 Wages and Tips,94043.84,94043.84,True,IRS2
+84,State 2 Income Tax Withheld,6920.65,6920.65,True,IRS2
+84,Field Count Check,Yes,Yes,True,IRS2
+85,Employee Name,Tristan Humphrey,Tristan Humphrey,True,IRS2
+85,Employer Name,Haynes-Krause and Sons,Haynes-Krause and Sons,True,IRS2
+85,Wages and Tips,54250.52,54250.52,True,IRS2
+85,Federal Income Tax Withheld,8440.40,8440.40,True,IRS2
+85,Social Security Wages,68872.82,68872.82,True,IRS2
+85,Medicare Wages and Tips,59878.45,59878.45,True,IRS2
+85,State 1,CO,CO,True,IRS2
+85,State 1 Wages and Tips,26650.81,26650.81,True,IRS2
+85,State 1 Income Tax Withheld,3036.85,3036.85,True,IRS2
+85,State 2,SD,SD,True,IRS2
+85,State 2 Wages and Tips,25321.03,25321.03,True,IRS2
+85,State 2 Income Tax Withheld,2550.87,2550.87,True,IRS2
+85,Field Count Check,Yes,Yes,True,IRS2
+86,Employee Name,Lisa Smith,Lisa Smith,True,IRS2
+86,Employer Name,Greene-Armstrong Inc,Greene-Armstrong Inc,True,IRS2
+86,Wages and Tips,51899.58,51899.58,True,IRS2
+86,Federal Income Tax Withheld,13737.15,13737.15,True,IRS2
+86,Social Security Wages,39810.38,39810.38,True,IRS2
+86,Medicare Wages and Tips,67405.22,67405.22,True,IRS2
+86,State 1,WI,WI,True,IRS2
+86,State 1 Wages and Tips,24571.09,24571.09,True,IRS2
+86,State 1 Income Tax Withheld,1296.39,1296.39,True,IRS2
+86,State 2,AZ,AZ,True,IRS2
+86,State 2 Wages and Tips,24039.58,24039.58,True,IRS2
+86,State 2 Income Tax Withheld,1337.67,1337.67,True,IRS2
+86,Field Count Check,Yes,Yes,True,IRS2
+87,Employee Name,Joshua Lawson,Joshua Lawson,True,IRS2
+87,Employer Name,Watson and Sons Group,Watson and Sons Group,True,IRS2
+87,Wages and Tips,225171.82,225171.82,True,IRS2
+87,Federal Income Tax Withheld,76269.53,76269.53,True,IRS2
+87,Social Security Wages,181690.14,181690.14,True,IRS2
+87,Medicare Wages and Tips,6925.70,238817.27,False,IRS2
+87,State 1,KY,KY,True,IRS2
+87,State 1 Wages and Tips,123243.77,123243.77,True,IRS2
+87,State 1 Income Tax Withheld,7138.14,7138.14,True,IRS2
+87,State 2,NH,NH,True,IRS2
+87,State 2 Wages and Tips,120737.10,120737.10,True,IRS2
+87,State 2 Income Tax Withheld,7032.74,7032.74,True,IRS2
+87,Field Count Check,Yes,Yes,True,IRS2
+88,Employee Name,John Steele,John Steele,True,IRS2
+88,Employer Name,Gonzales-White Inc,Gonzales-White Inc,True,IRS2
+88,Wages and Tips,89105.67,89105.67,True,IRS2
+88,Federal Income Tax Withheld,21886.27,21886.27,True,IRS2
+88,Social Security Wages,87122.80,87122.80,True,IRS2
+88,Medicare Wages and Tips,75930.08,75930.08,True,IRS2
+88,State 1,GA,GA,True,IRS2
+88,State 1 Wages and Tips,40284.02,40284.02,True,IRS2
+88,State 1 Income Tax Withheld,2755.73,2755.73,True,IRS2
+88,State 2,AZ,AZ,True,IRS2
+88,State 2 Wages and Tips,42383.82,42383.82,True,IRS2
+88,State 2 Income Tax Withheld,2393.18,2393.18,True,IRS2
+88,Field Count Check,Yes,Yes,True,IRS2
+89,Employee Name,Curtis Cunningham,Curtis Cunningham,True,IRS2
+89,Employer Name,"Walker, Hall and Rodriguez Group","Walker, Hall and Rodriguez Group",True,IRS2
+89,Wages and Tips,93819.93,93819.93,True,IRS2
+89,Federal Income Tax Withheld,26578.19,26578.19,True,IRS2
+89,Social Security Wages,117410.45,117410.45,True,IRS2
+89,Medicare Wages and Tips,66253.85,66253.85,True,IRS2
+89,State 1,NC,NC,True,IRS2
+89,State 1 Wages and Tips,44761.69,44761.69,True,IRS2
+89,State 1 Income Tax Withheld,3401.69,3401.69,True,IRS2
+89,State 2,DC,DC,True,IRS2
+89,State 2 Wages and Tips,49335.01,49335.01,True,IRS2
+89,State 2 Income Tax Withheld,4026.58,4026.58,True,IRS2
+89,Field Count Check,Yes,Yes,True,IRS2
+90,Employee Name,Dr. Holly,Dr. Holly,True,IRS2
+90,Employer Name,Mccall-Walker and Sons,Mccall-Walker and Sons,True,IRS2
+90,Wages and Tips,101903.04,101903.04,True,IRS2
+90,Federal Income Tax Withheld,26861.96,26861.96,True,IRS2
+90,Social Security Wages,79000.89,79000.89,True,IRS2
+90,Medicare Wages and Tips,78819.95,78819.95,True,IRS2
+90,State 1,MI,MI,True,IRS2
+90,State 1 Wages and Tips,52978.50,52978.50,True,IRS2
+90,State 1 Income Tax Withheld,5037.37,5037.37,True,IRS2
+90,State 2,KS,KS,True,IRS2
+90,State 2 Wages and Tips,51029.63,51029.63,True,IRS2
+90,State 2 Income Tax Withheld,5646.74,5646.74,True,IRS2
+90,Field Count Check,Yes,Yes,True,IRS2
+91,Employee Name,Wesley Peterson,Wesley Peterson,True,IRS2
+91,Employer Name,Beck Inc Group,Beck Inc Group,True,IRS2
+91,Wages and Tips,160427.52,160427.52,True,IRS2
+91,Federal Income Tax Withheld,35711.58,35711.58,True,IRS2
+91,Social Security Wages,121661.33,121661.33,True,IRS2
+91,Medicare Wages and Tips,117120.30,117120.30,True,IRS2
+91,State 1,VT,VT,True,IRS2
+91,State 1 Wages and Tips,73891.82,73891.82,True,IRS2
+91,State 1 Income Tax Withheld,6448.04,6448.04,True,IRS2
+91,State 2,MI,MI,True,IRS2
+91,State 2 Wages and Tips,86479.19,86479.19,True,IRS2
+91,State 2 Income Tax Withheld,7982.78,7982.78,True,IRS2
+91,Field Count Check,Yes,Yes,True,IRS2
+92,Employee Name,Nicole Maddox,Nicole Maddox,True,IRS2
+92,Employer Name,Clark-Mitchell Ltd,Clark-Mitchell Ltd,True,IRS2
+92,Wages and Tips,176877.11,176877.11,True,IRS2
+92,Federal Income Tax Withheld,43477.44,43477.44,True,IRS2
+92,Social Security Wages,182401.22,182401.22,True,IRS2
+92,Medicare Wages and Tips,6112.82,210786.83,False,IRS2
+92,State 1,NM,NM,True,IRS2
+92,State 1 Wages and Tips,80672.23,80672.23,True,IRS2
+92,State 1 Income Tax Withheld,6009.27,6009.27,True,IRS2
+92,State 2,CT,CT,True,IRS2
+92,State 2 Wages and Tips,88443.18,88443.18,True,IRS2
+92,State 2 Income Tax Withheld,5488.40,5488.40,True,IRS2
+92,Field Count Check,Yes,Yes,True,IRS2
+93,Employee Name,Jeremy Lowe,Jeremy Lowe,True,IRS2
+93,Employer Name,"Smith, Reeves and Conner and Sons","Smith, Reeves and Conner and Sons",True,IRS2
+93,Wages and Tips,68515.40,68515.40,True,IRS2
+93,Federal Income Tax Withheld,15596.90,15596.90,True,IRS2
+93,Social Security Wages,81946.49,81946.49,True,IRS2
+93,Medicare Wages and Tips,2550.16,87936.48,False,IRS2
+93,State 1,IA,IA,True,IRS2
+93,State 1 Wages and Tips,35021.25,35021.25,True,IRS2
+93,State 1 Income Tax Withheld,2379.01,2379.01,True,IRS2
+93,State 2,NE,NE,True,IRS2
+93,State 2 Wages and Tips,33095.23,33095.23,True,IRS2
+93,State 2 Income Tax Withheld,2263.17,2263.17,True,IRS2
+93,Field Count Check,Yes,Yes,True,IRS2
+94,Employee Name,Suzanne Martinez,Suzanne Martinez,True,IRS2
+94,Employer Name,Gray and Sons PLC,Gray and Sons PLC,True,IRS2
+94,Wages and Tips,172752.16,172752.16,True,IRS2
+94,Federal Income Tax Withheld,54266.82,54266.82,True,IRS2
+94,Social Security Wages,205127.45,205127.45,True,IRS2
+94,Medicare Wages and Tips,157684.51,157684.51,True,IRS2
+94,State 1,WY,WY,True,IRS2
+94,State 1 Wages and Tips,87406.34,87406.34,True,IRS2
+94,State 1 Income Tax Withheld,6095.48,6095.48,True,IRS2
+94,State 2,CT,CT,True,IRS2
+94,State 2 Wages and Tips,87656.50,87656.50,True,IRS2
+94,State 2 Income Tax Withheld,7092.02,7092.02,True,IRS2
+94,Field Count Check,Yes,Yes,True,IRS2
+95,Employee Name,Travis Preston,Travis Preston,True,IRS2
+95,Employer Name,Mitchell-Turner PLC,Mitchell-Turner PLC,True,IRS2
+95,Wages and Tips,203772.26,203772.26,True,IRS2
+95,Federal Income Tax Withheld,62909.72,62909.72,True,IRS2
+95,Social Security Wages,221226.36,221226.36,True,IRS2
+95,Medicare Wages and Tips,6895.67,237781.83,False,IRS2
+95,State 1,MA,MA,True,IRS2
+95,State 1 Wages and Tips,92036.38,92036.38,True,IRS2
+95,State 1 Income Tax Withheld,3492.23,3492.23,True,IRS2
+95,State 2,NV,NV,True,IRS2
+95,State 2 Wages and Tips,109666.73,109666.73,True,IRS2
+95,State 2 Income Tax Withheld,4315.88,4315.88,True,IRS2
+95,Field Count Check,Yes,Yes,True,IRS2
+96,Employee Name,Jacob Skinner,Jacob Skinner,True,IRS2
+96,Employer Name,Walker-Howard Inc,Walker-Howard Inc,True,IRS2
+96,Wages and Tips,48791.84,48791.84,True,IRS2
+96,Federal Income Tax Withheld,16579.87,16579.87,True,IRS2
+96,Social Security Wages,47063.08,47063.08,True,IRS2
+96,Medicare Wages and Tips,1401.78,48337.27,False,IRS2
+96,State 1,WV,WV,True,IRS2
+96,State 1 Wages and Tips,26168.10,26168.10,True,IRS2
+96,State 1 Income Tax Withheld,2616.16,2616.16,True,IRS2
+96,State 2,FL,FL,True,IRS2
+96,State 2 Wages and Tips,26061.77,26061.77,True,IRS2
+96,State 2 Income Tax Withheld,2128.68,2128.68,True,IRS2
+96,Field Count Check,Yes,Yes,True,IRS2
+97,Employee Name,Ronnie Maxwell,Ronnie Maxwell,True,IRS2
+97,Employer Name,"Henson, Harrison and Greene Ltd","Henson, Harrison and Greene Ltd",True,IRS2
+97,Wages and Tips,48294.26,48294.26,True,IRS2
+97,Federal Income Tax Withheld,15660.31,15660.31,True,IRS2
+97,Social Security Wages,56238.10,56238.10,True,IRS2
+97,Medicare Wages and Tips,1642.95,56653.33,False,IRS2
+97,State 1,GA,GA,True,IRS2
+97,State 1 Wages and Tips,23253.28,23253.28,True,IRS2
+97,State 1 Income Tax Withheld,1716.13,1716.13,True,IRS2
+97,State 2,MS,MS,True,IRS2
+97,State 2 Wages and Tips,23129.25,23129.25,True,IRS2
+97,State 2 Income Tax Withheld,2296.72,2296.72,True,IRS2
+97,Field Count Check,Yes,Yes,True,IRS2
+98,Employee Name,Lisa Patterson,Lisa Patterson,True,IRS2
+98,Employer Name,"Elliott, West and Gilmore Group","Elliott, West and Gilmore Group",True,IRS2
+98,Wages and Tips,60041.29,60041.29,True,IRS2
+98,Federal Income Tax Withheld,8052.07,8052.07,True,IRS2
+98,Social Security Wages,44181.00,44181.00,True,IRS2
+98,Medicare Wages and Tips,53225.47,53225.47,True,IRS2
+98,State 1,AK,AK,True,IRS2
+98,State 1 Wages and Tips,30117.46,30117.46,True,IRS2
+98,State 1 Income Tax Withheld,1884.28,1884.28,True,IRS2
+98,State 2,DE,DE,True,IRS2
+98,State 2 Wages and Tips,28594.56,28594.56,True,IRS2
+98,State 2 Income Tax Withheld,2014.73,2014.73,True,IRS2
+98,Field Count Check,Yes,Yes,True,IRS2
+99,Employee Name,Katrina Lopez,Katrina Lopez,True,IRS2
+99,Employer Name,Wilson Group PLC,Wilson Group PLC,True,IRS2
+99,Wages and Tips,183276.33,183276.33,True,IRS2
+99,Federal Income Tax Withheld,63293.77,63293.77,True,IRS2
+99,Social Security Wages,163872.60,163872.60,True,IRS2
+99,Medicare Wages and Tips,152346.22,152346.22,True,IRS2
+99,State 1,TX,TX,True,IRS2
+99,State 1 Wages and Tips,87817.70,87817.70,True,IRS2
+99,State 1 Income Tax Withheld,4166.46,4166.46,True,IRS2
+99,State 2,GA,GA,True,IRS2
+99,State 2 Wages and Tips,89289.92,89289.92,True,IRS2
+99,State 2 Income Tax Withheld,4839.76,4839.76,True,IRS2
+99,Field Count Check,Yes,Yes,True,IRS2

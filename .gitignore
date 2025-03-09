@@ -1,0 +1,9 @@
+.venv/
+.datasets/
+.models/
+.ouput/
+.env
+.env.local
+.env.colab
+__pycache__/
+*.pyc

@@ -1,0 +1,15 @@
+Extract the information from the provided W-2 form image and present it in the following JSON structure:
+{
+    "Employee Name": "",
+    "Employer Name": "",
+    "Wages and Tips": "",
+    "Federal Income Tax Withheld": "",
+    "Social Security Wages": "",
+    "Medicare Wages and Tips": "",
+    "State 1": "",
+    "State 1 Wages and Tips": "",
+    "State 1 Income Tax Withheld": "",
+    "State 2": "",
+    "State 2 Wages and Tips": "",
+    "State 2 Income Tax Withheld": ""
+}

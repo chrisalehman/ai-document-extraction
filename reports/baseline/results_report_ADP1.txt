@@ -1,0 +1,378 @@
+
+
+**ADP1 Overall Accuracy**: 52.92%
+
+**ADP1 Field Summary**:
+| Field                       |   total_comparisons |   matches |   mismatches |   accuracy |   mismatch_percentage |
+|:----------------------------|--------------------:|----------:|-------------:|-----------:|----------------------:|
+| Employee Name               |                  25 |        25 |            0 |       1    |               0       |
+| Employer Name               |                  25 |        22 |            3 |       0.88 |               1.96078 |
+| Federal Income Tax Withheld |                  25 |        21 |            4 |       0.84 |               2.61438 |
+| Field Count Check           |                  25 |        25 |            0 |       1    |               0       |
+| Medicare Wages and Tips     |                  25 |         0 |           25 |       0    |              16.3399  |
+| Social Security Wages       |                  25 |         0 |           25 |       0    |              16.3399  |
+| State 1                     |                  25 |        16 |            9 |       0.64 |               5.88235 |
+| State 1 Income Tax Withheld |                  25 |         2 |           23 |       0.08 |              15.0327  |
+| State 1 Wages and Tips      |                  25 |        19 |            6 |       0.76 |               3.92157 |
+| State 2                     |                  25 |        11 |           14 |       0.44 |               9.15033 |
+| State 2 Income Tax Withheld |                  25 |        14 |           11 |       0.56 |               7.18954 |
+| State 2 Wages and Tips      |                  25 |        13 |           12 |       0.52 |               7.84314 |
+| Wages and Tips              |                  25 |         4 |           21 |       0.16 |              13.7255  |
+
+**ADP1 Sample Summary**:
+|   Comparison ID |   total_fields |   matches |   mismatches |   accuracy |
+|----------------:|---------------:|----------:|-------------:|-----------:|
+|               0 |             13 |         9 |            4 |   0.692308 |
+|               1 |             13 |         8 |            5 |   0.615385 |
+|               2 |             13 |         7 |            6 |   0.538462 |
+|               3 |             13 |        10 |            3 |   0.769231 |
+|               4 |             13 |        10 |            3 |   0.769231 |
+|               5 |             13 |         5 |            8 |   0.384615 |
+|               6 |             13 |         8 |            5 |   0.615385 |
+|               7 |             13 |         6 |            7 |   0.461538 |
+|               8 |             13 |         8 |            5 |   0.615385 |
+|               9 |             13 |         8 |            5 |   0.615385 |
+|              10 |             13 |         9 |            4 |   0.692308 |
+|              11 |             13 |         5 |            8 |   0.384615 |
+|              12 |             13 |         6 |            7 |   0.461538 |
+|              13 |             13 |         8 |            5 |   0.615385 |
+|              14 |             13 |         5 |            8 |   0.384615 |
+|              15 |             13 |         2 |           11 |   0.153846 |
+|              16 |             13 |         8 |            5 |   0.615385 |
+|              17 |             13 |         5 |            8 |   0.384615 |
+|              18 |             13 |         8 |            5 |   0.615385 |
+|              19 |             13 |         6 |            7 |   0.461538 |
+|              20 |             13 |         8 |            5 |   0.615385 |
+|              21 |             13 |         4 |            9 |   0.307692 |
+|              22 |             13 |         7 |            6 |   0.538462 |
+|              23 |             13 |         6 |            7 |   0.461538 |
+|              24 |             13 |         6 |            7 |   0.461538 |
+
+**ADP1 Detailed Comparison**:
+|   Comparison ID | Field                       | Predicted Value                  | Ground Truth Value               |   Accuracy % |
+|----------------:|:----------------------------|:---------------------------------|:---------------------------------|-------------:|
+|               0 | Employee Name               | Richard Clay                     | Richard Clay                     |          100 |
+|               0 | Employer Name               | Stewart LLC PLC                  | Stewart LLC PLC                  |          100 |
+|               0 | Federal Income Tax Withheld | 38321.07                         | 38321.07                         |          100 |
+|               0 | Field Count Check           | Yes                              | Yes                              |          100 |
+|               0 | Medicare Wages and Tips     | 7487.17                          | 258178.22                        |            0 |
+|               0 | Social Security Wages       | 264504.45                        | 264058.45                        |            0 |
+|               0 | State 1                     | CA                               | CA                               |          100 |
+|               0 | State 1 Income Tax Withheld | 10323.28                         | 9408.37                          |            0 |
+|               0 | State 1 Wages and Tips      | 111769.70                        | 111769.70                        |          100 |
+|               0 | State 2                     | nan                              | nan                              |          100 |
+|               0 | State 2 Income Tax Withheld | nan                              | nan                              |          100 |
+|               0 | State 2 Wages and Tips      | nan                              | nan                              |          100 |
+|               0 | Wages and Tips              | 212959.47                        | 212599.67                        |            0 |
+|               1 | Employee Name               | Michele Stewart                  | Michele Stewart                  |          100 |
+|               1 | Employer Name               | Fowler and Sons Sons             | Fowler and Sons and Sons         |            0 |
+|               1 | Federal Income Tax Withheld | 14946.90                         | 14946.90                         |          100 |
+|               1 | Field Count Check           | Yes                              | Yes                              |          100 |
+|               1 | Medicare Wages and Tips     | 3147.63                          | 108538.83                        |            0 |
+|               1 | Social Security Wages       | 8965.45                          | 117195.40                        |            0 |
+|               1 | State 1                     | CO                               | CO                               |          100 |
+|               1 | State 1 Income Tax Withheld | 83042.37                         | 3142.29                          |            0 |
+|               1 | State 1 Wages and Tips      | 52462.33                         | 52462.33                         |          100 |
+|               1 | State 2                     | nan                              | nan                              |          100 |
+|               1 | State 2 Income Tax Withheld | nan                              | nan                              |          100 |
+|               1 | State 2 Wages and Tips      | nan                              | nan                              |          100 |
+|               1 | Wages and Tips              | 124942.80                        | 101030.49                        |            0 |
+|               2 | Employee Name               | Robert Hines                     | Robert Hines                     |          100 |
+|               2 | Employer Name               | Scott-Lewis and Sons             | Scott-Lewis and Sons             |          100 |
+|               2 | Federal Income Tax Withheld | 41874.30                         | 41874.30                         |          100 |
+|               2 | Field Count Check           | Yes                              | Yes                              |          100 |
+|               2 | Medicare Wages and Tips     | 2715.06                          | 93622.64                         |            0 |
+|               2 | Social Security Wages       | 10993.49                         | 142921.45                        |            0 |
+|               2 | State 1                     | MD                               | MD                               |          100 |
+|               2 | State 1 Income Tax Withheld | nan                              | 3874.84                          |            0 |
+|               2 | State 1 Wages and Tips      | 66019.13                         | 66019.13                         |          100 |
+|               2 | State 2                     | SD                               | nan                              |            0 |
+|               2 | State 2 Income Tax Withheld | nan                              | nan                              |          100 |
+|               2 | State 2 Wages and Tips      | 11334.81                         | nan                              |            0 |
+|               2 | Wages and Tips              | 181723.90                        | 128916.10                        |            0 |
+|               3 | Employee Name               | Laura Rogers                     | Laura Rogers                     |          100 |
+|               3 | Employer Name               | Johnson-Murray PLC               | Johnson-Murray PLC               |          100 |
+|               3 | Federal Income Tax Withheld | 14534.95                         | 14534.95                         |          100 |
+|               3 | Field Count Check           | Yes                              | Yes                              |          100 |
+|               3 | Medicare Wages and Tips     | 8261.00                          | 106993.93                        |            0 |
+|               3 | Social Security Wages       | 8261.00                          | 107986.99                        |            0 |
+|               3 | State 1                     | LA                               | LA                               |          100 |
+|               3 | State 1 Income Tax Withheld | 11157.70                         | 4807.32                          |            0 |
+|               3 | State 1 Wages and Tips      | 46264.90                         | 46264.90                         |          100 |
+|               3 | State 2                     | nan                              | nan                              |          100 |
+|               3 | State 2 Income Tax Withheld | nan                              | nan                              |          100 |
+|               3 | State 2 Wages and Tips      | nan                              | nan                              |          100 |
+|               3 | Wages and Tips              | 89164.04                         | 89164.04                         |          100 |
+|               4 | Employee Name               | Johnny Snyder                    | Johnny Snyder                    |          100 |
+|               4 | Employer Name               | Cruz-Rodriguez Group             | Cruz-Rodriguez Group             |          100 |
+|               4 | Federal Income Tax Withheld | 57028.12                         | 57028.12                         |          100 |
+|               4 | Field Count Check           | Yes                              | Yes                              |          100 |
+|               4 | Medicare Wages and Tips     | 4410.37                          | 152081.76                        |            0 |
+|               4 | Social Security Wages       | 11880.66                         | 155302.71                        |            0 |
+|               4 | State 1                     | KS                               | KS                               |          100 |
+|               4 | State 1 Income Tax Withheld | 4176.75                          | 4176.75                          |          100 |
+|               4 | State 1 Wages and Tips      | 85181.15                         | 85181.15                         |          100 |
+|               4 | State 2                     | nan                              | nan                              |          100 |
+|               4 | State 2 Income Tax Withheld | nan                              | nan                              |          100 |
+|               4 | State 2 Wages and Tips      | nan                              | nan                              |          100 |
+|               4 | Wages and Tips              | 240998.70                        | 172089.92                        |            0 |
+|               5 | Employee Name               | Alec Stuart                      | Alec Stuart                      |          100 |
+|               5 | Employer Name               | Ross-Owen LLC                    | Ross-Owen LLC                    |          100 |
+|               5 | Federal Income Tax Withheld | 27048.50                         | 27048.50                         |          100 |
+|               5 | Field Count Check           | Yes                              | Yes                              |          100 |
+|               5 | Medicare Wages and Tips     | 4723.83                          | 162890.57                        |            0 |
+|               5 | Social Security Wages       | 175632.86                        | 172226.73                        |            0 |
+|               5 | State 1                     | TN                               | TN                               |          100 |
+|               5 | State 1 Income Tax Withheld | 13175.34                         | 4869.42                          |            0 |
+|               5 | State 1 Wages and Tips      | 17222.73                         | 66698.70                         |            0 |
+|               5 | State 2                     | FL                               | nan                              |            0 |
+|               5 | State 2 Income Tax Withheld | 13245.76                         | nan                              |            0 |
+|               5 | State 2 Wages and Tips      | 44698.70                         | nan                              |            0 |
+|               5 | Wages and Tips              | 175632.86                        | 135409.02                        |            0 |
+|               6 | Employee Name               | Thomas Harrington                | Thomas Harrington                |          100 |
+|               6 | Employer Name               | Marshall-Grant Inc               | Marshall-Grant Inc               |          100 |
+|               6 | Federal Income Tax Withheld | 21016.89                         | 61445.42                         |            0 |
+|               6 | Field Count Check           | Yes                              | Yes                              |          100 |
+|               6 | Medicare Wages and Tips     | 9108.02                          | 314069.58                        |            0 |
+|               6 | Social Security Wages       | 18927.00                         | 262835.13                        |            0 |
+|               6 | State 1                     | VA                               | VA                               |          100 |
+|               6 | State 1 Income Tax Withheld | 20106.89                         | 11895.36                         |            0 |
+|               6 | State 1 Wages and Tips      | 122407.69                        | 122407.69                        |          100 |
+|               6 | State 2                     | nan                              | nan                              |          100 |
+|               6 | State 2 Income Tax Withheld | nan                              | nan                              |          100 |
+|               6 | State 2 Wages and Tips      | nan                              | nan                              |          100 |
+|               6 | Wages and Tips              | 329104.81                        | 247552.50                        |            0 |
+|               7 | Employee Name               | Heather Martin                   | Heather Martin                   |          100 |
+|               7 | Employer Name               | Henderson and Sons Inc           | Henderson and Sons Inc           |          100 |
+|               7 | Federal Income Tax Withheld | 15008.60                         | 15008.60                         |          100 |
+|               7 | Field Count Check           | Yes                              | Yes                              |          100 |
+|               7 | Medicare Wages and Tips     | 1303.10                          | 44934.56                         |            0 |
+|               7 | Social Security Wages       | 62551.48                         | 35949.89                         |            0 |
+|               7 | State 1                     | ME                               | ME                               |          100 |
+|               7 | State 1 Income Tax Withheld | nan                              | 1706.35                          |            0 |
+|               7 | State 1 Wages and Tips      | 21382.66                         | 21382.66                         |          100 |
+|               7 | State 2                     | AK                               | nan                              |            0 |
+|               7 | State 2 Income Tax Withheld | 1642.27                          | nan                              |            0 |
+|               7 | State 2 Wages and Tips      | 44792.71                         | nan                              |            0 |
+|               7 | Wages and Tips              | 62551.48                         | 44792.71                         |            0 |
+|               8 | Employee Name               | Randy Calhoun                    | Randy Calhoun                    |          100 |
+|               8 | Employer Name               | Griffin-Howard Ltd               | Griffin-Howard Ltd               |          100 |
+|               8 | Federal Income Tax Withheld | 63593.70                         | 63593.70                         |          100 |
+|               8 | Field Count Check           | Yes                              | Yes                              |          100 |
+|               8 | Medicare Wages and Tips     | 4531.66                          | 156264.20                        |            0 |
+|               8 | Social Security Wages       | 18792.51                         | 245653.79                        |            0 |
+|               8 | State 1                     | IA                               | SC                               |            0 |
+|               8 | State 1 Income Tax Withheld | 11987.62                         | 11987.62                         |          100 |
+|               8 | State 1 Wages and Tips      | 220511.28                        | 101610.23                        |            0 |
+|               8 | State 2                     | nan                              | nan                              |          100 |
+|               8 | State 2 Income Tax Withheld | nan                              | nan                              |          100 |
+|               8 | State 2 Wages and Tips      | nan                              | nan                              |          100 |
+|               8 | Wages and Tips              | 302897.50                        | 220511.28                        |            0 |
+|               9 | Employee Name               | Barbara Gonzales                 | Barbara Gonzales                 |          100 |
+|               9 | Employer Name               | Collins, Dominguez and Cook PLC  | Collins, Dominguez and Cook PLC  |          100 |
+|               9 | Federal Income Tax Withheld | 46306.98                         | 46306.98                         |          100 |
+|               9 | Field Count Check           | Yes                              | Yes                              |          100 |
+|               9 | Medicare Wages and Tips     | 6650.90                          | 229341.37                        |            0 |
+|               9 | Social Security Wages       | 291139.60                        | 288026.00                        |            0 |
+|               9 | State 1                     | Florida                          | ID                               |            0 |
+|               9 | State 1 Income Tax Withheld | 30383.43                         | 11359.73                         |            0 |
+|               9 | State 1 Wages and Tips      | 105497.72                        | 105497.72                        |          100 |
+|               9 | State 2                     | nan                              | nan                              |          100 |
+|               9 | State 2 Income Tax Withheld | nan                              | nan                              |          100 |
+|               9 | State 2 Wages and Tips      | nan                              | nan                              |          100 |
+|               9 | Wages and Tips              | 222796.64                        | 222798.64                        |            0 |
+|              10 | Employee Name               | Erica Lee                        | Erica Lee                        |          100 |
+|              10 | Employer Name               | Castillo-Schroeder PLC           | Castillo-Schroeder PLC           |          100 |
+|              10 | Federal Income Tax Withheld | 7189.48                          | 7189.48                          |          100 |
+|              10 | Field Count Check           | Yes                              | Yes                              |          100 |
+|              10 | Medicare Wages and Tips     | 1569.11                          | 54107.36                         |            0 |
+|              10 | Social Security Wages       | 58870.00                         | 41868.71                         |            0 |
+|              10 | State 1                     | KS                               | KS                               |          100 |
+|              10 | State 1 Income Tax Withheld | 8134.48                          | 845.38                           |            0 |
+|              10 | State 1 Wages and Tips      | 25909.23                         | 25909.23                         |          100 |
+|              10 | State 2                     | nan                              | nan                              |          100 |
+|              10 | State 2 Income Tax Withheld | nan                              | nan                              |          100 |
+|              10 | State 2 Wages and Tips      | nan                              | nan                              |          100 |
+|              10 | Wages and Tips              | 58869.60                         | 48477.16                         |            0 |
+|              11 | Employee Name               | Tina Bryant                      | Tina Bryant                      |          100 |
+|              11 | Employer Name               | Reed, Middleton and Lynch PLC    | Reed, Middleton and Lynch PLC    |          100 |
+|              11 | Federal Income Tax Withheld | 26192.82                         | 26192.82                         |          100 |
+|              11 | Field Count Check           | Yes                              | Yes                              |          100 |
+|              11 | Medicare Wages and Tips     | 3036.84                          | 104718.48                        |            0 |
+|              11 | Social Security Wages       | 9065.41                          | 118502.15                        |            0 |
+|              11 | State 1                     | MI                               | MI                               |          100 |
+|              11 | State 1 Income Tax Withheld | nan                              | 3841.89                          |            0 |
+|              11 | State 1 Wages and Tips      | 53743.22                         | 53745.22                         |            0 |
+|              11 | State 2                     | HI                               | nan                              |            0 |
+|              11 | State 2 Income Tax Withheld | 19533.39                         | nan                              |            0 |
+|              11 | State 2 Wages and Tips      | 26192.82                         | nan                              |            0 |
+|              11 | Wages and Tips              | 141234.30                        | 105976.02                        |            0 |
+|              12 | Employee Name               | Stacie Bruce                     | Stacie Bruce                     |          100 |
+|              12 | Employer Name               | Terry, Brown and Clark Ltd       | Terry, Brown and Clark Ltd       |          100 |
+|              12 | Federal Income Tax Withheld | 76159.82                         | 76159.82                         |          100 |
+|              12 | Field Count Check           | Yes                              | Yes                              |          100 |
+|              12 | Medicare Wages and Tips     | 5502.01                          | 174207.22                        |            0 |
+|              12 | Social Security Wages       | 14564.69                         | 190388.15                        |            0 |
+|              12 | State 1                     | VA                               | VA                               |          100 |
+|              12 | State 1 Income Tax Withheld | 274943.91                        | 9114.07                          |            0 |
+|              12 | State 1 Wages and Tips      | 112115.42                        | 112115.42                        |          100 |
+|              12 | State 2                     | WA                               | nan                              |            0 |
+|              12 | State 2 Income Tax Withheld | 29866.12                         | nan                              |            0 |
+|              12 | State 2 Wages and Tips      | 123182.72                        | nan                              |            0 |
+|              12 | Wages and Tips              | 235098.14                        | 236986.14                        |            0 |
+|              13 | Employee Name               | Nicholas Perry                   | Nicholas Perry                   |          100 |
+|              13 | Employer Name               | Nelson Group Inc                 | Nelson Group Inc                 |          100 |
+|              13 | Federal Income Tax Withheld | 10259.70                         | 10259.70                         |          100 |
+|              13 | Field Count Check           | Yes                              | Yes                              |          100 |
+|              13 | Medicare Wages and Tips     | 1912.20                          | 65937.92                         |            0 |
+|              13 | Social Security Wages       | 5279.33                          | 69010.85                         |            0 |
+|              13 | State 1                     | KY                               | WY                               |            0 |
+|              13 | State 1 Income Tax Withheld | 8274.25                          | 2630.56                          |            0 |
+|              13 | State 1 Wages and Tips      | 34841.25                         | 34841.25                         |          100 |
+|              13 | State 2                     | nan                              | nan                              |          100 |
+|              13 | State 2 Income Tax Withheld | nan                              | nan                              |          100 |
+|              13 | State 2 Wages and Tips      | nan                              | nan                              |          100 |
+|              13 | Wages and Tips              | 87905.26                         | 72366.23                         |            0 |
+|              14 | Employee Name               | Robin Torres                     | Robin Torres                     |          100 |
+|              14 | Employer Name               | Williams-Myers Inc               | Williams-Myers Inc               |          100 |
+|              14 | Federal Income Tax Withheld | 60479.34                         | 60479.34                         |          100 |
+|              14 | Field Count Check           | Yes                              | Yes                              |          100 |
+|              14 | Medicare Wages and Tips     | 7185.13                          | 247763.27                        |            0 |
+|              14 | Social Security Wages       | 17054.69                         | 228819.45                        |            0 |
+|              14 | State 1                     | TN                               | NC                               |            0 |
+|              14 | State 1 Income Tax Withheld | 60479.34                         | 10509.80                         |            0 |
+|              14 | State 1 Wages and Tips      | 221439.75                        | 107638.10                        |            0 |
+|              14 | State 2                     | NC                               | nan                              |            0 |
+|              14 | State 2 Income Tax Withheld | 17054.69                         | nan                              |            0 |
+|              14 | State 2 Wages and Tips      | 228819.45                        | nan                              |            0 |
+|              14 | Wages and Tips              | 221439.75                        | 221439.75                        |          100 |
+|              15 | Employee Name               | Kristin Hartman                  | Kristin Hartman                  |          100 |
+|              15 | Employer Name               | Mogee-Roberts Ltd                | Mcgee-Roberts Ltd                |            0 |
+|              15 | Federal Income Tax Withheld | 14675.73                         | 16475.73                         |            0 |
+|              15 | Field Count Check           | Yes                              | Yes                              |          100 |
+|              15 | Medicare Wages and Tips     | 3000.72                          | 103473.00                        |            0 |
+|              15 | Social Security Wages       | 104281.69                        | 79605.47                         |            0 |
+|              15 | State 1                     | MI                               | MN                               |            0 |
+|              15 | State 1 Income Tax Withheld | 11779.95                         | 3039.12                          |            0 |
+|              15 | State 1 Wages and Tips      | 51791.91                         | 57191.91                         |            0 |
+|              15 | State 2                     | PA                               | nan                              |            0 |
+|              15 | State 2 Income Tax Withheld | 15446.59                         | nan                              |            0 |
+|              15 | State 2 Wages and Tips      | 74855.29                         | nan                              |            0 |
+|              15 | Wages and Tips              | 126847.24                        | 104281.69                        |            0 |
+|              16 | Employee Name               | Mitchell Kirk                    | Mitchell Kirk                    |          100 |
+|              16 | Employer Name               | White-Harris Group               | White-Harris Group               |          100 |
+|              16 | Federal Income Tax Withheld | 23351.01                         | 23351.01                         |          100 |
+|              16 | Field Count Check           | Yes                              | Yes                              |          100 |
+|              16 | Medicare Wages and Tips     | 2084.44                          | 99463.54                         |            0 |
+|              16 | Social Security Wages       | 8220.00                          | 95765.31                         |            0 |
+|              16 | State 1                     | MI                               | HI                               |            0 |
+|              16 | State 1 Income Tax Withheld | nan                              | 3656.46                          |            0 |
+|              16 | State 1 Wages and Tips      | 42581.88                         | 42581.88                         |          100 |
+|              16 | State 2                     | ND                               | nan                              |            0 |
+|              16 | State 2 Income Tax Withheld | nan                              | nan                              |          100 |
+|              16 | State 2 Wages and Tips      | nan                              | nan                              |          100 |
+|              16 | Wages and Tips              | 84746.51                         | 84746.51                         |          100 |
+|              17 | Employee Name               | Bruce Jones                      | Bruce Jones                      |          100 |
+|              17 | Employer Name               | Gardner-Anderson LLC             | Gardner-Anderson LLC             |          100 |
+|              17 | Federal Income Tax Withheld | 8599.38                          | 8599.38                          |          100 |
+|              17 | Field Count Check           | Yes                              | Yes                              |          100 |
+|              17 | Medicare Wages and Tips     | 1029.24                          | 35491.09                         |            0 |
+|              17 | Social Security Wages       | 54823.41                         | 42332.19                         |            0 |
+|              17 | State 1                     | KY                               | NJ                               |            0 |
+|              17 | State 1 Income Tax Withheld | 3319.22                          | 1285.90                          |            0 |
+|              17 | State 1 Wages and Tips      | 21589.72                         | 21589.72                         |          100 |
+|              17 | State 2                     | OK                               | nan                              |            0 |
+|              17 | State 2 Income Tax Withheld | 0.00                             | nan                              |            0 |
+|              17 | State 2 Wages and Tips      | 0.00                             | nan                              |            0 |
+|              17 | Wages and Tips              | 49395.62                         | 42985.62                         |            0 |
+|              18 | Employee Name               | Aaron Hill                       | Aaron Hill                       |          100 |
+|              18 | Employer Name               | Cherry PLC LLC                   | Cherry PLC LLC                   |          100 |
+|              18 | Federal Income Tax Withheld | 68864.89                         | 68864.89                         |          100 |
+|              18 | Field Count Check           | Yes                              | Yes                              |          100 |
+|              18 | Medicare Wages and Tips     | 7728.96                          | 266516.03                        |            0 |
+|              18 | Social Security Wages       | 14397.71                         | 188074.58                        |            0 |
+|              18 | State 1                     | IN                               | WI                               |            0 |
+|              18 | State 1 Income Tax Withheld | nan                              | 6606.78                          |            0 |
+|              18 | State 1 Wages and Tips      | 114371.57                        | 114371.57                        |          100 |
+|              18 | State 2                     | FL                               | nan                              |            0 |
+|              18 | State 2 Income Tax Withheld | nan                              | nan                              |          100 |
+|              18 | State 2 Wages and Tips      | nan                              | nan                              |          100 |
+|              18 | Wages and Tips              | 231104.78                        | 231104.78                        |          100 |
+|              19 | Employee Name               | Spencer White                    | Spencer White                    |          100 |
+|              19 | Employer Name               | Sanders PLC LLC                  | Sanders PLC LLC                  |          100 |
+|              19 | Federal Income Tax Withheld | 8029.44                          | 8029.44                          |          100 |
+|              19 | Field Count Check           | Yes                              | Yes                              |          100 |
+|              19 | Medicare Wages and Tips     | 1730.04                          | 59656.44                         |            0 |
+|              19 | Social Security Wages       | 3841.42                          | 50214.61                         |            0 |
+|              19 | State 1                     | UT                               | UT                               |          100 |
+|              19 | State 1 Income Tax Withheld | 2444.43                          | 2846.60                          |            0 |
+|              19 | State 1 Wages and Tips      | 34987.05                         | 34987.05                         |          100 |
+|              19 | State 2                     | OK                               | nan                              |            0 |
+|              19 | State 2 Income Tax Withheld | 13265.44                         | nan                              |            0 |
+|              19 | State 2 Wages and Tips      | 59656.44                         | nan                              |            0 |
+|              19 | Wages and Tips              | 76141.73                         | 64270.87                         |            0 |
+|              20 | Employee Name               | Jamie Larsen                     | Jamie Larsen                     |          100 |
+|              20 | Employer Name               | Gibson, Sanchez and Campbell LLC | Gibson, Sanchez and Campbell LLC |          100 |
+|              20 | Federal Income Tax Withheld | 25908.38                         | 25988.38                         |            0 |
+|              20 | Field Count Check           | Yes                              | Yes                              |          100 |
+|              20 | Medicare Wages and Tips     | 4133.99                          | 142551.35                        |            0 |
+|              20 | Social Security Wages       | 8896.67                          | 116296.36                        |            0 |
+|              20 | State 1                     | AR                               | AR                               |          100 |
+|              20 | State 1 Income Tax Withheld | 10402.28                         | 3757.81                          |            0 |
+|              20 | State 1 Wages and Tips      | 69343.61                         | 69343.61                         |          100 |
+|              20 | State 2                     | nan                              | nan                              |          100 |
+|              20 | State 2 Income Tax Withheld | nan                              | nan                              |          100 |
+|              20 | State 2 Wages and Tips      | nan                              | nan                              |          100 |
+|              20 | Wages and Tips              | 176959.87                        | 142074.82                        |            0 |
+|              21 | Employee Name               | Bryan Herring                    | Bryan Herring                    |          100 |
+|              21 | Employer Name               | Luna, Hernandes and Mata PLC     | Luna, Hernandez and Mata PLC     |            0 |
+|              21 | Federal Income Tax Withheld | 48026.60                         | 48268.60                         |            0 |
+|              21 | Field Count Check           | Yes                              | Yes                              |          100 |
+|              21 | Medicare Wages and Tips     | 3032.72                          | 104576.64                        |            0 |
+|              21 | Social Security Wages       | 199943.50                        | 102342.82                        |            0 |
+|              21 | State 1                     | MO                               | MO                               |          100 |
+|              21 | State 1 Income Tax Withheld | 17054.27                         | 5780.14                          |            0 |
+|              21 | State 1 Wages and Tips      | 76108.79                         | 76108.79                         |          100 |
+|              21 | State 2                     | GA                               | nan                              |            0 |
+|              21 | State 2 Income Tax Withheld | 5780.14                          | nan                              |            0 |
+|              21 | State 2 Wages and Tips      | 143845.70                        | nan                              |            0 |
+|              21 | Wages and Tips              | 199943.50                        | 143845.70                        |            0 |
+|              22 | Employee Name               | David Choi                       | David Choi                       |          100 |
+|              22 | Employer Name               | Sanchez-Leon Inc                 | Sanchez-Leon Inc                 |          100 |
+|              22 | Federal Income Tax Withheld | 27856.75                         | 27856.75                         |          100 |
+|              22 | Field Count Check           | Yes                              | Yes                              |          100 |
+|              22 | Medicare Wages and Tips     | 2678.28                          | 92354.49                         |            0 |
+|              22 | Social Security Wages       | 8991.37                          | 117534.27                        |            0 |
+|              22 | State 1                     | MI                               | SD                               |            0 |
+|              22 | State 1 Income Tax Withheld | nan                              | 1906.21                          |            0 |
+|              22 | State 1 Wages and Tips      | 43144.55                         | 43146.55                         |            0 |
+|              22 | State 2                     | nan                              | nan                              |          100 |
+|              22 | State 2 Income Tax Withheld | nan                              | nan                              |          100 |
+|              22 | State 2 Wages and Tips      | nan                              | nan                              |          100 |
+|              22 | Wages and Tips              | 131702.80                        | 94854.66                         |            0 |
+|              23 | Employee Name               | Justin Gonzalez                  | Justin Gonzalez                  |          100 |
+|              23 | Employer Name               | Smith, Rose and French Ltd       | Smith, Rose and French Ltd       |          100 |
+|              23 | Federal Income Tax Withheld | 9981.38                          | 9981.38                          |          100 |
+|              23 | Field Count Check           | Yes                              | Yes                              |          100 |
+|              23 | Medicare Wages and Tips     | 1134.91                          | 39135.00                         |            0 |
+|              23 | Social Security Wages       | 66536.18                         | 41698.60                         |            0 |
+|              23 | State 1                     | UT                               | UT                               |          100 |
+|              23 | State 1 Income Tax Withheld | 0.00                             | 2527.01                          |            0 |
+|              23 | State 1 Wages and Tips      | 26838.41                         | 26838.41                         |          100 |
+|              23 | State 2                     | NH                               | nan                              |            0 |
+|              23 | State 2 Income Tax Withheld | 0.00                             | nan                              |            0 |
+|              23 | State 2 Wages and Tips      | 39337.77                         | nan                              |            0 |
+|              23 | Wages and Tips              | 66536.18                         | 53364.86                         |            0 |
+|              24 | Employee Name               | John Kelly                       | John Kelly                       |          100 |
+|              24 | Employer Name               | Jones Ltd Ltd                    | Jones Ltd Ltd                    |          100 |
+|              24 | Federal Income Tax Withheld | 10020.58                         | 10020.58                         |          100 |
+|              24 | Field Count Check           | Yes                              | Yes                              |          100 |
+|              24 | Medicare Wages and Tips     | 1483.25                          | 51146.50                         |            0 |
+|              24 | Social Security Wages       | 3759.51                          | 49143.87                         |            0 |
+|              24 | State 1                     | WI                               | WI                               |          100 |
+|              24 | State 1 Income Tax Withheld | 62445.42                         | 2200.93                          |            0 |
+|              24 | State 1 Wages and Tips      | 31107.89                         | 31107.89                         |          100 |
+|              24 | State 2                     | AZ                               | nan                              |            0 |
+|              24 | State 2 Income Tax Withheld | 12720.57                         | nan                              |            0 |
+|              24 | State 2 Wages and Tips      | 64016.25                         | nan                              |            0 |
+|              24 | Wages and Tips              | 77796.34                         | 64016.25                         |            0 |
