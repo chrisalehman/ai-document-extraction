@@ -128,7 +128,7 @@ The W2 dataset includes four form types—ADP1, ADP2, IRS1, and IRS2—each pres
 
 ### Setup Instructions
 
-This project is intended to be executed through the notebooks. All three work on Google Colab. The first also works locally (I had issues installing Qwen model binaries on my Mac, so I did all developemnnt for notebooks 2 and 3 on Colab.)
+This project is intended to be executed through the notebooks. All work on Google Colab. The first and last also work locally (I had issues installing Qwen model binaries on my Mac, so I did all developemnnt for notebooks 2 and 3 on Colab.)
 
 The process is as follows: 
 - Open a notebook in [Google Colab](https://colab.research.google.com/) by navigating to the Github repo at `https://github.com/chrisalehman/ai-document-extraction`. 
