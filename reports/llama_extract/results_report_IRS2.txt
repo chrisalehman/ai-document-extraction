@@ -1,0 +1,352 @@
+
+
+**IRS2 Overall Accuracy**: 43.00%
+
+**IRS2 Field Summary**:
+| Field                       |   total_comparisons |   matches |   mismatches |   accuracy |   mismatch_percentage |
+|:----------------------------|--------------------:|----------:|-------------:|-----------:|----------------------:|
+| employee_name               |                  25 |        21 |            4 |       0.84 |               2.33918 |
+| employer_name               |                  25 |        14 |           11 |       0.56 |               6.43275 |
+| federal_income_tax_withheld |                  25 |        25 |            0 |       1    |               0       |
+| medicare_wages_and_tips     |                  25 |        21 |            4 |       0.84 |               2.33918 |
+| social_security_wages       |                  25 |        23 |            2 |       0.92 |               1.16959 |
+| state_1                     |                  25 |         0 |           25 |       0    |              14.6199  |
+| state_1_income_tax_withheld |                  25 |         0 |           25 |       0    |              14.6199  |
+| state_1_wages_and_tips      |                  25 |         0 |           25 |       0    |              14.6199  |
+| state_2                     |                  25 |         0 |           25 |       0    |              14.6199  |
+| state_2_income_tax_withheld |                  25 |         0 |           25 |       0    |              14.6199  |
+| state_2_wages_and_tips      |                  25 |         0 |           25 |       0    |              14.6199  |
+| wages_and_tips              |                  25 |        25 |            0 |       1    |               0       |
+
+**IRS2 Sample Summary**:
+|   Comparison ID |   total_fields |   matches |   mismatches |   accuracy |
+|----------------:|---------------:|----------:|-------------:|-----------:|
+|              75 |             12 |         5 |            7 |   0.416667 |
+|              76 |             12 |         6 |            6 |   0.5      |
+|              77 |             12 |         5 |            7 |   0.416667 |
+|              78 |             12 |         6 |            6 |   0.5      |
+|              79 |             12 |         5 |            7 |   0.416667 |
+|              80 |             12 |         5 |            7 |   0.416667 |
+|              81 |             12 |         5 |            7 |   0.416667 |
+|              82 |             12 |         6 |            6 |   0.5      |
+|              83 |             12 |         5 |            7 |   0.416667 |
+|              84 |             12 |         6 |            6 |   0.5      |
+|              85 |             12 |         5 |            7 |   0.416667 |
+|              86 |             12 |         5 |            7 |   0.416667 |
+|              87 |             12 |         5 |            7 |   0.416667 |
+|              88 |             12 |         4 |            8 |   0.333333 |
+|              89 |             12 |         6 |            6 |   0.5      |
+|              90 |             12 |         4 |            8 |   0.333333 |
+|              91 |             12 |         5 |            7 |   0.416667 |
+|              92 |             12 |         6 |            6 |   0.5      |
+|              93 |             12 |         5 |            7 |   0.416667 |
+|              94 |             12 |         6 |            6 |   0.5      |
+|              95 |             12 |         5 |            7 |   0.416667 |
+|              96 |             12 |         5 |            7 |   0.416667 |
+|              97 |             12 |         6 |            6 |   0.5      |
+|              98 |             12 |         5 |            7 |   0.416667 |
+|              99 |             12 |         3 |            9 |   0.25     |
+
+**IRS2 Detailed Comparison**:
+|   Comparison ID | Field                       | Predicted Value                                                                 | Ground Truth Value                     |   Accuracy % |
+|----------------:|:----------------------------|:--------------------------------------------------------------------------------|:---------------------------------------|-------------:|
+|              75 | employee_name               | Travis Lewis                                                                    | Travis Lewis                           |          100 |
+|              75 | employer_name               | Hebert-Sanchez PLC 938 Erica Shore Aprilton, WA 76490-9174                      | Hebert-Sanchez PLC                     |            0 |
+|              75 | federal_income_tax_withheld | 71155.64                                                                        | 71155.64                               |          100 |
+|              75 | medicare_wages_and_tips     | 235523.16                                                                       | 235523.16                              |          100 |
+|              75 | social_security_wages       | 252361.47                                                                       | 252361.47                              |          100 |
+|              75 | state_1                     | GA                                                                              | IL                                     |            0 |
+|              75 | state_1_income_tax_withheld | 6057.55                                                                         | 6676.00                                |            0 |
+|              75 | state_1_wages_and_tips      | 106759.50                                                                       | 97657.05                               |            0 |
+|              75 | state_2                     | nan                                                                             | GA                                     |            0 |
+|              75 | state_2_income_tax_withheld | nan                                                                             | 6057.55                                |            0 |
+|              75 | state_2_wages_and_tips      | nan                                                                             | 106759.50                              |            0 |
+|              75 | wages_and_tips              | 201001.90                                                                       | 201001.90                              |          100 |
+|              76 | employee_name               | Calvin Reyes                                                                    | Calvin Reyes                           |          100 |
+|              76 | employer_name               | Barrett PLC Inc                                                                 | Barrett PLC Inc                        |          100 |
+|              76 | federal_income_tax_withheld | 52046.25                                                                        | 52046.25                               |          100 |
+|              76 | medicare_wages_and_tips     | 181620.91                                                                       | 181620.91                              |          100 |
+|              76 | social_security_wages       | 161218.91                                                                       | 161218.91                              |          100 |
+|              76 | state_1                     | NH                                                                              | OR                                     |            0 |
+|              76 | state_1_income_tax_withheld | 6854.35                                                                         | 6712.77                                |            0 |
+|              76 | state_1_wages_and_tips      | 67111.75                                                                        | 72611.82                               |            0 |
+|              76 | state_2                     | nan                                                                             | NH                                     |            0 |
+|              76 | state_2_income_tax_withheld | nan                                                                             | 6854.35                                |            0 |
+|              76 | state_2_wages_and_tips      | nan                                                                             | 67111.75                               |            0 |
+|              76 | wages_and_tips              | 147067.81                                                                       | 147067.81                              |          100 |
+|              77 | employee_name               | David Jones                                                                     | David Jones                            |          100 |
+|              77 | employer_name               | Haynes, Brennan and Blair PLC 70524 Daniels Camp Steeleberg AZ 54902-1252       | Haynes, Brennan and Blair PLC          |            0 |
+|              77 | federal_income_tax_withheld | 46212.80                                                                        | 46212.80                               |          100 |
+|              77 | medicare_wages_and_tips     | 188421.16                                                                       | 188421.16                              |          100 |
+|              77 | social_security_wages       | 247751.92                                                                       | 247751.92                              |          100 |
+|              77 | state_1                     | NC                                                                              | WV                                     |            0 |
+|              77 | state_1_income_tax_withheld | 5340.65                                                                         | 7254.97                                |            0 |
+|              77 | state_1_wages_and_tips      | 91823.27                                                                        | 97840.06                               |            0 |
+|              77 | state_2                     | nan                                                                             | NC                                     |            0 |
+|              77 | state_2_income_tax_withheld | nan                                                                             | 5340.65                                |            0 |
+|              77 | state_2_wages_and_tips      | nan                                                                             | 91823.27                               |            0 |
+|              77 | wages_and_tips              | 194025.01                                                                       | 194025.01                              |          100 |
+|              78 | employee_name               | Rebecca Rivera                                                                  | Rebecca Rivera                         |          100 |
+|              78 | employer_name               | Martin LLC Ltd                                                                  | Martin LLC Ltd                         |          100 |
+|              78 | federal_income_tax_withheld | 34936.61                                                                        | 34936.61                               |          100 |
+|              78 | medicare_wages_and_tips     | 88788.91                                                                        | 88788.91                               |          100 |
+|              78 | social_security_wages       | 121233.55                                                                       | 121233.55                              |          100 |
+|              78 | state_1                     | ID                                                                              | OH                                     |            0 |
+|              78 | state_1_income_tax_withheld | 3618.14                                                                         | 3967.71                                |            0 |
+|              78 | state_1_wages_and_tips      | 60027.45                                                                        | 62825.60                               |            0 |
+|              78 | state_2                     | nan                                                                             | ID                                     |            0 |
+|              78 | state_2_income_tax_withheld | nan                                                                             | 3618.14                                |            0 |
+|              78 | state_2_wages_and_tips      | nan                                                                             | 60027.45                               |            0 |
+|              78 | wages_and_tips              | 115709.06                                                                       | 115709.06                              |          100 |
+|              79 | employee_name               | C o D o EE o C o K                                                              | Matthew Dickerson                      |            0 |
+|              79 | employer_name               | Flowers, Blanchard and Ibarra and Sons                                          | Flowers, Blanchard and Ibarra and Sons |          100 |
+|              79 | federal_income_tax_withheld | 50474.50                                                                        | 50474.50                               |          100 |
+|              79 | medicare_wages_and_tips     | 267927.73                                                                       | 267927.73                              |          100 |
+|              79 | social_security_wages       | 162171.50                                                                       | 162171.50                              |          100 |
+|              79 | state_1                     | OH                                                                              | CA                                     |            0 |
+|              79 | state_1_income_tax_withheld | 10308.81                                                                        | 13091.17                               |            0 |
+|              79 | state_1_wages_and_tips      | 123325.91                                                                       | 123849.93                              |            0 |
+|              79 | state_2                     | nan                                                                             | OH                                     |            0 |
+|              79 | state_2_income_tax_withheld | nan                                                                             | 10308.81                               |            0 |
+|              79 | state_2_wages_and_tips      | nan                                                                             | 123325.91                              |            0 |
+|              79 | wages_and_tips              | 229992.25                                                                       | 229992.25                              |          100 |
+|              80 | employee_name               | Alexander Arroyo                                                                | Alexander Arroyo                       |          100 |
+|              80 | employer_name               | Baxter and Sons Ltd 8639 Parker Square Apt. 197 West Karen MO 53157-7804        | Baxter and Sons Ltd                    |            0 |
+|              80 | federal_income_tax_withheld | 13910.36                                                                        | 13910.36                               |          100 |
+|              80 | medicare_wages_and_tips     | 62060.33                                                                        | 62060.33                               |          100 |
+|              80 | social_security_wages       | 60512.04                                                                        | 60512.04                               |          100 |
+|              80 | state_1                     | MA                                                                              | KY                                     |            0 |
+|              80 | state_1_income_tax_withheld | 1615.49                                                                         | 1880.64                                |            0 |
+|              80 | state_1_wages_and_tips      | 41676.50                                                                        | 42482.44                               |            0 |
+|              80 | state_2                     | nan                                                                             | MA                                     |            0 |
+|              80 | state_2_income_tax_withheld | nan                                                                             | 1615.49                                |            0 |
+|              80 | state_2_wages_and_tips      | nan                                                                             | 41676.50                               |            0 |
+|              80 | wages_and_tips              | 80898.06                                                                        | 80898.06                               |          100 |
+|              81 | employee_name               | Sarah Whitaker                                                                  | Sarah Whitaker                         |          100 |
+|              81 | employer_name               | Serrano Group and Sons                                                          | Serrano Group and Sons                 |          100 |
+|              81 | federal_income_tax_withheld | 27445.47                                                                        | 27445.47                               |          100 |
+|              81 | medicare_wages_and_tips     | 98821.52                                                                        | 94670.10                               |            0 |
+|              81 | social_security_wages       | 98821.52                                                                        | 98821.52                               |          100 |
+|              81 | state_1                     | AK                                                                              | VT                                     |            0 |
+|              81 | state_1_income_tax_withheld | 1968.56                                                                         | 1765.91                                |            0 |
+|              81 | state_1_wages_and_tips      | 46555.30                                                                        | 43802.55                               |            0 |
+|              81 | state_2                     | nan                                                                             | AK                                     |            0 |
+|              81 | state_2_income_tax_withheld | nan                                                                             | 1968.56                                |            0 |
+|              81 | state_2_wages_and_tips      | nan                                                                             | 46555.30                               |            0 |
+|              81 | wages_and_tips              | 85971.25                                                                        | 85971.25                               |          100 |
+|              82 | employee_name               | Ricky Burns                                                                     | Ricky Burns                            |          100 |
+|              82 | employer_name               | Myers PLC PLC                                                                   | Myers PLC PLC                          |          100 |
+|              82 | federal_income_tax_withheld | 54201.20                                                                        | 54201.20                               |          100 |
+|              82 | medicare_wages_and_tips     | 228510.68                                                                       | 228510.68                              |          100 |
+|              82 | social_security_wages       | 196998.43                                                                       | 196998.43                              |          100 |
+|              82 | state_1                     | IL                                                                              | KS                                     |            0 |
+|              82 | state_1_income_tax_withheld | 8006.19                                                                         | 6538.70                                |            0 |
+|              82 | state_1_wages_and_tips      | 105116.66                                                                       | 97298.44                               |            0 |
+|              82 | state_2                     | nan                                                                             | IL                                     |            0 |
+|              82 | state_2_income_tax_withheld | nan                                                                             | 8006.19                                |            0 |
+|              82 | state_2_wages_and_tips      | nan                                                                             | 105116.66                              |            0 |
+|              82 | wages_and_tips              | 203764.35                                                                       | 203764.35                              |          100 |
+|              83 | employee_name               | Jennifer Marsh                                                                  | Jennifer Marsh                         |          100 |
+|              83 | employer_name               | Christian, Turner and Moreno LLC 796 Charles Views Lake Ericabury CA 49286-7508 | Christian, Turner and Moreno LLC       |            0 |
+|              83 | federal_income_tax_withheld | 81441.80                                                                        | 81441.80                               |          100 |
+|              83 | medicare_wages_and_tips     | 286051.20                                                                       | 286051.20                              |          100 |
+|              83 | social_security_wages       | 242349.10                                                                       | 242349.10                              |          100 |
+|              83 | state_1                     | SD                                                                              | CT                                     |            0 |
+|              83 | state_1_income_tax_withheld | 9628.93                                                                         | 11792.03                               |            0 |
+|              83 | state_1_wages_and_tips      | 117955.72                                                                       | 116725.06                              |            0 |
+|              83 | state_2                     | nan                                                                             | SD                                     |            0 |
+|              83 | state_2_income_tax_withheld | nan                                                                             | 9628.93                                |            0 |
+|              83 | state_2_wages_and_tips      | nan                                                                             | 117955.72                              |            0 |
+|              83 | wages_and_tips              | 233867.03                                                                       | 233867.03                              |          100 |
+|              84 | employee_name               | Jason Smith                                                                     | Jason Smith                            |          100 |
+|              84 | employer_name               | Hoover LLC Ltd                                                                  | Hoover LLC Ltd                         |          100 |
+|              84 | federal_income_tax_withheld | 69653.53                                                                        | 69653.53                               |          100 |
+|              84 | medicare_wages_and_tips     | 178969.42                                                                       | 178969.42                              |          100 |
+|              84 | social_security_wages       | 185177.48                                                                       | 185177.48                              |          100 |
+|              84 | state_1                     | AL                                                                              | NV                                     |            0 |
+|              84 | state_1_income_tax_withheld | 6920.65                                                                         | 9600.97                                |            0 |
+|              84 | state_1_wages_and_tips      | 94043.84                                                                        | 96336.52                               |            0 |
+|              84 | state_2                     | nan                                                                             | AL                                     |            0 |
+|              84 | state_2_income_tax_withheld | nan                                                                             | 6920.65                                |            0 |
+|              84 | state_2_wages_and_tips      | nan                                                                             | 94043.84                               |            0 |
+|              84 | wages_and_tips              | 202445.63                                                                       | 202445.63                              |          100 |
+|              85 | employee_name               | Suff.                                                                           | Tristan Humphrey                       |            0 |
+|              85 | employer_name               | Haynes-Krause and Sons                                                          | Haynes-Krause and Sons                 |          100 |
+|              85 | federal_income_tax_withheld | 8440.40                                                                         | 8440.40                                |          100 |
+|              85 | medicare_wages_and_tips     | 59878.45                                                                        | 59878.45                               |          100 |
+|              85 | social_security_wages       | 68872.82                                                                        | 68872.82                               |          100 |
+|              85 | state_1                     | SD                                                                              | CO                                     |            0 |
+|              85 | state_1_income_tax_withheld | 2550.87                                                                         | 3036.85                                |            0 |
+|              85 | state_1_wages_and_tips      | 25321.03                                                                        | 26650.81                               |            0 |
+|              85 | state_2                     | nan                                                                             | SD                                     |            0 |
+|              85 | state_2_income_tax_withheld | nan                                                                             | 2550.87                                |            0 |
+|              85 | state_2_wages_and_tips      | nan                                                                             | 25321.03                               |            0 |
+|              85 | wages_and_tips              | 54250.52                                                                        | 54250.52                               |          100 |
+|              86 | employee_name               | Lisa Smith                                                                      | Lisa Smith                             |          100 |
+|              86 | employer_name               | Greene-Armstrong Inc 86136 Garcia Prairie Williamsport, NH 92057-2012           | Greene-Armstrong Inc                   |            0 |
+|              86 | federal_income_tax_withheld | 13737.15                                                                        | 13737.15                               |          100 |
+|              86 | medicare_wages_and_tips     | 67405.22                                                                        | 67405.22                               |          100 |
+|              86 | social_security_wages       | 39810.38                                                                        | 39810.38                               |          100 |
+|              86 | state_1                     | AZ                                                                              | WI                                     |            0 |
+|              86 | state_1_income_tax_withheld | 9861.03                                                                         | 1296.39                                |            0 |
+|              86 | state_1_wages_and_tips      | 57203.39                                                                        | 24571.09                               |            0 |
+|              86 | state_2                     | nan                                                                             | AZ                                     |            0 |
+|              86 | state_2_income_tax_withheld | nan                                                                             | 1337.67                                |            0 |
+|              86 | state_2_wages_and_tips      | nan                                                                             | 24039.58                               |            0 |
+|              86 | wages_and_tips              | 51899.58                                                                        | 51899.58                               |          100 |
+|              87 | employee_name               | Joshua Lawson                                                                   | Joshua Lawson                          |          100 |
+|              87 | employer_name               | Watson and Sons Group 479 Beltran Ridge Johnsonton, CO 73283-7424               | Watson and Sons Group                  |            0 |
+|              87 | federal_income_tax_withheld | 76269.53                                                                        | 76269.53                               |          100 |
+|              87 | medicare_wages_and_tips     | 238817.27                                                                       | 238817.27                              |          100 |
+|              87 | social_security_wages       | 181690.14                                                                       | 181690.14                              |          100 |
+|              87 | state_1                     | NH                                                                              | KY                                     |            0 |
+|              87 | state_1_income_tax_withheld | 7032.74                                                                         | 7138.14                                |            0 |
+|              87 | state_1_wages_and_tips      | 120737.10                                                                       | 123243.77                              |            0 |
+|              87 | state_2                     | nan                                                                             | NH                                     |            0 |
+|              87 | state_2_income_tax_withheld | nan                                                                             | 7032.74                                |            0 |
+|              87 | state_2_wages_and_tips      | nan                                                                             | 120737.10                              |            0 |
+|              87 | wages_and_tips              | 225171.82                                                                       | 225171.82                              |          100 |
+|              88 | employee_name               | John Steele                                                                     | John Steele                            |          100 |
+|              88 | employer_name               | Gonzales-White Inc                                                              | Gonzales-White Inc                     |          100 |
+|              88 | federal_income_tax_withheld | 21886.27                                                                        | 21886.27                               |          100 |
+|              88 | medicare_wages_and_tips     | nan                                                                             | 75930.08                               |            0 |
+|              88 | social_security_wages       | nan                                                                             | 87122.80                               |            0 |
+|              88 | state_1                     | AZ                                                                              | GA                                     |            0 |
+|              88 | state_1_income_tax_withheld | 2393.18                                                                         | 2755.73                                |            0 |
+|              88 | state_1_wages_and_tips      | 42383.82                                                                        | 40284.02                               |            0 |
+|              88 | state_2                     | nan                                                                             | AZ                                     |            0 |
+|              88 | state_2_income_tax_withheld | nan                                                                             | 2393.18                                |            0 |
+|              88 | state_2_wages_and_tips      | nan                                                                             | 42383.82                               |            0 |
+|              88 | wages_and_tips              | 89105.67                                                                        | 89105.67                               |          100 |
+|              89 | employee_name               | Curtis Cunningham                                                               | Curtis Cunningham                      |          100 |
+|              89 | employer_name               | Walker, Hall and Rodriguez Group                                                | Walker, Hall and Rodriguez Group       |          100 |
+|              89 | federal_income_tax_withheld | 26578.19                                                                        | 26578.19                               |          100 |
+|              89 | medicare_wages_and_tips     | 66253.85                                                                        | 66253.85                               |          100 |
+|              89 | social_security_wages       | 117410.45                                                                       | 117410.45                              |          100 |
+|              89 | state_1                     | DC                                                                              | NC                                     |            0 |
+|              89 | state_1_income_tax_withheld | 4026.58                                                                         | 3401.69                                |            0 |
+|              89 | state_1_wages_and_tips      | 49335.01                                                                        | 44761.69                               |            0 |
+|              89 | state_2                     | nan                                                                             | DC                                     |            0 |
+|              89 | state_2_income_tax_withheld | nan                                                                             | 4026.58                                |            0 |
+|              89 | state_2_wages_and_tips      | nan                                                                             | 49335.01                               |            0 |
+|              89 | wages_and_tips              | 93819.93                                                                        | 93819.93                               |          100 |
+|              90 | employee_name               | nan                                                                             | Dr. Holly                              |            0 |
+|              90 | employer_name               | nan                                                                             | Mccall-Walker and Sons                 |            0 |
+|              90 | federal_income_tax_withheld | 26861.96                                                                        | 26861.96                               |          100 |
+|              90 | medicare_wages_and_tips     | 78819.95                                                                        | 78819.95                               |          100 |
+|              90 | social_security_wages       | 79000.89                                                                        | 79000.89                               |          100 |
+|              90 | state_1                     | KS                                                                              | MI                                     |            0 |
+|              90 | state_1_income_tax_withheld | 5646.74                                                                         | 5037.37                                |            0 |
+|              90 | state_1_wages_and_tips      | 51029.63                                                                        | 52978.50                               |            0 |
+|              90 | state_2                     | nan                                                                             | KS                                     |            0 |
+|              90 | state_2_income_tax_withheld | nan                                                                             | 5646.74                                |            0 |
+|              90 | state_2_wages_and_tips      | nan                                                                             | 51029.63                               |            0 |
+|              90 | wages_and_tips              | 101903.04                                                                       | 101903.04                              |          100 |
+|              91 | employee_name               | Wesley Peterson                                                                 | Wesley Peterson                        |          100 |
+|              91 | employer_name               | Susan Green                                                                     | Beck Inc Group                         |            0 |
+|              91 | federal_income_tax_withheld | 35711.58                                                                        | 35711.58                               |          100 |
+|              91 | medicare_wages_and_tips     | 117120.30                                                                       | 117120.30                              |          100 |
+|              91 | social_security_wages       | 121661.33                                                                       | 121661.33                              |          100 |
+|              91 | state_1                     | MI                                                                              | VT                                     |            0 |
+|              91 | state_1_income_tax_withheld | 7982.78                                                                         | 6448.04                                |            0 |
+|              91 | state_1_wages_and_tips      | 86479.19                                                                        | 73891.82                               |            0 |
+|              91 | state_2                     | nan                                                                             | MI                                     |            0 |
+|              91 | state_2_income_tax_withheld | nan                                                                             | 7982.78                                |            0 |
+|              91 | state_2_wages_and_tips      | nan                                                                             | 86479.19                               |            0 |
+|              91 | wages_and_tips              | 160427.52                                                                       | 160427.52                              |          100 |
+|              92 | employee_name               | Nicole Maddox                                                                   | Nicole Maddox                          |          100 |
+|              92 | employer_name               | Clark-Mitchell Ltd                                                              | Clark-Mitchell Ltd                     |          100 |
+|              92 | federal_income_tax_withheld | 43477.44                                                                        | 43477.44                               |          100 |
+|              92 | medicare_wages_and_tips     | 210786.83                                                                       | 210786.83                              |          100 |
+|              92 | social_security_wages       | 182401.22                                                                       | 182401.22                              |          100 |
+|              92 | state_1                     | CT                                                                              | NM                                     |            0 |
+|              92 | state_1_income_tax_withheld | 5488.40                                                                         | 6009.27                                |            0 |
+|              92 | state_1_wages_and_tips      | 88443.18                                                                        | 80672.23                               |            0 |
+|              92 | state_2                     | nan                                                                             | CT                                     |            0 |
+|              92 | state_2_income_tax_withheld | nan                                                                             | 5488.40                                |            0 |
+|              92 | state_2_wages_and_tips      | nan                                                                             | 88443.18                               |            0 |
+|              92 | wages_and_tips              | 176877.11                                                                       | 176877.11                              |          100 |
+|              93 | employee_name               | Jeremy Lowe                                                                     | Jeremy Lowe                            |          100 |
+|              93 | employer_name               | nan                                                                             | Smith, Reeves and Conner and Sons      |            0 |
+|              93 | federal_income_tax_withheld | 15596.90                                                                        | 15596.90                               |          100 |
+|              93 | medicare_wages_and_tips     | 87936.48                                                                        | 87936.48                               |          100 |
+|              93 | social_security_wages       | 81946.49                                                                        | 81946.49                               |          100 |
+|              93 | state_1                     | NE                                                                              | IA                                     |            0 |
+|              93 | state_1_income_tax_withheld | 2263.17                                                                         | 2379.01                                |            0 |
+|              93 | state_1_wages_and_tips      | 33095.23                                                                        | 35021.25                               |            0 |
+|              93 | state_2                     | nan                                                                             | NE                                     |            0 |
+|              93 | state_2_income_tax_withheld | nan                                                                             | 2263.17                                |            0 |
+|              93 | state_2_wages_and_tips      | nan                                                                             | 33095.23                               |            0 |
+|              93 | wages_and_tips              | 68515.40                                                                        | 68515.40                               |          100 |
+|              94 | employee_name               | Suzanne Martinez                                                                | Suzanne Martinez                       |          100 |
+|              94 | employer_name               | Gray and Sons PLC                                                               | Gray and Sons PLC                      |          100 |
+|              94 | federal_income_tax_withheld | 54266.82                                                                        | 54266.82                               |          100 |
+|              94 | medicare_wages_and_tips     | 157684.51                                                                       | 157684.51                              |          100 |
+|              94 | social_security_wages       | 205127.45                                                                       | 205127.45                              |          100 |
+|              94 | state_1                     | CT                                                                              | WY                                     |            0 |
+|              94 | state_1_income_tax_withheld | 7092.02                                                                         | 6095.48                                |            0 |
+|              94 | state_1_wages_and_tips      | 87656.50                                                                        | 87406.34                               |            0 |
+|              94 | state_2                     | nan                                                                             | CT                                     |            0 |
+|              94 | state_2_income_tax_withheld | nan                                                                             | 7092.02                                |            0 |
+|              94 | state_2_wages_and_tips      | nan                                                                             | 87656.50                               |            0 |
+|              94 | wages_and_tips              | 172752.16                                                                       | 172752.16                              |          100 |
+|              95 | employee_name               | Travis Preston                                                                  | Travis Preston                         |          100 |
+|              95 | employer_name               | Mitchell-Turner PLC 1571 Flores Shores Lake Laurenfurt, MI 34616-8419           | Mitchell-Turner PLC                    |            0 |
+|              95 | federal_income_tax_withheld | 62909.72                                                                        | 62909.72                               |          100 |
+|              95 | medicare_wages_and_tips     | 237781.83                                                                       | 237781.83                              |          100 |
+|              95 | social_security_wages       | 221226.36                                                                       | 221226.36                              |          100 |
+|              95 | state_1                     | NV                                                                              | MA                                     |            0 |
+|              95 | state_1_income_tax_withheld | 4315.88                                                                         | 3492.23                                |            0 |
+|              95 | state_1_wages_and_tips      | 109666.73                                                                       | 92036.38                               |            0 |
+|              95 | state_2                     | nan                                                                             | NV                                     |            0 |
+|              95 | state_2_income_tax_withheld | nan                                                                             | 4315.88                                |            0 |
+|              95 | state_2_wages_and_tips      | nan                                                                             | 109666.73                              |            0 |
+|              95 | wages_and_tips              | 203772.26                                                                       | 203772.26                              |          100 |
+|              96 | employee_name               | Jacob Skinner                                                                   | Jacob Skinner                          |          100 |
+|              96 | employer_name               | Walker-Howard Inc 5530 Cohen Lodge Davisview, CA 82937-5566                     | Walker-Howard Inc                      |            0 |
+|              96 | federal_income_tax_withheld | 16579.87                                                                        | 16579.87                               |          100 |
+|              96 | medicare_wages_and_tips     | 48337.27                                                                        | 48337.27                               |          100 |
+|              96 | social_security_wages       | 47063.08                                                                        | 47063.08                               |          100 |
+|              96 | state_1                     | FL                                                                              | WV                                     |            0 |
+|              96 | state_1_income_tax_withheld | 2128.68                                                                         | 2616.16                                |            0 |
+|              96 | state_1_wages_and_tips      | 26061.77                                                                        | 26168.10                               |            0 |
+|              96 | state_2                     | nan                                                                             | FL                                     |            0 |
+|              96 | state_2_income_tax_withheld | nan                                                                             | 2128.68                                |            0 |
+|              96 | state_2_wages_and_tips      | nan                                                                             | 26061.77                               |            0 |
+|              96 | wages_and_tips              | 48791.84                                                                        | 48791.84                               |          100 |
+|              97 | employee_name               | Ronnie Maxwell                                                                  | Ronnie Maxwell                         |          100 |
+|              97 | employer_name               | Henson, Harrison and Greene Ltd                                                 | Henson, Harrison and Greene Ltd        |          100 |
+|              97 | federal_income_tax_withheld | 15660.31                                                                        | 15660.31                               |          100 |
+|              97 | medicare_wages_and_tips     | 56653.33                                                                        | 56653.33                               |          100 |
+|              97 | social_security_wages       | 56238.10                                                                        | 56238.10                               |          100 |
+|              97 | state_1                     | MS                                                                              | GA                                     |            0 |
+|              97 | state_1_income_tax_withheld | 2296.72                                                                         | 1716.13                                |            0 |
+|              97 | state_1_wages_and_tips      | 23129.25                                                                        | 23253.28                               |            0 |
+|              97 | state_2                     | nan                                                                             | MS                                     |            0 |
+|              97 | state_2_income_tax_withheld | nan                                                                             | 2296.72                                |            0 |
+|              97 | state_2_wages_and_tips      | nan                                                                             | 23129.25                               |            0 |
+|              97 | wages_and_tips              | 48294.26                                                                        | 48294.26                               |          100 |
+|              98 | employee_name               | Lisa Patterson                                                                  | Lisa Patterson                         |          100 |
+|              98 | employer_name               | Elliott, West and Gilmore Group                                                 | Elliott, West and Gilmore Group        |          100 |
+|              98 | federal_income_tax_withheld | 8052.07                                                                         | 8052.07                                |          100 |
+|              98 | medicare_wages_and_tips     | 53647.03                                                                        | 53225.47                               |            0 |
+|              98 | social_security_wages       | 44181.00                                                                        | 44181.00                               |          100 |
+|              98 | state_1                     | DE                                                                              | AK                                     |            0 |
+|              98 | state_1_income_tax_withheld | 2014.73                                                                         | 1884.28                                |            0 |
+|              98 | state_1_wages_and_tips      | 28594.56                                                                        | 30117.46                               |            0 |
+|              98 | state_2                     | nan                                                                             | DE                                     |            0 |
+|              98 | state_2_income_tax_withheld | nan                                                                             | 2014.73                                |            0 |
+|              98 | state_2_wages_and_tips      | nan                                                                             | 28594.56                               |            0 |
+|              98 | wages_and_tips              | 60041.29                                                                        | 60041.29                               |          100 |
+|              99 | employee_name               | Suff. E                                                                         | Katrina Lopez                          |            0 |
+|              99 | employer_name               | Wilson Group PLC                                                                | Wilson Group PLC                       |          100 |
+|              99 | federal_income_tax_withheld | 63293.77                                                                        | 63293.77                               |          100 |
+|              99 | medicare_wages_and_tips     | nan                                                                             | 152346.22                              |            0 |
+|              99 | social_security_wages       | nan                                                                             | 163872.60                              |            0 |
+|              99 | state_1                     | GA                                                                              | TX                                     |            0 |
+|              99 | state_1_income_tax_withheld | 4839.76                                                                         | 4166.46                                |            0 |
+|              99 | state_1_wages_and_tips      | 89289.92                                                                        | 87817.70                               |            0 |
+|              99 | state_2                     | nan                                                                             | GA                                     |            0 |
+|              99 | state_2_income_tax_withheld | nan                                                                             | 4839.76                                |            0 |
+|              99 | state_2_wages_and_tips      | nan                                                                             | 89289.92                               |            0 |
+|              99 | wages_and_tips              | 183276.33                                                                       | 183276.33                              |          100 |

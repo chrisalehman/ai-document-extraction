@@ -1,7 +1,7 @@
 .venv/
 .datasets/
 .models/
-.ouput/
+.output/
 .env
 .env.local
 .env.colab

@@ -1,0 +1,1201 @@
+Comparison ID,Field,Predicted Value,Ground Truth Value,Match,Form Type
+0,employee_name,Richard Clay,Richard Clay,True,ADP1
+0,employer_name,Stewart LLC PLC,Stewart LLC PLC,True,ADP1
+0,federal_income_tax_withheld,38321.07,38321.07,True,ADP1
+0,medicare_wages_and_tips,271121.20,258178.22,False,ADP1
+0,social_security_wages,300000.00,264058.45,False,ADP1
+0,state_1,CA,CA,True,ADP1
+0,state_1_income_tax_withheld,9408.37,9408.37,True,ADP1
+0,state_1_wages_and_tips,111769.70,111769.70,True,ADP1
+0,state_2,,,True,ADP1
+0,state_2_income_tax_withheld,,,True,ADP1
+0,state_2_wages_and_tips,,,True,ADP1
+0,wages_and_tips,212599.67,212599.67,True,ADP1
+1,employee_name,Michele Stewart,Michele Stewart,True,ADP1
+1,employer_name,Fowler and Sons,Fowler and Sons and Sons,False,ADP1
+1,federal_income_tax_withheld,14946.90,14946.90,True,ADP1
+1,medicare_wages_and_tips,108538.83,108538.83,True,ADP1
+1,social_security_wages,117195.40,117195.40,True,ADP1
+1,state_1,CO,CO,True,ADP1
+1,state_1_income_tax_withheld,3142.29,3142.29,True,ADP1
+1,state_1_wages_and_tips,52462.33,52462.33,True,ADP1
+1,state_2,,,True,ADP1
+1,state_2_income_tax_withheld,,,True,ADP1
+1,state_2_wages_and_tips,,,True,ADP1
+1,wages_and_tips,101030.49,101030.49,True,ADP1
+2,employee_name,Robert Hines,Robert Hines,True,ADP1
+2,employer_name,Scott-Lewis and Sons,Scott-Lewis and Sons,True,ADP1
+2,federal_income_tax_withheld,41874.30,41874.30,True,ADP1
+2,medicare_wages_and_tips,93622.64,93622.64,True,ADP1
+2,social_security_wages,142921.45,142921.45,True,ADP1
+2,state_1,MD,MD,True,ADP1
+2,state_1_income_tax_withheld,3874.84,3874.84,True,ADP1
+2,state_1_wages_and_tips,66019.13,66019.13,True,ADP1
+2,state_2,,,True,ADP1
+2,state_2_income_tax_withheld,,,True,ADP1
+2,state_2_wages_and_tips,,,True,ADP1
+2,wages_and_tips,128916.10,128916.10,True,ADP1
+3,employee_name,Laura Rogers,Laura Rogers,True,ADP1
+3,employer_name,Johnson-Murray PLC,Johnson-Murray PLC,True,ADP1
+3,federal_income_tax_withheld,14534.95,14534.95,True,ADP1
+3,medicare_wages_and_tips,106993.93,106993.93,True,ADP1
+3,social_security_wages,107986.99,107986.99,True,ADP1
+3,state_1,LA,LA,True,ADP1
+3,state_1_income_tax_withheld,4807.32,4807.32,True,ADP1
+3,state_1_wages_and_tips,46264.90,46264.90,True,ADP1
+3,state_2,,,True,ADP1
+3,state_2_income_tax_withheld,,,True,ADP1
+3,state_2_wages_and_tips,,,True,ADP1
+3,wages_and_tips,89164.04,89164.04,True,ADP1
+4,employee_name,Johnny Snyder,Johnny Snyder,True,ADP1
+4,employer_name,Cruz-Rodriguez Group,Cruz-Rodriguez Group,True,ADP1
+4,federal_income_tax_withheld,57028.12,57028.12,True,ADP1
+4,medicare_wages_and_tips,152081.76,152081.76,True,ADP1
+4,social_security_wages,155302.71,155302.71,True,ADP1
+4,state_1,KS,KS,True,ADP1
+4,state_1_income_tax_withheld,4176.75,4176.75,True,ADP1
+4,state_1_wages_and_tips,85181.15,85181.15,True,ADP1
+4,state_2,,,True,ADP1
+4,state_2_income_tax_withheld,,,True,ADP1
+4,state_2_wages_and_tips,,,True,ADP1
+4,wages_and_tips,172089.92,172089.92,True,ADP1
+5,employee_name,Alec Stuart,Alec Stuart,True,ADP1
+5,employer_name,Ross-Owen LLC 5926 Trevor Club Lake Stevenfurt FL 65583-2913,Ross-Owen LLC,False,ADP1
+5,federal_income_tax_withheld,27048.50,27048.50,True,ADP1
+5,medicare_wages_and_tips,162890.57,162890.57,True,ADP1
+5,social_security_wages,172226.73,172226.73,True,ADP1
+5,state_1,TN,TN,True,ADP1
+5,state_1_income_tax_withheld,4869.42,4869.42,True,ADP1
+5,state_1_wages_and_tips,66698.70,66698.70,True,ADP1
+5,state_2,,,True,ADP1
+5,state_2_income_tax_withheld,,,True,ADP1
+5,state_2_wages_and_tips,,,True,ADP1
+5,wages_and_tips,175632.86,135409.02,False,ADP1
+6,employee_name,Thomas Harrington,Thomas Harrington,True,ADP1
+6,employer_name,Marshall-Grant Inc,Marshall-Grant Inc,True,ADP1
+6,federal_income_tax_withheld,61445.42,61445.42,True,ADP1
+6,medicare_wages_and_tips,314069.58,314069.58,True,ADP1
+6,social_security_wages,262835.13,262835.13,True,ADP1
+6,state_1,VA,VA,True,ADP1
+6,state_1_income_tax_withheld,11895.36,11895.36,True,ADP1
+6,state_1_wages_and_tips,122407.69,122407.69,True,ADP1
+6,state_2,,,True,ADP1
+6,state_2_income_tax_withheld,,,True,ADP1
+6,state_2_wages_and_tips,,,True,ADP1
+6,wages_and_tips,247552.50,247552.50,True,ADP1
+7,employee_name,Heather Martin,Heather Martin,True,ADP1
+7,employer_name,Henderson and Sons Inc,Henderson and Sons Inc,True,ADP1
+7,federal_income_tax_withheld,15008.60,15008.60,True,ADP1
+7,medicare_wages_and_tips,44934.56,44934.56,True,ADP1
+7,social_security_wages,35949.89,35949.89,True,ADP1
+7,state_1,ME,ME,True,ADP1
+7,state_1_income_tax_withheld,1706.35,1706.35,True,ADP1
+7,state_1_wages_and_tips,21382.66,21382.66,True,ADP1
+7,state_2,,,True,ADP1
+7,state_2_income_tax_withheld,,,True,ADP1
+7,state_2_wages_and_tips,,,True,ADP1
+7,wages_and_tips,44792.71,44792.71,True,ADP1
+8,employee_name,Randy Calhoun,Randy Calhoun,True,ADP1
+8,employer_name,Griffin-Howard Ltd,Griffin-Howard Ltd,True,ADP1
+8,federal_income_tax_withheld,63593.70,63593.70,True,ADP1
+8,medicare_wages_and_tips,156264.20,156264.20,True,ADP1
+8,social_security_wages,245653.79,245653.79,True,ADP1
+8,state_1,SC,SC,True,ADP1
+8,state_1_income_tax_withheld,11987.62,11987.62,True,ADP1
+8,state_1_wages_and_tips,101610.23,101610.23,True,ADP1
+8,state_2,,,True,ADP1
+8,state_2_income_tax_withheld,,,True,ADP1
+8,state_2_wages_and_tips,,,True,ADP1
+8,wages_and_tips,220511.28,220511.28,True,ADP1
+9,employee_name,Barbara Gonzales,Barbara Gonzales,True,ADP1
+9,employer_name,"Collins, Dominguez and Cook PLC 376 Roth Manor Greenborough FL 66405-6689","Collins, Dominguez and Cook PLC",False,ADP1
+9,federal_income_tax_withheld,22033.99,46306.98,False,ADP1
+9,medicare_wages_and_tips,229341.37,229341.37,True,ADP1
+9,social_security_wages,288026.00,288026.00,True,ADP1
+9,state_1,ID,ID,True,ADP1
+9,state_1_income_tax_withheld,11359.73,11359.73,True,ADP1
+9,state_1_wages_and_tips,105497.72,105497.72,True,ADP1
+9,state_2,,,True,ADP1
+9,state_2_income_tax_withheld,,,True,ADP1
+9,state_2_wages_and_tips,,,True,ADP1
+9,wages_and_tips,222798.64,222798.64,True,ADP1
+10,employee_name,Erica Lee,Erica Lee,True,ADP1
+10,employer_name,Castillo-Schroeder PLC,Castillo-Schroeder PLC,True,ADP1
+10,federal_income_tax_withheld,7189.48,7189.48,True,ADP1
+10,medicare_wages_and_tips,54107.36,54107.36,True,ADP1
+10,social_security_wages,41868.71,41868.71,True,ADP1
+10,state_1,KS,KS,True,ADP1
+10,state_1_income_tax_withheld,845.38,845.38,True,ADP1
+10,state_1_wages_and_tips,25909.23,25909.23,True,ADP1
+10,state_2,,,True,ADP1
+10,state_2_income_tax_withheld,,,True,ADP1
+10,state_2_wages_and_tips,,,True,ADP1
+10,wages_and_tips,48477.16,48477.16,True,ADP1
+11,employee_name,Tina Bryant,Tina Bryant,True,ADP1
+11,employer_name,"Reed, Middleton and Lynch PLC","Reed, Middleton and Lynch PLC",True,ADP1
+11,federal_income_tax_withheld,26192.82,26192.82,True,ADP1
+11,medicare_wages_and_tips,104718.48,104718.48,True,ADP1
+11,social_security_wages,118502.15,118502.15,True,ADP1
+11,state_1,MI,MI,True,ADP1
+11,state_1_income_tax_withheld,3841.89,3841.89,True,ADP1
+11,state_1_wages_and_tips,53745.22,53745.22,True,ADP1
+11,state_2,,,True,ADP1
+11,state_2_income_tax_withheld,,,True,ADP1
+11,state_2_wages_and_tips,,,True,ADP1
+11,wages_and_tips,105976.02,105976.02,True,ADP1
+12,employee_name,Stacie Bruce,Stacie Bruce,True,ADP1
+12,employer_name,"Terry, Brown and Clark Ltd","Terry, Brown and Clark Ltd",True,ADP1
+12,federal_income_tax_withheld,76159.82,76159.82,True,ADP1
+12,medicare_wages_and_tips,174207.22,174207.22,True,ADP1
+12,social_security_wages,190388.15,190388.15,True,ADP1
+12,state_1,VA,VA,True,ADP1
+12,state_1_income_tax_withheld,9114.07,9114.07,True,ADP1
+12,state_1_wages_and_tips,112115.42,112115.42,True,ADP1
+12,state_2,,,True,ADP1
+12,state_2_income_tax_withheld,,,True,ADP1
+12,state_2_wages_and_tips,,,True,ADP1
+12,wages_and_tips,236986.14,236986.14,True,ADP1
+13,employee_name,Nicholas Perry,Nicholas Perry,True,ADP1
+13,employer_name,Nelson Group Inc,Nelson Group Inc,True,ADP1
+13,federal_income_tax_withheld,10259.70,10259.70,True,ADP1
+13,medicare_wages_and_tips,65937.92,65937.92,True,ADP1
+13,social_security_wages,69010.85,69010.85,True,ADP1
+13,state_1,WY,WY,True,ADP1
+13,state_1_income_tax_withheld,2630.56,2630.56,True,ADP1
+13,state_1_wages_and_tips,34841.25,34841.25,True,ADP1
+13,state_2,,,True,ADP1
+13,state_2_income_tax_withheld,,,True,ADP1
+13,state_2_wages_and_tips,,,True,ADP1
+13,wages_and_tips,72366.23,72366.23,True,ADP1
+14,employee_name,Robin Torres,Robin Torres,True,ADP1
+14,employer_name,Williams-Myers Inc,Williams-Myers Inc,True,ADP1
+14,federal_income_tax_withheld,60479.34,60479.34,True,ADP1
+14,medicare_wages_and_tips,299423.80,247763.27,False,ADP1
+14,social_security_wages,299423.80,228819.45,False,ADP1
+14,state_1,NC,NC,True,ADP1
+14,state_1_income_tax_withheld,10509.80,10509.80,True,ADP1
+14,state_1_wages_and_tips,107638.10,107638.10,True,ADP1
+14,state_2,,,True,ADP1
+14,state_2_income_tax_withheld,,,True,ADP1
+14,state_2_wages_and_tips,,,True,ADP1
+14,wages_and_tips,221439.75,221439.75,True,ADP1
+15,employee_name,Kristin Hartman,Kristin Hartman,True,ADP1
+15,employer_name,Mcgee-Roberts Ltd,Mcgee-Roberts Ltd,True,ADP1
+15,federal_income_tax_withheld,16475.73,16475.73,True,ADP1
+15,medicare_wages_and_tips,103473.00,103473.00,True,ADP1
+15,social_security_wages,79605.47,79605.47,True,ADP1
+15,state_1,MN,MN,True,ADP1
+15,state_1_income_tax_withheld,3039.12,3039.12,True,ADP1
+15,state_1_wages_and_tips,57191.91,57191.91,True,ADP1
+15,state_2,,,True,ADP1
+15,state_2_income_tax_withheld,,,True,ADP1
+15,state_2_wages_and_tips,,,True,ADP1
+15,wages_and_tips,104281.69,104281.69,True,ADP1
+16,employee_name,Mitchell Kirk,Mitchell Kirk,True,ADP1
+16,employer_name,White-Harris Group,White-Harris Group,True,ADP1
+16,federal_income_tax_withheld,23351.01,23351.01,True,ADP1
+16,medicare_wages_and_tips,99463.54,99463.54,True,ADP1
+16,social_security_wages,95765.31,95765.31,True,ADP1
+16,state_1,HI,HI,True,ADP1
+16,state_1_income_tax_withheld,3656.46,3656.46,True,ADP1
+16,state_1_wages_and_tips,42581.88,42581.88,True,ADP1
+16,state_2,,,True,ADP1
+16,state_2_income_tax_withheld,,,True,ADP1
+16,state_2_wages_and_tips,,,True,ADP1
+16,wages_and_tips,84746.51,84746.51,True,ADP1
+17,employee_name,Bruce Jones,Bruce Jones,True,ADP1
+17,employer_name,Gardner-Anderson LLC,Gardner-Anderson LLC,True,ADP1
+17,federal_income_tax_withheld,8599.38,8599.38,True,ADP1
+17,medicare_wages_and_tips,35491.09,35491.09,True,ADP1
+17,social_security_wages,42332.19,42332.19,True,ADP1
+17,state_1,NJ,NJ,True,ADP1
+17,state_1_income_tax_withheld,1285.90,1285.90,True,ADP1
+17,state_1_wages_and_tips,21589.72,21589.72,True,ADP1
+17,state_2,,,True,ADP1
+17,state_2_income_tax_withheld,,,True,ADP1
+17,state_2_wages_and_tips,,,True,ADP1
+17,wages_and_tips,42985.62,42985.62,True,ADP1
+18,employee_name,Aaron Hill,Aaron Hill,True,ADP1
+18,employer_name,,Cherry PLC LLC,False,ADP1
+18,federal_income_tax_withheld,68864.89,68864.89,True,ADP1
+18,medicare_wages_and_tips,314357.40,266516.03,False,ADP1
+18,social_security_wages,300000.00,188074.58,False,ADP1
+18,state_1,WI,WI,True,ADP1
+18,state_1_income_tax_withheld,6606.78,6606.78,True,ADP1
+18,state_1_wages_and_tips,114371.57,114371.57,True,ADP1
+18,state_2,,,True,ADP1
+18,state_2_income_tax_withheld,,,True,ADP1
+18,state_2_wages_and_tips,,,True,ADP1
+18,wages_and_tips,231104.78,231104.78,True,ADP1
+19,employee_name,Spencer White,Spencer White,True,ADP1
+19,employer_name,Sanders PLC LLC,Sanders PLC LLC,True,ADP1
+19,federal_income_tax_withheld,8029.44,8029.44,True,ADP1
+19,medicare_wages_and_tips,59656.44,59656.44,True,ADP1
+19,social_security_wages,50214.61,50214.61,True,ADP1
+19,state_1,UT,UT,True,ADP1
+19,state_1_income_tax_withheld,2846.60,2846.60,True,ADP1
+19,state_1_wages_and_tips,34987.05,34987.05,True,ADP1
+19,state_2,,,True,ADP1
+19,state_2_income_tax_withheld,,,True,ADP1
+19,state_2_wages_and_tips,,,True,ADP1
+19,wages_and_tips,64270.87,64270.87,True,ADP1
+20,employee_name,Jamie Larsen,Jamie Larsen,True,ADP1
+20,employer_name,"Gibson, Sanchez and Campbell LLC","Gibson, Sanchez and Campbell LLC",True,ADP1
+20,federal_income_tax_withheld,25988.38,25988.38,True,ADP1
+20,medicare_wages_and_tips,142551.35,142551.35,True,ADP1
+20,social_security_wages,116296.36,116296.36,True,ADP1
+20,state_1,AR,AR,True,ADP1
+20,state_1_income_tax_withheld,3757.81,3757.81,True,ADP1
+20,state_1_wages_and_tips,69343.61,69343.61,True,ADP1
+20,state_2,,,True,ADP1
+20,state_2_income_tax_withheld,,,True,ADP1
+20,state_2_wages_and_tips,,,True,ADP1
+20,wages_and_tips,176959.87,142074.82,False,ADP1
+21,employee_name,Bryan Herring,Bryan Herring,True,ADP1
+21,employer_name,"Luna, Hernandez and Mata PLC","Luna, Hernandez and Mata PLC",True,ADP1
+21,federal_income_tax_withheld,48268.60,48268.60,True,ADP1
+21,medicare_wages_and_tips,104576.64,104576.64,True,ADP1
+21,social_security_wages,102342.82,102342.82,True,ADP1
+21,state_1,MO,MO,True,ADP1
+21,state_1_income_tax_withheld,5780.14,5780.14,True,ADP1
+21,state_1_wages_and_tips,76108.79,76108.79,True,ADP1
+21,state_2,,,True,ADP1
+21,state_2_income_tax_withheld,,,True,ADP1
+21,state_2_wages_and_tips,,,True,ADP1
+21,wages_and_tips,143845.70,143845.70,True,ADP1
+22,employee_name,David Choi,David Choi,True,ADP1
+22,employer_name,Sanchez-Leon Inc,Sanchez-Leon Inc,True,ADP1
+22,federal_income_tax_withheld,27856.75,27856.75,True,ADP1
+22,medicare_wages_and_tips,92354.49,92354.49,True,ADP1
+22,social_security_wages,117534.27,117534.27,True,ADP1
+22,state_1,SD,SD,True,ADP1
+22,state_1_income_tax_withheld,1906.21,1906.21,True,ADP1
+22,state_1_wages_and_tips,43146.55,43146.55,True,ADP1
+22,state_2,,,True,ADP1
+22,state_2_income_tax_withheld,,,True,ADP1
+22,state_2_wages_and_tips,,,True,ADP1
+22,wages_and_tips,94854.66,94854.66,True,ADP1
+23,employee_name,Justin Gonzalez,Justin Gonzalez,True,ADP1
+23,employer_name,"Smith, Rose and French Ltd","Smith, Rose and French Ltd",True,ADP1
+23,federal_income_tax_withheld,9981.38,9981.38,True,ADP1
+23,medicare_wages_and_tips,39135.00,39135.00,True,ADP1
+23,social_security_wages,41698.60,41698.60,True,ADP1
+23,state_1,UT,UT,True,ADP1
+23,state_1_income_tax_withheld,2527.01,2527.01,True,ADP1
+23,state_1_wages_and_tips,26838.41,26838.41,True,ADP1
+23,state_2,,,True,ADP1
+23,state_2_income_tax_withheld,,,True,ADP1
+23,state_2_wages_and_tips,,,True,ADP1
+23,wages_and_tips,53364.86,53364.86,True,ADP1
+24,employee_name,John Kelly,John Kelly,True,ADP1
+24,employer_name,Jones Ltd Ltd,Jones Ltd Ltd,True,ADP1
+24,federal_income_tax_withheld,10020.58,10020.58,True,ADP1
+24,medicare_wages_and_tips,51146.50,51146.50,True,ADP1
+24,social_security_wages,49143.87,49143.87,True,ADP1
+24,state_1,WI,WI,True,ADP1
+24,state_1_income_tax_withheld,2200.93,2200.93,True,ADP1
+24,state_1_wages_and_tips,31107.89,31107.89,True,ADP1
+24,state_2,,,True,ADP1
+24,state_2_income_tax_withheld,,,True,ADP1
+24,state_2_wages_and_tips,,,True,ADP1
+24,wages_and_tips,64016.25,64016.25,True,ADP1
+25,employee_name,Steven Gallagher,Steven Gallagher,True,ADP2
+25,employer_name,Russell-Perry Ltd,Russell-Perry Ltd,True,ADP2
+25,federal_income_tax_withheld,53019.99,53019.99,True,ADP2
+25,medicare_wages_and_tips,186980.56,186980.56,True,ADP2
+25,social_security_wages,202034.93,202034.93,True,ADP2
+25,state_1,MS,MS,True,ADP2
+25,state_1_income_tax_withheld,6352.73,6352.73,True,ADP2
+25,state_1_wages_and_tips,84606.23,84606.23,True,ADP2
+25,state_2,,,True,ADP2
+25,state_2_income_tax_withheld,,,True,ADP2
+25,state_2_wages_and_tips,,,True,ADP2
+25,wages_and_tips,158646.42,158646.42,True,ADP2
+26,employee_name,James Patel,James Patel,True,ADP2
+26,employer_name,"Thomas, Wang and Dean Inc","Thomas, Wang and Dean Inc",True,ADP2
+26,federal_income_tax_withheld,66193.23,66193.23,True,ADP2
+26,medicare_wages_and_tips,190639.64,190639.64,True,ADP2
+26,social_security_wages,193414.25,193414.25,True,ADP2
+26,state_1,NV,NV,True,ADP2
+26,state_1_income_tax_withheld,8020.75,8020.75,True,ADP2
+26,state_1_wages_and_tips,114871.17,114871.17,True,ADP2
+26,state_2,,,True,ADP2
+26,state_2_income_tax_withheld,,,True,ADP2
+26,state_2_wages_and_tips,,,True,ADP2
+26,wages_and_tips,240550.20,240550.20,True,ADP2
+27,employee_name,Samuel Sampson,Samuel Sampson,True,ADP2
+27,employer_name,"Olson, White and Rodriguez Ltd","Olson, White and Rodriguez Ltd",True,ADP2
+27,federal_income_tax_withheld,51726.34,51726.34,True,ADP2
+27,medicare_wages_and_tips,230247.50,230247.50,True,ADP2
+27,social_security_wages,175050.27,175050.27,True,ADP2
+27,state_1,KS,KS,True,ADP2
+27,state_1_income_tax_withheld,6612.65,6612.65,True,ADP2
+27,state_1_wages_and_tips,90356.58,90356.58,True,ADP2
+27,state_2,,,True,ADP2
+27,state_2_income_tax_withheld,,,True,ADP2
+27,state_2_wages_and_tips,,,True,ADP2
+27,wages_and_tips,190474.44,190474.44,True,ADP2
+28,employee_name,Erik Gibbs,Erik Gibbs,True,ADP2
+28,employer_name,Smith-Barnett PLC,Smith-Barnett PLC,True,ADP2
+28,federal_income_tax_withheld,29090.79,29090.79,True,ADP2
+28,medicare_wages_and_tips,190655.79,190655.79,True,ADP2
+28,social_security_wages,236162.64,236162.64,True,ADP2
+28,state_1,NY,NY,True,ADP2
+28,state_1_income_tax_withheld,7528.44,7528.44,True,ADP2
+28,state_1_wages_and_tips,102786.37,102786.37,True,ADP2
+28,state_2,,,True,ADP2
+28,state_2_income_tax_withheld,,,True,ADP2
+28,state_2_wages_and_tips,,,True,ADP2
+28,wages_and_tips,201152.66,201152.66,True,ADP2
+29,employee_name,Carlos Goodwin,Carlos Goodwin,True,ADP2
+29,employer_name,Garcia PLC Inc,Garcia PLC Inc,True,ADP2
+29,federal_income_tax_withheld,41174.90,41174.90,True,ADP2
+29,medicare_wages_and_tips,98590.29,98590.29,True,ADP2
+29,social_security_wages,144405.72,144405.72,True,ADP2
+29,state_1,WI,WI,True,ADP2
+29,state_1_income_tax_withheld,5951.87,5951.87,True,ADP2
+29,state_1_wages_and_tips,65909.52,65909.52,True,ADP2
+29,state_2,,,True,ADP2
+29,state_2_income_tax_withheld,,,True,ADP2
+29,state_2_wages_and_tips,,,True,ADP2
+29,wages_and_tips,121459.59,121459.59,True,ADP2
+30,employee_name,Jason Edwards,Jason Edwards,True,ADP2
+30,employer_name,Johnston-Diaz Ltd,Johnston-Diaz Ltd,True,ADP2
+30,federal_income_tax_withheld,16540.33,16540.33,True,ADP2
+30,medicare_wages_and_tips,79996.43,79996.43,True,ADP2
+30,social_security_wages,108257.22,108257.22,True,ADP2
+30,state_1,OR,OR,True,ADP2
+30,state_1_income_tax_withheld,1920.53,1920.53,True,ADP2
+30,state_1_wages_and_tips,49567.41,49567.41,True,ADP2
+30,state_2,,,True,ADP2
+30,state_2_income_tax_withheld,,,True,ADP2
+30,state_2_wages_and_tips,,,True,ADP2
+30,wages_and_tips,94952.85,94952.85,True,ADP2
+31,employee_name,Natalie Thompson,Natalie Thompson,True,ADP2
+31,employer_name,King-Conrad LLC,King-Conrad LLC,True,ADP2
+31,federal_income_tax_withheld,25845.60,25845.60,True,ADP2
+31,medicare_wages_and_tips,213604.61,213604.61,True,ADP2
+31,social_security_wages,189658.20,189658.20,True,ADP2
+31,state_1,ME,ME,True,ADP2
+31,state_1_income_tax_withheld,5833.87,5833.87,True,ADP2
+31,state_1_wages_and_tips,118132.98,118132.98,True,ADP2
+31,state_2,,,True,ADP2
+31,state_2_income_tax_withheld,,,True,ADP2
+31,state_2_wages_and_tips,,,True,ADP2
+31,wages_and_tips,224863.08,224863.08,True,ADP2
+32,employee_name,Taylor         Watts,Taylor Watts,False,ADP2
+32,employer_name,Waller-Hammond Group,Waller-Hammond Group,True,ADP2
+32,federal_income_tax_withheld,34883.22,34883.22,True,ADP2
+32,medicare_wages_and_tips,149412.95,149412.95,True,ADP2
+32,social_security_wages,142978.09,142978.09,True,ADP2
+32,state_1,Employers' state ID no.,AZ,False,ADP2
+32,state_1_income_tax_withheld,3710.61,3710.61,True,ADP2
+32,state_1_wages_and_tips,75239.97,75239.97,True,ADP2
+32,state_2,,,True,ADP2
+32,state_2_income_tax_withheld,,,True,ADP2
+32,state_2_wages_and_tips,,,True,ADP2
+32,wages_and_tips,158916.89,158916.89,True,ADP2
+33,employee_name,Edward Valdez,Edward Valdez,True,ADP2
+33,employer_name,"Jackson, Black and Coleman Ltd","Jackson, Black and Coleman Ltd",True,ADP2
+33,federal_income_tax_withheld,22110.14,22110.14,True,ADP2
+33,medicare_wages_and_tips,56086.09,56086.09,True,ADP2
+33,social_security_wages,80965.34,80965.34,True,ADP2
+33,state_1,MI,MI,True,ADP2
+33,state_1_income_tax_withheld,2453.72,2453.72,True,ADP2
+33,state_1_wages_and_tips,33522.47,33522.47,True,ADP2
+33,state_2,,,True,ADP2
+33,state_2_income_tax_withheld,,,True,ADP2
+33,state_2_wages_and_tips,,,True,ADP2
+33,wages_and_tips,67768.27,67768.27,True,ADP2
+34,employee_name,Lynn Miranda,Lynn Miranda,True,ADP2
+34,employer_name,"Collins, Potter and Hill Inc","Collins, Potter and Hill Inc",True,ADP2
+34,federal_income_tax_withheld,10223.79,10223.79,True,ADP2
+34,medicare_wages_and_tips,66021.75,66021.75,True,ADP2
+34,social_security_wages,63436.14,63436.14,True,ADP2
+34,state_1,Employers' state ID no.,IA,False,ADP2
+34,state_1_income_tax_withheld,2374.56,2374.56,True,ADP2
+34,state_1_wages_and_tips,32567.59,32567.59,True,ADP2
+34,state_2,,,True,ADP2
+34,state_2_income_tax_withheld,,,True,ADP2
+34,state_2_wages_and_tips,,,True,ADP2
+34,wages_and_tips,67328.87,67328.87,True,ADP2
+35,employee_name,Amanda Hale,Amanda Hale,True,ADP2
+35,employer_name,Martinez-Petty LLC,Martinez-Petty LLC,True,ADP2
+35,federal_income_tax_withheld,27149.71,27149.71,True,ADP2
+35,medicare_wages_and_tips,117419.63,117419.63,True,ADP2
+35,social_security_wages,154821.10,154821.10,True,ADP2
+35,state_1,OR,OR,True,ADP2
+35,state_1_income_tax_withheld,4194.36,4194.36,True,ADP2
+35,state_1_wages_and_tips,59308.91,59308.91,True,ADP2
+35,state_2,,,True,ADP2
+35,state_2_income_tax_withheld,,,True,ADP2
+35,state_2_wages_and_tips,,,True,ADP2
+35,wages_and_tips,129454.28,129454.28,True,ADP2
+36,employee_name,Tamara Parker,Tamara Parker,True,ADP2
+36,employer_name,Wright-Mullins LLC,Wright-Mullins LLC,True,ADP2
+36,federal_income_tax_withheld,59149.63,59149.63,True,ADP2
+36,medicare_wages_and_tips,164326.30,164326.30,True,ADP2
+36,social_security_wages,272926.45,272926.45,True,ADP2
+36,state_1,HI,HI,True,ADP2
+36,state_1_income_tax_withheld,8331.14,8331.14,True,ADP2
+36,state_1_wages_and_tips,106414.23,106414.23,True,ADP2
+36,state_2,,,True,ADP2
+36,state_2_income_tax_withheld,,,True,ADP2
+36,state_2_wages_and_tips,,,True,ADP2
+36,wages_and_tips,217121.52,217121.52,True,ADP2
+37,employee_name,Eric Williams,Eric Williams,True,ADP2
+37,employer_name,Davis LLC LLC,Davis LLC LLC,True,ADP2
+37,federal_income_tax_withheld,63904.04,63904.04,True,ADP2
+37,medicare_wages_and_tips,178137.74,178137.74,True,ADP2
+37,social_security_wages,150330.34,150330.34,True,ADP2
+37,state_1,WY,WY,True,ADP2
+37,state_1_income_tax_withheld,3346.50,3346.50,True,ADP2
+37,state_1_wages_and_tips,87372.24,87372.24,True,ADP2
+37,state_2,,,True,ADP2
+37,state_2_income_tax_withheld,,,True,ADP2
+37,state_2_wages_and_tips,,,True,ADP2
+37,wages_and_tips,179553.17,179553.17,True,ADP2
+38,employee_name,Francisco Pierce,Francisco Pierce,True,ADP2
+38,employer_name,Browning LLC Ltd,Browning LLC Ltd,True,ADP2
+38,federal_income_tax_withheld,17704.07,17704.07,True,ADP2
+38,medicare_wages_and_tips,74634.25,74634.25,True,ADP2
+38,social_security_wages,76981.85,76981.85,True,ADP2
+38,state_1,MI,KS,False,ADP2
+38,state_1_income_tax_withheld,2991.77,2991.77,True,ADP2
+38,state_1_wages_and_tips,37635.07,37635.07,True,ADP2
+38,state_2,,,True,ADP2
+38,state_2_income_tax_withheld,,,True,ADP2
+38,state_2_wages_and_tips,,,True,ADP2
+38,wages_and_tips,72866.96,72866.96,True,ADP2
+39,employee_name,Logan Sparks,Logan Sparks,True,ADP2
+39,employer_name,Torres-Campos Ltd,Torres-Campos Ltd,True,ADP2
+39,federal_income_tax_withheld,18056.06,18056.06,True,ADP2
+39,medicare_wages_and_tips,188227.23,188227.23,True,ADP2
+39,social_security_wages,173411.04,173411.04,True,ADP2
+39,state_1,TN,TN,True,ADP2
+39,state_1_income_tax_withheld,7546.37,7546.37,True,ADP2
+39,state_1_wages_and_tips,81242.84,81242.84,True,ADP2
+39,state_2,,,True,ADP2
+39,state_2_income_tax_withheld,,,True,ADP2
+39,state_2_wages_and_tips,,,True,ADP2
+39,wages_and_tips,170026.02,170026.02,True,ADP2
+40,employee_name,Dustin Ford,Dustin Ford,True,ADP2
+40,employer_name,"Crawford, Marquez and Martin Ltd","Crawford, Marquez and Martin Ltd",True,ADP2
+40,federal_income_tax_withheld,48973.11,48973.11,True,ADP2
+40,medicare_wages_and_tips,188082.20,188082.20,True,ADP2
+40,social_security_wages,158800.38,158800.38,True,ADP2
+40,state_1,FL,FL,True,ADP2
+40,state_1_income_tax_withheld,7255.02,7255.02,True,ADP2
+40,state_1_wages_and_tips,86115.66,86115.66,True,ADP2
+40,state_2,,,True,ADP2
+40,state_2_income_tax_withheld,,,True,ADP2
+40,state_2_wages_and_tips,,,True,ADP2
+40,wages_and_tips,167194.56,167194.56,True,ADP2
+41,employee_name,Jessica Arellano,Jessica Arellano,True,ADP2
+41,employer_name,Shields Inc Group,Shields Inc Group,True,ADP2
+41,federal_income_tax_withheld,14883.64,14883.64,True,ADP2
+41,medicare_wages_and_tips,146763.35,146763.35,True,ADP2
+41,social_security_wages,146763.35,90617.08,False,ADP2
+41,state_1,AK,OH,False,ADP2
+41,state_1_income_tax_withheld,92798.35,6167.30,False,ADP2
+41,state_1_wages_and_tips,60221.17,60221.17,True,ADP2
+41,state_2,,,True,ADP2
+41,state_2_income_tax_withheld,,,True,ADP2
+41,state_2_wages_and_tips,,,True,ADP2
+41,wages_and_tips,116343.88,116343.88,True,ADP2
+42,employee_name,Paul Oneal,Paul Oneal,True,ADP2
+42,employer_name,Edwards Inc PLC,Edwards Inc PLC,True,ADP2
+42,federal_income_tax_withheld,15340.30,15340.30,True,ADP2
+42,medicare_wages_and_tips,105685.69,105685.69,True,ADP2
+42,social_security_wages,104087.79,104087.79,True,ADP2
+42,state_1,CA,CA,True,ADP2
+42,state_1_income_tax_withheld,4189.84,4189.84,True,ADP2
+42,state_1_wages_and_tips,52757.35,52757.35,True,ADP2
+42,state_2,,,True,ADP2
+42,state_2_income_tax_withheld,,,True,ADP2
+42,state_2_wages_and_tips,,,True,ADP2
+42,wages_and_tips,100685.61,100685.61,True,ADP2
+43,employee_name,Debra Garcia,Debra Garcia,True,ADP2
+43,employer_name,Reeves and Sons Group,Reeves and Sons Group,True,ADP2
+43,federal_income_tax_withheld,55164.76,55164.76,True,ADP2
+43,medicare_wages_and_tips,147592.92,147592.92,True,ADP2
+43,social_security_wages,234196.10,234196.10,True,ADP2
+43,state_1,SC,SC,True,ADP2
+43,state_1_income_tax_withheld,4194.67,4194.67,True,ADP2
+43,state_1_wages_and_tips,95039.35,95039.35,True,ADP2
+43,state_2,,,True,ADP2
+43,state_2_income_tax_withheld,,,True,ADP2
+43,state_2_wages_and_tips,,,True,ADP2
+43,wages_and_tips,182042.65,182042.65,True,ADP2
+44,employee_name,Janet Maldonado,Janet Maldonado,True,ADP2
+44,employer_name,Deleon Ltd PLC,Deleon Ltd PLC,True,ADP2
+44,federal_income_tax_withheld,12117.21,12117.21,True,ADP2
+44,medicare_wages_and_tips,81666.71,81666.71,True,ADP2
+44,social_security_wages,117510.60,117510.60,True,ADP2
+44,state_1,WV,WV,True,ADP2
+44,state_1_income_tax_withheld,3373.18,3373.18,True,ADP2
+44,state_1_wages_and_tips,47638.23,47638.23,True,ADP2
+44,state_2,,,True,ADP2
+44,state_2_income_tax_withheld,,,True,ADP2
+44,state_2_wages_and_tips,,,True,ADP2
+44,wages_and_tips,100735.35,100735.35,True,ADP2
+45,employee_name,Jennifer West,Jennifer West,True,ADP2
+45,employer_name,Logan-Jones PLC,Logan-Jones PLC,True,ADP2
+45,federal_income_tax_withheld,18541.17,18541.17,True,ADP2
+45,medicare_wages_and_tips,78419.15,78419.15,True,ADP2
+45,social_security_wages,84679.79,84679.79,True,ADP2
+45,state_1,MA,MA,True,ADP2
+45,state_1_income_tax_withheld,1984.64,1984.64,True,ADP2
+45,state_1_wages_and_tips,41311.04,41311.04,True,ADP2
+45,state_2,,,True,ADP2
+45,state_2_income_tax_withheld,,,True,ADP2
+45,state_2_wages_and_tips,,,True,ADP2
+45,wages_and_tips,81342.73,81342.73,True,ADP2
+46,employee_name,Mark Smith,Mark Smith,True,ADP2
+46,employer_name,"Lopez, Harris and Thomas Inc","Lopez, Harris and Thomas Inc",True,ADP2
+46,federal_income_tax_withheld,17610.02,17610.02,True,ADP2
+46,medicare_wages_and_tips,129274.26,129274.26,True,ADP2
+46,social_security_wages,124686.17,124686.17,True,ADP2
+46,state_1,OR,OK,False,ADP2
+46,state_1_income_tax_withheld,6743.02,6743.02,True,ADP2
+46,state_1_wages_and_tips,50787.90,50787.90,True,ADP2
+46,state_2,,,True,ADP2
+46,state_2_income_tax_withheld,,,True,ADP2
+46,state_2_wages_and_tips,,,True,ADP2
+46,wages_and_tips,106989.48,106989.48,True,ADP2
+47,employee_name,Jordan Clark,Jordan Clark,True,ADP2
+47,employer_name,Mack-Clark LLC,Mack-Clark LLC,True,ADP2
+47,federal_income_tax_withheld,71288.69,71288.69,True,ADP2
+47,medicare_wages_and_tips,164679.76,164679.76,True,ADP2
+47,social_security_wages,236532.35,236532.35,True,ADP2
+47,state_1,MN,MN,True,ADP2
+47,state_1_income_tax_withheld,13323.12,13323.12,True,ADP2
+47,state_1_wages_and_tips,124391.78,124391.78,True,ADP2
+47,state_2,,,True,ADP2
+47,state_2_income_tax_withheld,,,True,ADP2
+47,state_2_wages_and_tips,,,True,ADP2
+47,wages_and_tips,234405.35,234405.35,True,ADP2
+48,employee_name,Maria Gilmore,Maria Gilmore,True,ADP2
+48,employer_name,"Moore, Morales and Rodriguez Group","Moore, Morales and Rodriguez Group",True,ADP2
+48,federal_income_tax_withheld,32266.75,32266.75,True,ADP2
+48,medicare_wages_and_tips,106535.26,106535.26,True,ADP2
+48,social_security_wages,143307.79,143307.79,True,ADP2
+48,state_1,AK,AK,True,ADP2
+48,state_1_income_tax_withheld,4549.45,4549.45,True,ADP2
+48,state_1_wages_and_tips,56901.10,56901.10,True,ADP2
+48,state_2,,,True,ADP2
+48,state_2_income_tax_withheld,,,True,ADP2
+48,state_2_wages_and_tips,,,True,ADP2
+48,wages_and_tips,125957.50,125957.50,True,ADP2
+49,employee_name,Dawn Johnson,Dawn Johnson,True,ADP2
+49,employer_name,Williams Inc Inc,Williams Inc Inc,True,ADP2
+49,federal_income_tax_withheld,30162.58,30162.58,True,ADP2
+49,medicare_wages_and_tips,94797.57,94797.57,True,ADP2
+49,social_security_wages,111310.47,111310.47,True,ADP2
+49,state_1,NC,NC,True,ADP2
+49,state_1_income_tax_withheld,3754.31,3754.31,True,ADP2
+49,state_1_wages_and_tips,40973.84,40973.84,True,ADP2
+49,state_2,,,True,ADP2
+49,state_2_income_tax_withheld,,,True,ADP2
+49,state_2_wages_and_tips,,,True,ADP2
+49,wages_and_tips,88023.79,88023.79,True,ADP2
+50,employee_name,Suff.,Benjamin Burch,False,IRS1
+50,employer_name,"Ward, Allison and Jimenez Inc 96401 Shane Valley North Robert, PA 15928-7814","Ward, Allison and Jimenez Inc",False,IRS1
+50,federal_income_tax_withheld,53423.50,53423.50,True,IRS1
+50,medicare_wages_and_tips,225347.99,225347.99,True,IRS1
+50,social_security_wages,272174.17,272174.17,True,IRS1
+50,state_1,MS,UT,False,IRS1
+50,state_1_income_tax_withheld,7135.46,6744.55,False,IRS1
+50,state_1_wages_and_tips,111269.12,101914.73,False,IRS1
+50,state_2,,MS,False,IRS1
+50,state_2_income_tax_withheld,,7135.46,False,IRS1
+50,state_2_wages_and_tips,,111269.12,False,IRS1
+50,wages_and_tips,209665.25,209665.25,True,IRS1
+51,employee_name,Kevin David Suff.,Kevin David,False,IRS1
+51,employer_name,Nolan-Conley LLC,Nolan-Conley LLC,True,IRS1
+51,federal_income_tax_withheld,20338.94,20338.94,True,IRS1
+51,medicare_wages_and_tips,143486.80,143486.80,True,IRS1
+51,social_security_wages,92010.56,92010.56,True,IRS1
+51,state_1,MA,IN,False,IRS1
+51,state_1_income_tax_withheld,2444.56,2878.00,False,IRS1
+51,state_1_wages_and_tips,53139.71,59730.53,False,IRS1
+51,state_2,,MA,False,IRS1
+51,state_2_income_tax_withheld,,2444.56,False,IRS1
+51,state_2_wages_and_tips,,53139.71,False,IRS1
+51,wages_and_tips,110531.70,110531.70,True,IRS1
+52,employee_name,Leonard Santos,Leonard Santos,True,IRS1
+52,employer_name,Ramirez Inc PLC,Ramirez Inc PLC,True,IRS1
+52,federal_income_tax_withheld,20411.03,20411.03,True,IRS1
+52,medicare_wages_and_tips,203385.19,203385.19,True,IRS1
+52,social_security_wages,237221.81,237221.81,True,IRS1
+52,state_1,CT,WA,False,IRS1
+52,state_1_income_tax_withheld,222013.82,4703.28,False,IRS1
+52,state_1_wages_and_tips,99440.88,95437.14,False,IRS1
+52,state_2,,CT,False,IRS1
+52,state_2_income_tax_withheld,,4486.37,False,IRS1
+52,state_2_wages_and_tips,,99440.88,False,IRS1
+52,wages_and_tips,191413.14,191413.14,True,IRS1
+53,employee_name,Suzanne Cooper,Suzanne Cooper,True,IRS1
+53,employer_name,Malone and Sons PLC,Malone and Sons PLC,True,IRS1
+53,federal_income_tax_withheld,32403.04,32403.04,True,IRS1
+53,medicare_wages_and_tips,126740.74,126740.74,True,IRS1
+53,social_security_wages,97797.42,97797.42,True,IRS1
+53,state_1,KS,MI,False,IRS1
+53,state_1_income_tax_withheld,3845.07,3335.04,False,IRS1
+53,state_1_wages_and_tips,55084.80,53275.84,False,IRS1
+53,state_2,,KS,False,IRS1
+53,state_2_income_tax_withheld,,3845.07,False,IRS1
+53,state_2_wages_and_tips,,55084.80,False,IRS1
+53,wages_and_tips,109697.19,109697.19,True,IRS1
+54,employee_name,Luis Crosby,Luis Crosby,True,IRS1
+54,employer_name,"Hayden, Mercer and Swanson Group","Hayden, Mercer and Swanson Group",True,IRS1
+54,federal_income_tax_withheld,48927.19,48927.19,True,IRS1
+54,medicare_wages_and_tips,176754.86,119392.91,False,IRS1
+54,social_security_wages,178629.03,217028.00,False,IRS1
+54,state_1,KS,MN,False,IRS1
+54,state_1_income_tax_withheld,6919.99,6204.55,False,IRS1
+54,state_1_wages_and_tips,91034.04,76944.28,False,IRS1
+54,state_2,,KS,False,IRS1
+54,state_2_income_tax_withheld,,6919.99,False,IRS1
+54,state_2_wages_and_tips,,91034.04,False,IRS1
+54,wages_and_tips,168760.56,168760.56,True,IRS1
+55,employee_name,Nathaniel Gonzalez,Nathaniel Gonzalez,True,IRS1
+55,employer_name,Mcpherson-Martinez Inc,Mcpherson-Martinez Inc,True,IRS1
+55,federal_income_tax_withheld,14215.85,14215.85,True,IRS1
+55,medicare_wages_and_tips,46084.10,46084.10,True,IRS1
+55,social_security_wages,56148.34,56148.34,True,IRS1
+55,state_1,NC,AR,False,IRS1
+55,state_1_income_tax_withheld,2504.33,2986.98,False,IRS1
+55,state_1_wages_and_tips,22752.32,23185.84,False,IRS1
+55,state_2,,NC,False,IRS1
+55,state_2_income_tax_withheld,,2504.33,False,IRS1
+55,state_2_wages_and_tips,,22752.32,False,IRS1
+55,wages_and_tips,49328.84,49328.84,True,IRS1
+56,employee_name,Patricia Gibson,Patricia Gibson,True,IRS1
+56,employer_name,"Washington, Smith and Simpson PLC","Washington, Smith and Simpson PLC",True,IRS1
+56,federal_income_tax_withheld,26981.59,26981.59,True,IRS1
+56,medicare_wages_and_tips,202737.90,202737.90,True,IRS1
+56,social_security_wages,154896.18,154896.18,True,IRS1
+56,state_1,CT,MA,False,IRS1
+56,state_1_income_tax_withheld,6944.47,6246.78,False,IRS1
+56,state_1_wages_and_tips,107516.39,99356.08,False,IRS1
+56,state_2,,CT,False,IRS1
+56,state_2_income_tax_withheld,,6944.47,False,IRS1
+56,state_2_wages_and_tips,,107516.39,False,IRS1
+56,wages_and_tips,202643.68,202643.68,True,IRS1
+57,employee_name,Kimberly Nunez,Kimberly Nunez,True,IRS1
+57,employer_name,Smith-Robbins PLC,Smith-Robbins PLC,True,IRS1
+57,federal_income_tax_withheld,41576.80,41576.80,True,IRS1
+57,medicare_wages_and_tips,146347.53,146347.53,True,IRS1
+57,social_security_wages,212786.93,212786.93,True,IRS1
+57,state_1,NE,PA,False,IRS1
+57,state_1_income_tax_withheld,10290.93,9128.26,False,IRS1
+57,state_1_wages_and_tips,88143.99,87557.10,False,IRS1
+57,state_2,,NE,False,IRS1
+57,state_2_income_tax_withheld,,10290.93,False,IRS1
+57,state_2_wages_and_tips,,88143.99,False,IRS1
+57,wages_and_tips,193091.22,193091.22,True,IRS1
+58,employee_name,Ricky Franklin,Ricky Franklin,True,IRS1
+58,employer_name,Mendoza-Ruiz Inc,Mendoza-Ruiz Inc,True,IRS1
+58,federal_income_tax_withheld,69690.62,69690.62,True,IRS1
+58,medicare_wages_and_tips,198034.16,198034.16,True,IRS1
+58,social_security_wages,195254.17,195254.17,True,IRS1
+58,state_1,AR,VA,False,IRS1
+58,state_1_income_tax_withheld,12147.81,7884.59,False,IRS1
+58,state_1_wages_and_tips,113930.54,112767.40,False,IRS1
+58,state_2,,AR,False,IRS1
+58,state_2_income_tax_withheld,,12147.81,False,IRS1
+58,state_2_wages_and_tips,,113930.54,False,IRS1
+58,wages_and_tips,211698.37,211698.37,True,IRS1
+59,employee_name,Donald Hobbs,Donald Hobbs,True,IRS1
+59,employer_name,Arnold-Cuevas and Sons,Arnold-Cuevas and Sons,True,IRS1
+59,federal_income_tax_withheld,39818.28,39818.28,True,IRS1
+59,medicare_wages_and_tips,211965.47,211965.47,True,IRS1
+59,social_security_wages,154777.55,154777.55,True,IRS1
+59,state_1,MS,DE,False,IRS1
+59,state_1_income_tax_withheld,11053.64,7034.93,False,IRS1
+59,state_1_wages_and_tips,101620.18,105496.90,False,IRS1
+59,state_2,,MS,False,IRS1
+59,state_2_income_tax_withheld,,11053.64,False,IRS1
+59,state_2_wages_and_tips,,101620.18,False,IRS1
+59,wages_and_tips,197057.56,197057.56,True,IRS1
+60,employee_name,Jessica Stevenson,Jessica Stevenson,True,IRS1
+60,employer_name,"Black, Nguyen and Walton LLC","Black, Nguyen and Walton LLC",True,IRS1
+60,federal_income_tax_withheld,32871.70,32871.70,True,IRS1
+60,medicare_wages_and_tips,104143.05,104143.05,True,IRS1
+60,social_security_wages,123863.76,123863.76,True,IRS1
+60,state_1,NV,ID,False,IRS1
+60,state_1_income_tax_withheld,5012.21,4558.87,False,IRS1
+60,state_1_wages_and_tips,58947.68,68274.72,False,IRS1
+60,state_2,,NV,False,IRS1
+60,state_2_income_tax_withheld,,5012.21,False,IRS1
+60,state_2_wages_and_tips,,58947.68,False,IRS1
+60,wages_and_tips,125409.41,125409.41,True,IRS1
+61,employee_name,Diane Reyes,Diane Reyes,True,IRS1
+61,employer_name,"Smith, Evans and Hendricks LLC","Smith, Evans and Hendricks LLC",True,IRS1
+61,federal_income_tax_withheld,82937.66,82937.66,True,IRS1
+61,medicare_wages_and_tips,320962.09,320962.09,True,IRS1
+61,social_security_wages,188273.72,188273.72,True,IRS1
+61,state_1,IL,AK,False,IRS1
+61,state_1_income_tax_withheld,5668.50,6615.56,False,IRS1
+61,state_1_wages_and_tips,129923.07,112681.86,False,IRS1
+61,state_2,,IL,False,IRS1
+61,state_2_income_tax_withheld,,5668.50,False,IRS1
+61,state_2_wages_and_tips,,129923.07,False,IRS1
+61,wages_and_tips,248637.54,248637.54,True,IRS1
+62,employee_name,James May,James May,True,IRS1
+62,employer_name,Mata-Ray PLC,Mata-Ray PLC,True,IRS1
+62,federal_income_tax_withheld,8877.69,8877.69,True,IRS1
+62,medicare_wages_and_tips,59863.05,59863.05,True,IRS1
+62,social_security_wages,53339.23,53339.23,True,IRS1
+62,state_1,IL,ME,False,IRS1
+62,state_1_income_tax_withheld,2582.75,2008.79,False,IRS1
+62,state_1_wages_and_tips,28897.69,30090.50,False,IRS1
+62,state_2,,IL,False,IRS1
+62,state_2_income_tax_withheld,,2582.75,False,IRS1
+62,state_2_wages_and_tips,,28897.69,False,IRS1
+62,wages_and_tips,57879.41,57879.41,True,IRS1
+63,employee_name,Scott Baker,Scott Baker,True,IRS1
+63,employer_name,Williamson Inc and Sons,Williamson Inc and Sons,True,IRS1
+63,federal_income_tax_withheld,31967.95,31967.95,True,IRS1
+63,medicare_wages_and_tips,245562.89,245562.89,True,IRS1
+63,social_security_wages,147267.51,147267.51,True,IRS1
+63,state_1,AK,OR,False,IRS1
+63,state_1_income_tax_withheld,,10334.52,False,IRS1
+63,state_1_wages_and_tips,104808.53,98735.86,False,IRS1
+63,state_2,,AK,False,IRS1
+63,state_2_income_tax_withheld,,8476.84,False,IRS1
+63,state_2_wages_and_tips,,104808.53,False,IRS1
+63,wages_and_tips,195165.08,195165.08,True,IRS1
+64,employee_name,Joseph Butler,Joseph Butler,True,IRS1
+64,employer_name,"Hunt, Knox and Morgan Inc","Hunt, Knox and Morgan Inc",True,IRS1
+64,federal_income_tax_withheld,28756.86,28756.86,True,IRS1
+64,medicare_wages_and_tips,155756.27,155756.27,True,IRS1
+64,social_security_wages,110191.96,110191.96,True,IRS1
+64,state_1,CA,IA,False,IRS1
+64,state_1_income_tax_withheld,2516.51,3365.38,False,IRS1
+64,state_1_wages_and_tips,63940.29,70963.38,False,IRS1
+64,state_2,,CA,False,IRS1
+64,state_2_income_tax_withheld,,2516.51,False,IRS1
+64,state_2_wages_and_tips,,63940.29,False,IRS1
+64,wages_and_tips,141025.22,141025.22,True,IRS1
+65,employee_name,Suff.,Dawn Harris,False,IRS1
+65,employer_name,"Cannon, Diaz and Adkins Inc","Cannon, Diaz and Adkins Inc",True,IRS1
+65,federal_income_tax_withheld,35079.80,35079.80,True,IRS1
+65,medicare_wages_and_tips,184337.69,184337.69,True,IRS1
+65,social_security_wages,277881.14,277881.14,True,IRS1
+65,state_1,IN,NC,False,IRS1
+65,state_1_income_tax_withheld,8363.74,6891.15,False,IRS1
+65,state_1_wages_and_tips,113462.27,115638.67,False,IRS1
+65,state_2,,IN,False,IRS1
+65,state_2_income_tax_withheld,,8363.74,False,IRS1
+65,state_2_wages_and_tips,,113462.27,False,IRS1
+65,wages_and_tips,238724.37,238724.37,True,IRS1
+66,employee_name,David Perez,David Perez,True,IRS1
+66,employer_name,"Snyder-Nelson Ltd 8702 Barbara Forks Suite 452 Hernandezbury, IN 98835-4054",Snyder-Nelson Ltd,False,IRS1
+66,federal_income_tax_withheld,87866.17,87866.17,True,IRS1
+66,medicare_wages_and_tips,254008.23,254008.23,True,IRS1
+66,social_security_wages,199149.81,199149.81,True,IRS1
+66,state_1,AK,HI,False,IRS1
+66,state_1_income_tax_withheld,6405.59,6968.62,False,IRS1
+66,state_1_wages_and_tips,125757.55,130579.29,False,IRS1
+66,state_2,,AK,False,IRS1
+66,state_2_income_tax_withheld,,6405.59,False,IRS1
+66,state_2_wages_and_tips,,125757.55,False,IRS1
+66,wages_and_tips,245634.18,245634.18,True,IRS1
+67,employee_name,Jeanne Mullen,Jeanne Mullen,True,IRS1
+67,employer_name,Bryant Ltd and Sons,Bryant Ltd and Sons,True,IRS1
+67,federal_income_tax_withheld,50493.52,50493.52,True,IRS1
+67,medicare_wages_and_tips,165317.46,165317.46,True,IRS1
+67,social_security_wages,164747.61,164747.61,True,IRS1
+67,state_1,HI,MN,False,IRS1
+67,state_1_income_tax_withheld,6424.97,5395.06,False,IRS1
+67,state_1_wages_and_tips,91649.99,98269.48,False,IRS1
+67,state_2,,HI,False,IRS1
+67,state_2_income_tax_withheld,,6424.97,False,IRS1
+67,state_2_wages_and_tips,,91649.99,False,IRS1
+67,wages_and_tips,182644.07,182644.07,True,IRS1
+68,employee_name,Ann Greene,Ann Greene,True,IRS1
+68,employer_name,Ward LLC and Sons,Ward LLC and Sons,True,IRS1
+68,federal_income_tax_withheld,77307.24,77307.24,True,IRS1
+68,medicare_wages_and_tips,281306.94,281306.94,True,IRS1
+68,social_security_wages,198314.20,198314.20,True,IRS1
+68,state_1,AL,NJ,False,IRS1
+68,state_1_income_tax_withheld,5924.24,6068.69,False,IRS1
+68,state_1_wages_and_tips,106991.13,123217.09,False,IRS1
+68,state_2,,AL,False,IRS1
+68,state_2_income_tax_withheld,,5924.24,False,IRS1
+68,state_2_wages_and_tips,,106991.13,False,IRS1
+68,wages_and_tips,224464.93,224464.93,True,IRS1
+69,employee_name,Joanne Brown,Joanne Brown,True,IRS1
+69,employer_name,Brown-Robinson PLC,Brown-Robinson PLC,True,IRS1
+69,federal_income_tax_withheld,6849.54,6849.54,True,IRS1
+69,medicare_wages_and_tips,,72290.42,False,IRS1
+69,social_security_wages,,57801.10,False,IRS1
+69,state_1,NM,DE,False,IRS1
+69,state_1_income_tax_withheld,2353.15,3685.56,False,IRS1
+69,state_1_wages_and_tips,31772.04,34823.21,False,IRS1
+69,state_2,,NM,False,IRS1
+69,state_2_income_tax_withheld,,2353.15,False,IRS1
+69,state_2_wages_and_tips,,31772.04,False,IRS1
+69,wages_and_tips,66753.72,66753.72,True,IRS1
+70,employee_name,Cynthia Evans,Cynthia Evans,True,IRS1
+70,employer_name,Strickland-Thomas and Sons,Strickland-Thomas and Sons,True,IRS1
+70,federal_income_tax_withheld,50205.33,50205.33,True,IRS1
+70,medicare_wages_and_tips,172996.73,172996.73,True,IRS1
+70,social_security_wages,164760.51,164760.51,True,IRS1
+70,state_1,NC,KY,False,IRS1
+70,state_1_income_tax_withheld,7167.40,7758.81,False,IRS1
+70,state_1_wages_and_tips,97953.30,108734.78,False,IRS1
+70,state_2,,NC,False,IRS1
+70,state_2_income_tax_withheld,,7167.40,False,IRS1
+70,state_2_wages_and_tips,,97953.30,False,IRS1
+70,wages_and_tips,203417.02,203417.02,True,IRS1
+71,employee_name,Robin Cooke,Robin Cooke,True,IRS1
+71,employer_name,Walker Group and Sons,Walker Group and Sons,True,IRS1
+71,federal_income_tax_withheld,14203.37,14203.37,True,IRS1
+71,medicare_wages_and_tips,63264.54,63264.54,True,IRS1
+71,social_security_wages,78648.89,78648.89,True,IRS1
+71,state_1,FL,WV,False,IRS1
+71,state_1_income_tax_withheld,1092.10,1130.20,False,IRS1
+71,state_1_wages_and_tips,32251.12,30482.93,False,IRS1
+71,state_2,,FL,False,IRS1
+71,state_2_income_tax_withheld,,1092.10,False,IRS1
+71,state_2_wages_and_tips,,32251.12,False,IRS1
+71,wages_and_tips,62511.95,62511.95,True,IRS1
+72,employee_name,Bradley Hill,Bradley Hill,True,IRS1
+72,employer_name,Webb Ltd Group,Webb Ltd Group,True,IRS1
+72,federal_income_tax_withheld,39253.58,39253.58,True,IRS1
+72,medicare_wages_and_tips,174086.86,174086.86,True,IRS1
+72,social_security_wages,242146.80,242146.80,True,IRS1
+72,state_1,SD,VA,False,IRS1
+72,state_1_income_tax_withheld,5821.22,6122.09,False,IRS1
+72,state_1_wages_and_tips,103627.29,108092.29,False,IRS1
+72,state_2,,SD,False,IRS1
+72,state_2_income_tax_withheld,,5821.22,False,IRS1
+72,state_2_wages_and_tips,,103627.29,False,IRS1
+72,wages_and_tips,212792.18,212792.18,True,IRS1
+73,employee_name,Michelle Hays,Michelle Hays,True,IRS1
+73,employer_name,Camacho-Ochoa Group,Camacho-Ochoa Group,True,IRS1
+73,federal_income_tax_withheld,24504.27,24504.27,True,IRS1
+73,medicare_wages_and_tips,98860.89,98860.89,True,IRS1
+73,social_security_wages,61546.64,61546.64,True,IRS1
+73,state_1,HI,SD,False,IRS1
+73,state_1_income_tax_withheld,1635.73,1489.11,False,IRS1
+73,state_1_wages_and_tips,44318.59,42413.97,False,IRS1
+73,state_2,,HI,False,IRS1
+73,state_2_income_tax_withheld,,1635.73,False,IRS1
+73,state_2_wages_and_tips,,44318.59,False,IRS1
+73,wages_and_tips,81793.03,81793.03,True,IRS1
+74,employee_name,Christopher Rogers,Christopher Rogers,True,IRS1
+74,employer_name,Ross LLC Group,Ross LLC Group,True,IRS1
+74,federal_income_tax_withheld,52714.96,52714.96,True,IRS1
+74,medicare_wages_and_tips,183019.83,183019.83,True,IRS1
+74,social_security_wages,177600.72,177600.72,True,IRS1
+74,state_1,MO,SD,False,IRS1
+74,state_1_income_tax_withheld,4998.09,5142.92,False,IRS1
+74,state_1_wages_and_tips,87633.00,93676.43,False,IRS1
+74,state_2,,MO,False,IRS1
+74,state_2_income_tax_withheld,,4998.09,False,IRS1
+74,state_2_wages_and_tips,,87633.00,False,IRS1
+74,wages_and_tips,192129.02,192129.02,True,IRS1
+75,employee_name,Travis Lewis,Travis Lewis,True,IRS2
+75,employer_name,"Hebert-Sanchez PLC 938 Erica Shore Aprilton, WA 76490-9174",Hebert-Sanchez PLC,False,IRS2
+75,federal_income_tax_withheld,71155.64,71155.64,True,IRS2
+75,medicare_wages_and_tips,235523.16,235523.16,True,IRS2
+75,social_security_wages,252361.47,252361.47,True,IRS2
+75,state_1,GA,IL,False,IRS2
+75,state_1_income_tax_withheld,6057.55,6676.00,False,IRS2
+75,state_1_wages_and_tips,106759.50,97657.05,False,IRS2
+75,state_2,,GA,False,IRS2
+75,state_2_income_tax_withheld,,6057.55,False,IRS2
+75,state_2_wages_and_tips,,106759.50,False,IRS2
+75,wages_and_tips,201001.90,201001.90,True,IRS2
+76,employee_name,Calvin Reyes,Calvin Reyes,True,IRS2
+76,employer_name,Barrett PLC Inc,Barrett PLC Inc,True,IRS2
+76,federal_income_tax_withheld,52046.25,52046.25,True,IRS2
+76,medicare_wages_and_tips,181620.91,181620.91,True,IRS2
+76,social_security_wages,161218.91,161218.91,True,IRS2
+76,state_1,NH,OR,False,IRS2
+76,state_1_income_tax_withheld,6854.35,6712.77,False,IRS2
+76,state_1_wages_and_tips,67111.75,72611.82,False,IRS2
+76,state_2,,NH,False,IRS2
+76,state_2_income_tax_withheld,,6854.35,False,IRS2
+76,state_2_wages_and_tips,,67111.75,False,IRS2
+76,wages_and_tips,147067.81,147067.81,True,IRS2
+77,employee_name,David Jones,David Jones,True,IRS2
+77,employer_name,"Haynes, Brennan and Blair PLC 70524 Daniels Camp Steeleberg AZ 54902-1252","Haynes, Brennan and Blair PLC",False,IRS2
+77,federal_income_tax_withheld,46212.80,46212.80,True,IRS2
+77,medicare_wages_and_tips,188421.16,188421.16,True,IRS2
+77,social_security_wages,247751.92,247751.92,True,IRS2
+77,state_1,NC,WV,False,IRS2
+77,state_1_income_tax_withheld,5340.65,7254.97,False,IRS2
+77,state_1_wages_and_tips,91823.27,97840.06,False,IRS2
+77,state_2,,NC,False,IRS2
+77,state_2_income_tax_withheld,,5340.65,False,IRS2
+77,state_2_wages_and_tips,,91823.27,False,IRS2
+77,wages_and_tips,194025.01,194025.01,True,IRS2
+78,employee_name,Rebecca Rivera,Rebecca Rivera,True,IRS2
+78,employer_name,Martin LLC Ltd,Martin LLC Ltd,True,IRS2
+78,federal_income_tax_withheld,34936.61,34936.61,True,IRS2
+78,medicare_wages_and_tips,88788.91,88788.91,True,IRS2
+78,social_security_wages,121233.55,121233.55,True,IRS2
+78,state_1,ID,OH,False,IRS2
+78,state_1_income_tax_withheld,3618.14,3967.71,False,IRS2
+78,state_1_wages_and_tips,60027.45,62825.60,False,IRS2
+78,state_2,,ID,False,IRS2
+78,state_2_income_tax_withheld,,3618.14,False,IRS2
+78,state_2_wages_and_tips,,60027.45,False,IRS2
+78,wages_and_tips,115709.06,115709.06,True,IRS2
+79,employee_name,C o D o EE o C o K,Matthew Dickerson,False,IRS2
+79,employer_name,"Flowers, Blanchard and Ibarra and Sons","Flowers, Blanchard and Ibarra and Sons",True,IRS2
+79,federal_income_tax_withheld,50474.50,50474.50,True,IRS2
+79,medicare_wages_and_tips,267927.73,267927.73,True,IRS2
+79,social_security_wages,162171.50,162171.50,True,IRS2
+79,state_1,OH,CA,False,IRS2
+79,state_1_income_tax_withheld,10308.81,13091.17,False,IRS2
+79,state_1_wages_and_tips,123325.91,123849.93,False,IRS2
+79,state_2,,OH,False,IRS2
+79,state_2_income_tax_withheld,,10308.81,False,IRS2
+79,state_2_wages_and_tips,,123325.91,False,IRS2
+79,wages_and_tips,229992.25,229992.25,True,IRS2
+80,employee_name,Alexander Arroyo,Alexander Arroyo,True,IRS2
+80,employer_name,Baxter and Sons Ltd 8639 Parker Square Apt. 197 West Karen MO 53157-7804,Baxter and Sons Ltd,False,IRS2
+80,federal_income_tax_withheld,13910.36,13910.36,True,IRS2
+80,medicare_wages_and_tips,62060.33,62060.33,True,IRS2
+80,social_security_wages,60512.04,60512.04,True,IRS2
+80,state_1,MA,KY,False,IRS2
+80,state_1_income_tax_withheld,1615.49,1880.64,False,IRS2
+80,state_1_wages_and_tips,41676.50,42482.44,False,IRS2
+80,state_2,,MA,False,IRS2
+80,state_2_income_tax_withheld,,1615.49,False,IRS2
+80,state_2_wages_and_tips,,41676.50,False,IRS2
+80,wages_and_tips,80898.06,80898.06,True,IRS2
+81,employee_name,Sarah Whitaker,Sarah Whitaker,True,IRS2
+81,employer_name,Serrano Group and Sons,Serrano Group and Sons,True,IRS2
+81,federal_income_tax_withheld,27445.47,27445.47,True,IRS2
+81,medicare_wages_and_tips,98821.52,94670.10,False,IRS2
+81,social_security_wages,98821.52,98821.52,True,IRS2
+81,state_1,AK,VT,False,IRS2
+81,state_1_income_tax_withheld,1968.56,1765.91,False,IRS2
+81,state_1_wages_and_tips,46555.30,43802.55,False,IRS2
+81,state_2,,AK,False,IRS2
+81,state_2_income_tax_withheld,,1968.56,False,IRS2
+81,state_2_wages_and_tips,,46555.30,False,IRS2
+81,wages_and_tips,85971.25,85971.25,True,IRS2
+82,employee_name,Ricky Burns,Ricky Burns,True,IRS2
+82,employer_name,Myers PLC PLC,Myers PLC PLC,True,IRS2
+82,federal_income_tax_withheld,54201.20,54201.20,True,IRS2
+82,medicare_wages_and_tips,228510.68,228510.68,True,IRS2
+82,social_security_wages,196998.43,196998.43,True,IRS2
+82,state_1,IL,KS,False,IRS2
+82,state_1_income_tax_withheld,8006.19,6538.70,False,IRS2
+82,state_1_wages_and_tips,105116.66,97298.44,False,IRS2
+82,state_2,,IL,False,IRS2
+82,state_2_income_tax_withheld,,8006.19,False,IRS2
+82,state_2_wages_and_tips,,105116.66,False,IRS2
+82,wages_and_tips,203764.35,203764.35,True,IRS2
+83,employee_name,Jennifer Marsh,Jennifer Marsh,True,IRS2
+83,employer_name,"Christian, Turner and Moreno LLC 796 Charles Views Lake Ericabury CA 49286-7508","Christian, Turner and Moreno LLC",False,IRS2
+83,federal_income_tax_withheld,81441.80,81441.80,True,IRS2
+83,medicare_wages_and_tips,286051.20,286051.20,True,IRS2
+83,social_security_wages,242349.10,242349.10,True,IRS2
+83,state_1,SD,CT,False,IRS2
+83,state_1_income_tax_withheld,9628.93,11792.03,False,IRS2
+83,state_1_wages_and_tips,117955.72,116725.06,False,IRS2
+83,state_2,,SD,False,IRS2
+83,state_2_income_tax_withheld,,9628.93,False,IRS2
+83,state_2_wages_and_tips,,117955.72,False,IRS2
+83,wages_and_tips,233867.03,233867.03,True,IRS2
+84,employee_name,Jason Smith,Jason Smith,True,IRS2
+84,employer_name,Hoover LLC Ltd,Hoover LLC Ltd,True,IRS2
+84,federal_income_tax_withheld,69653.53,69653.53,True,IRS2
+84,medicare_wages_and_tips,178969.42,178969.42,True,IRS2
+84,social_security_wages,185177.48,185177.48,True,IRS2
+84,state_1,AL,NV,False,IRS2
+84,state_1_income_tax_withheld,6920.65,9600.97,False,IRS2
+84,state_1_wages_and_tips,94043.84,96336.52,False,IRS2
+84,state_2,,AL,False,IRS2
+84,state_2_income_tax_withheld,,6920.65,False,IRS2
+84,state_2_wages_and_tips,,94043.84,False,IRS2
+84,wages_and_tips,202445.63,202445.63,True,IRS2
+85,employee_name,Suff.,Tristan Humphrey,False,IRS2
+85,employer_name,Haynes-Krause and Sons,Haynes-Krause and Sons,True,IRS2
+85,federal_income_tax_withheld,8440.40,8440.40,True,IRS2
+85,medicare_wages_and_tips,59878.45,59878.45,True,IRS2
+85,social_security_wages,68872.82,68872.82,True,IRS2
+85,state_1,SD,CO,False,IRS2
+85,state_1_income_tax_withheld,2550.87,3036.85,False,IRS2
+85,state_1_wages_and_tips,25321.03,26650.81,False,IRS2
+85,state_2,,SD,False,IRS2
+85,state_2_income_tax_withheld,,2550.87,False,IRS2
+85,state_2_wages_and_tips,,25321.03,False,IRS2
+85,wages_and_tips,54250.52,54250.52,True,IRS2
+86,employee_name,Lisa Smith,Lisa Smith,True,IRS2
+86,employer_name,"Greene-Armstrong Inc 86136 Garcia Prairie Williamsport, NH 92057-2012",Greene-Armstrong Inc,False,IRS2
+86,federal_income_tax_withheld,13737.15,13737.15,True,IRS2
+86,medicare_wages_and_tips,67405.22,67405.22,True,IRS2
+86,social_security_wages,39810.38,39810.38,True,IRS2
+86,state_1,AZ,WI,False,IRS2
+86,state_1_income_tax_withheld,9861.03,1296.39,False,IRS2
+86,state_1_wages_and_tips,57203.39,24571.09,False,IRS2
+86,state_2,,AZ,False,IRS2
+86,state_2_income_tax_withheld,,1337.67,False,IRS2
+86,state_2_wages_and_tips,,24039.58,False,IRS2
+86,wages_and_tips,51899.58,51899.58,True,IRS2
+87,employee_name,Joshua Lawson,Joshua Lawson,True,IRS2
+87,employer_name,"Watson and Sons Group 479 Beltran Ridge Johnsonton, CO 73283-7424",Watson and Sons Group,False,IRS2
+87,federal_income_tax_withheld,76269.53,76269.53,True,IRS2
+87,medicare_wages_and_tips,238817.27,238817.27,True,IRS2
+87,social_security_wages,181690.14,181690.14,True,IRS2
+87,state_1,NH,KY,False,IRS2
+87,state_1_income_tax_withheld,7032.74,7138.14,False,IRS2
+87,state_1_wages_and_tips,120737.10,123243.77,False,IRS2
+87,state_2,,NH,False,IRS2
+87,state_2_income_tax_withheld,,7032.74,False,IRS2
+87,state_2_wages_and_tips,,120737.10,False,IRS2
+87,wages_and_tips,225171.82,225171.82,True,IRS2
+88,employee_name,John Steele,John Steele,True,IRS2
+88,employer_name,Gonzales-White Inc,Gonzales-White Inc,True,IRS2
+88,federal_income_tax_withheld,21886.27,21886.27,True,IRS2
+88,medicare_wages_and_tips,,75930.08,False,IRS2
+88,social_security_wages,,87122.80,False,IRS2
+88,state_1,AZ,GA,False,IRS2
+88,state_1_income_tax_withheld,2393.18,2755.73,False,IRS2
+88,state_1_wages_and_tips,42383.82,40284.02,False,IRS2
+88,state_2,,AZ,False,IRS2
+88,state_2_income_tax_withheld,,2393.18,False,IRS2
+88,state_2_wages_and_tips,,42383.82,False,IRS2
+88,wages_and_tips,89105.67,89105.67,True,IRS2
+89,employee_name,Curtis Cunningham,Curtis Cunningham,True,IRS2
+89,employer_name,"Walker, Hall and Rodriguez Group","Walker, Hall and Rodriguez Group",True,IRS2
+89,federal_income_tax_withheld,26578.19,26578.19,True,IRS2
+89,medicare_wages_and_tips,66253.85,66253.85,True,IRS2
+89,social_security_wages,117410.45,117410.45,True,IRS2
+89,state_1,DC,NC,False,IRS2
+89,state_1_income_tax_withheld,4026.58,3401.69,False,IRS2
+89,state_1_wages_and_tips,49335.01,44761.69,False,IRS2
+89,state_2,,DC,False,IRS2
+89,state_2_income_tax_withheld,,4026.58,False,IRS2
+89,state_2_wages_and_tips,,49335.01,False,IRS2
+89,wages_and_tips,93819.93,93819.93,True,IRS2
+90,employee_name,,Dr. Holly,False,IRS2
+90,employer_name,,Mccall-Walker and Sons,False,IRS2
+90,federal_income_tax_withheld,26861.96,26861.96,True,IRS2
+90,medicare_wages_and_tips,78819.95,78819.95,True,IRS2
+90,social_security_wages,79000.89,79000.89,True,IRS2
+90,state_1,KS,MI,False,IRS2
+90,state_1_income_tax_withheld,5646.74,5037.37,False,IRS2
+90,state_1_wages_and_tips,51029.63,52978.50,False,IRS2
+90,state_2,,KS,False,IRS2
+90,state_2_income_tax_withheld,,5646.74,False,IRS2
+90,state_2_wages_and_tips,,51029.63,False,IRS2
+90,wages_and_tips,101903.04,101903.04,True,IRS2
+91,employee_name,Wesley Peterson,Wesley Peterson,True,IRS2
+91,employer_name,Susan Green,Beck Inc Group,False,IRS2
+91,federal_income_tax_withheld,35711.58,35711.58,True,IRS2
+91,medicare_wages_and_tips,117120.30,117120.30,True,IRS2
+91,social_security_wages,121661.33,121661.33,True,IRS2
+91,state_1,MI,VT,False,IRS2
+91,state_1_income_tax_withheld,7982.78,6448.04,False,IRS2
+91,state_1_wages_and_tips,86479.19,73891.82,False,IRS2
+91,state_2,,MI,False,IRS2
+91,state_2_income_tax_withheld,,7982.78,False,IRS2
+91,state_2_wages_and_tips,,86479.19,False,IRS2
+91,wages_and_tips,160427.52,160427.52,True,IRS2
+92,employee_name,Nicole Maddox,Nicole Maddox,True,IRS2
+92,employer_name,Clark-Mitchell Ltd,Clark-Mitchell Ltd,True,IRS2
+92,federal_income_tax_withheld,43477.44,43477.44,True,IRS2
+92,medicare_wages_and_tips,210786.83,210786.83,True,IRS2
+92,social_security_wages,182401.22,182401.22,True,IRS2
+92,state_1,CT,NM,False,IRS2
+92,state_1_income_tax_withheld,5488.40,6009.27,False,IRS2
+92,state_1_wages_and_tips,88443.18,80672.23,False,IRS2
+92,state_2,,CT,False,IRS2
+92,state_2_income_tax_withheld,,5488.40,False,IRS2
+92,state_2_wages_and_tips,,88443.18,False,IRS2
+92,wages_and_tips,176877.11,176877.11,True,IRS2
+93,employee_name,Jeremy Lowe,Jeremy Lowe,True,IRS2
+93,employer_name,,"Smith, Reeves and Conner and Sons",False,IRS2
+93,federal_income_tax_withheld,15596.90,15596.90,True,IRS2
+93,medicare_wages_and_tips,87936.48,87936.48,True,IRS2
+93,social_security_wages,81946.49,81946.49,True,IRS2
+93,state_1,NE,IA,False,IRS2
+93,state_1_income_tax_withheld,2263.17,2379.01,False,IRS2
+93,state_1_wages_and_tips,33095.23,35021.25,False,IRS2
+93,state_2,,NE,False,IRS2
+93,state_2_income_tax_withheld,,2263.17,False,IRS2
+93,state_2_wages_and_tips,,33095.23,False,IRS2
+93,wages_and_tips,68515.40,68515.40,True,IRS2
+94,employee_name,Suzanne Martinez,Suzanne Martinez,True,IRS2
+94,employer_name,Gray and Sons PLC,Gray and Sons PLC,True,IRS2
+94,federal_income_tax_withheld,54266.82,54266.82,True,IRS2
+94,medicare_wages_and_tips,157684.51,157684.51,True,IRS2
+94,social_security_wages,205127.45,205127.45,True,IRS2
+94,state_1,CT,WY,False,IRS2
+94,state_1_income_tax_withheld,7092.02,6095.48,False,IRS2
+94,state_1_wages_and_tips,87656.50,87406.34,False,IRS2
+94,state_2,,CT,False,IRS2
+94,state_2_income_tax_withheld,,7092.02,False,IRS2
+94,state_2_wages_and_tips,,87656.50,False,IRS2
+94,wages_and_tips,172752.16,172752.16,True,IRS2
+95,employee_name,Travis Preston,Travis Preston,True,IRS2
+95,employer_name,"Mitchell-Turner PLC 1571 Flores Shores Lake Laurenfurt, MI 34616-8419",Mitchell-Turner PLC,False,IRS2
+95,federal_income_tax_withheld,62909.72,62909.72,True,IRS2
+95,medicare_wages_and_tips,237781.83,237781.83,True,IRS2
+95,social_security_wages,221226.36,221226.36,True,IRS2
+95,state_1,NV,MA,False,IRS2
+95,state_1_income_tax_withheld,4315.88,3492.23,False,IRS2
+95,state_1_wages_and_tips,109666.73,92036.38,False,IRS2
+95,state_2,,NV,False,IRS2
+95,state_2_income_tax_withheld,,4315.88,False,IRS2
+95,state_2_wages_and_tips,,109666.73,False,IRS2
+95,wages_and_tips,203772.26,203772.26,True,IRS2
+96,employee_name,Jacob Skinner,Jacob Skinner,True,IRS2
+96,employer_name,"Walker-Howard Inc 5530 Cohen Lodge Davisview, CA 82937-5566",Walker-Howard Inc,False,IRS2
+96,federal_income_tax_withheld,16579.87,16579.87,True,IRS2
+96,medicare_wages_and_tips,48337.27,48337.27,True,IRS2
+96,social_security_wages,47063.08,47063.08,True,IRS2
+96,state_1,FL,WV,False,IRS2
+96,state_1_income_tax_withheld,2128.68,2616.16,False,IRS2
+96,state_1_wages_and_tips,26061.77,26168.10,False,IRS2
+96,state_2,,FL,False,IRS2
+96,state_2_income_tax_withheld,,2128.68,False,IRS2
+96,state_2_wages_and_tips,,26061.77,False,IRS2
+96,wages_and_tips,48791.84,48791.84,True,IRS2
+97,employee_name,Ronnie Maxwell,Ronnie Maxwell,True,IRS2
+97,employer_name,"Henson, Harrison and Greene Ltd","Henson, Harrison and Greene Ltd",True,IRS2
+97,federal_income_tax_withheld,15660.31,15660.31,True,IRS2
+97,medicare_wages_and_tips,56653.33,56653.33,True,IRS2
+97,social_security_wages,56238.10,56238.10,True,IRS2
+97,state_1,MS,GA,False,IRS2
+97,state_1_income_tax_withheld,2296.72,1716.13,False,IRS2
+97,state_1_wages_and_tips,23129.25,23253.28,False,IRS2
+97,state_2,,MS,False,IRS2
+97,state_2_income_tax_withheld,,2296.72,False,IRS2
+97,state_2_wages_and_tips,,23129.25,False,IRS2
+97,wages_and_tips,48294.26,48294.26,True,IRS2
+98,employee_name,Lisa Patterson,Lisa Patterson,True,IRS2
+98,employer_name,"Elliott, West and Gilmore Group","Elliott, West and Gilmore Group",True,IRS2
+98,federal_income_tax_withheld,8052.07,8052.07,True,IRS2
+98,medicare_wages_and_tips,53647.03,53225.47,False,IRS2
+98,social_security_wages,44181.00,44181.00,True,IRS2
+98,state_1,DE,AK,False,IRS2
+98,state_1_income_tax_withheld,2014.73,1884.28,False,IRS2
+98,state_1_wages_and_tips,28594.56,30117.46,False,IRS2
+98,state_2,,DE,False,IRS2
+98,state_2_income_tax_withheld,,2014.73,False,IRS2
+98,state_2_wages_and_tips,,28594.56,False,IRS2
+98,wages_and_tips,60041.29,60041.29,True,IRS2
+99,employee_name,Suff. E,Katrina Lopez,False,IRS2
+99,employer_name,Wilson Group PLC,Wilson Group PLC,True,IRS2
+99,federal_income_tax_withheld,63293.77,63293.77,True,IRS2
+99,medicare_wages_and_tips,,152346.22,False,IRS2
+99,social_security_wages,,163872.60,False,IRS2
+99,state_1,GA,TX,False,IRS2
+99,state_1_income_tax_withheld,4839.76,4166.46,False,IRS2
+99,state_1_wages_and_tips,89289.92,87817.70,False,IRS2
+99,state_2,,GA,False,IRS2
+99,state_2_income_tax_withheld,,4839.76,False,IRS2
+99,state_2_wages_and_tips,,89289.92,False,IRS2
+99,wages_and_tips,183276.33,183276.33,True,IRS2

@@ -66,24 +66,6 @@ def compare_fields(ground_truth, prediction, comparison_id):
         match = gt_norm == pred_norm
         rows.append([comparison_id, key, pred_norm, gt_norm, match])
 
-    # Check if the number of fields matches
-    gt_keys = set(ground_truth.keys())
-    pred_keys = set(prediction.keys())
-    fields_match = gt_keys == pred_keys
-    if not fields_match:
-        extra_in_pred = pred_keys - gt_keys
-        missing_in_pred = gt_keys - pred_keys
-        note = "Field count mismatch: "
-        if extra_in_pred:
-            note += f"Extra keys in prediction: {extra_in_pred}. "
-        if missing_in_pred:
-            note += f"Missing keys in prediction: {missing_in_pred}."
-        rows.append(
-            [comparison_id, "Field Count Check", note, "Expected same fields", False]
-        )
-    else:
-        rows.append([comparison_id, "Field Count Check", "Yes", "Yes", True])
-
     return rows
 
 

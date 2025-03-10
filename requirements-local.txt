@@ -9,3 +9,5 @@ kagglehub
 jupyter
 ipywidgets
 pillow
+tabulate
+llama-cloud-services

@@ -54,6 +54,7 @@ The workflow is divided into three Jupyter notebooks:
 - **`01_w2_dataset_preprocessing.ipynb`**: Prepares the Kaggle dataset for model input.
 - **`02_zero_shot_baseline.ipynb`**: Establishes a baseline via zero-shot inference.
 - **`03_qlora_fine_tuning.ipynb`**: Fine-tunes the model with QLoRA for optimal performance.
+- **`04_llama_extract_eval.ipynb`**: Performs document extraction using the LlamaExtract cloud service.
 
 ---
 
@@ -99,6 +100,27 @@ ADP1’s poor zero-shot performance stems from several factors:
 Fine-tuning mitigated these issues by tailoring the model to ADP1’s characteristics, though its 89.23% accuracy indicates lingering difficulties.
 
 For detailed field-level metrics, see the `reports/` directory.
+
+## Comparison to LlamaExtract Cloud Service
+
+To evaluate the effectiveness of the fine-tuned Qwen-2.5-VL-7B-Instruct model, we compared its performance against the LlamaExtract cloud service, a general-purpose document extraction tool, using the same W2 dataset. This comparison provides insight into how a task-specific, fine-tuned model stacks up against an off-the-shelf cloud solution. The results demonstrate significant performance differences, underscoring the superiority of the fine-tuned model for W2 data extraction.
+
+### Overall Accuracy
+
+The fine-tuned **Qwen-2.5-VL** model achieves a substantially higher overall accuracy of **97.23%** compared to **LlamaExtract**'s **70.75%**. This **26.48%** improvement highlights the fine-tuned model's reliability, making it a stronger candidate for production environments where precision is critical, such as mortgage underwriting.
+
+### Form-Type Performance
+
+The W2 dataset includes four form types—ADP1, ADP2, IRS1, and IRS2—each presenting unique challenges. The performance breakdown reveals stark contrasts:
+
+| Form Type | Fine-Tuned Qwen-2.5-VL Accuracy | LlamaExtract Accuracy |
+|:----------|:-------------------------------:|:---------------------:|
+| ADP1      | 89.23%                          | 95.67%                |
+| ADP2      | 100%                            | 97.33%                |
+| IRS1      | 100%                            | 47%                   |
+| IRS2      | 99.69%                          | 43%                   |
+
+**Key Finding**: LlamaExtract performs well on ADP forms (95.67% for ADP1 and 97.33% for ADP2) but struggles significantly with IRS forms, achieving only 47% accuracy for IRS1 and 43% for IRS2. In contrast, the fine-tuned Qwen-2.5-VL model excels across all form types, with near-perfect accuracy on IRS forms (100% and 99.69%) and strong performance on ADP forms, including the complex ADP1 (89.23%). This demonstrates the fine-tuned model's ability to handle diverse and challenging document layouts effectively.
 
 ---
 
