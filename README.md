@@ -1,14 +1,14 @@
 # W2 Data Extraction with Qwen-2.5-VL-7B-Instruct
 
 ## Executive Summary
-This project demonstrates how fine-tuning the Qwen-2.5-VL-7B-Instruct model on the Kaggle W2 dataset achieves a 97.23% accuracy in automating the extraction of several key fields, all at a trivial development cost. This result suggests that business use cases that rely on heavy text extraction from documents, such as mortgage underwriting, can be automated with current open source vision-language models as they offer a scalable and efficient alternative to manual or traditional OCR-based methods. The model excels across four W2 form types--herein defined as ADP1, ADP2, IRS1, and IRS2--with near-perfect performance on the IRS class of forms (99.69%-100% accuracy) and significant improvements on the more complex ADP forms, particularly ADP1 (from 52.92% to 89.23%). This highlights the transformative potential of vision-language models for document extraction in financial workflows.
+This project demonstrates how fine-tuning the Qwen-2.5-VL-7B-Instruct model on the Kaggle W2 dataset achieves a 97.23% accuracy in automating the extraction of several key fields, all at a trivial development cost. This result suggests that business use cases that rely on heavy text extraction from documents, such as loan underwriting, can be automated with current open source vision-language models as they offer a scalable and efficient alternative to manual or traditional OCR-based methods. The model excels across four W2 form types--herein defined as ADP1, ADP2, IRS1, and IRS2--with near-perfect performance on the IRS class of forms (99.69%-100% accuracy) and significant improvements on the more complex ADP forms, particularly ADP1 (from 52.92% to 89.23%). This highlights the transformative potential of vision-language models for document extraction in financial workflows.
 
 ---
 
 ## Introduction
 
 ### Business Use Case of Document Extraction
-In mortgage underwriting, as an example, extracting data from W2 forms is critical for verifying income and tax details. Traditionally, this process involved manual data entry, which is time-consuming, expensive, and prone to human error. Automating W2 extraction with AI not only accelerates the process but also reduces costs and speed, delivering substantial value to financial institutions by enhancing operational efficiency and decision-making reliability. The key question is whether the state-of-the-art is sufficiently accurate to enable adoption. 
+In loan underwriting, as an example, extracting data from W2 forms is critical for verifying income and tax details. Traditionally, this process involved manual data entry, which is time-consuming, expensive, and prone to human error. Automating W2 extraction with AI not only accelerates the process but also reduces costs and speed, delivering substantial value to financial institutions by enhancing operational efficiency and decision-making reliability. The key question is whether the state-of-the-art is sufficiently accurate to enable adoption. 
 
 ### State of the Art in Vision-Language Models
 The field of document extraction has evolved significantly, with vision-language models (VLMs) like Qwen-2.5-VL-7B-Instruct marking a major advancement over traditional methods:
@@ -34,7 +34,7 @@ In February 2025, Microsoft released its family of Phi-4 multimodal models, incl
 ## Project Overview
 
 ### Applying Qwen-2.5-VL-7B-Instruct to W2 Extraction
-This project harnesses Qwen-2.5-VL-7B-Instruct to extract structured data from W2 forms, directly addressing the needs of mortgage underwriting. We fine-tune the model using QLoRA (Quantized Low-Rank Adaptation) to enhance its accuracy on this specific task.
+This project harnesses Qwen-2.5-VL-7B-Instruct to extract structured data from W2 forms, directly addressing the needs of document-heavy workflows. I fine-tuned the model using QLoRA (Quantized Low-Rank Adaptation) to enhance its accuracy on this specific task.
 
 ### Dataset Choice
 The project utilizes the [mcvishnu1/fake-w2-us-tax-form-dataset](https://www.kaggle.com/mcvishnu1/fake-w2-us-tax-form-dataset) from Kaggle, a synthetic dataset comprising 1000 examples of W2 forms, including four distinct form types split into two categories:
@@ -47,7 +47,7 @@ The project utilizes the [mcvishnu1/fake-w2-us-tax-form-dataset](https://www.kag
   - **IRS1**: An IRS 2019 W2 form with multiple copies of the form. Highly standardized with consistent formatting and clear field labels ([example](img/irs1_example.png)).
   - **IRS2**: Another IRS W2 variant, but for 2018, and without form duplication ([example](img/irs2_example.png)).
 
-This dataset was chosen over alternatives like the [SROIE dataset](https://paperswithcode.com/dataset/sroie) (focused on receipts) because w2 data extraction aligns closely with financial document extraction needs in mortgage underwriting, offering a realistic mix of complexity and standardization.
+This dataset was chosen over alternatives like the [SROIE dataset](https://paperswithcode.com/dataset/sroie) (focused on receipts) because w2 data extraction aligns closely with financial document extraction needs in the financial services industry, offering a realistic mix of complexity and standardization.
 
 ### Notebook Overview
 The workflow is divided into the following Jupyter notebooks:
@@ -103,11 +103,11 @@ For detailed field-level metrics, see the `reports/` directory.
 
 ## Comparison to LlamaExtract Cloud Service
 
-To evaluate the effectiveness of the fine-tuned Qwen-2.5-VL-7B-Instruct model, we compared its performance against the LlamaExtract cloud service, a general-purpose document extraction tool, using the same W2 dataset. This comparison provides insight into how a task-specific, fine-tuned model stacks up against an off-the-shelf cloud solution. The results demonstrate significant performance differences, underscoring the superiority of the fine-tuned model for W2 data extraction.
+To evaluate the effectiveness of the fine-tuned Qwen-2.5-VL-7B-Instruct model, I compared its performance against the LlamaExtract cloud service, a general-purpose document extraction tool, using the same W2 dataset. This comparison provides insight into how a task-specific, fine-tuned model stacks up against an off-the-shelf cloud solution. The results demonstrate significant performance differences, underscoring the superiority of the fine-tuned model for W2 data extraction.
 
 ### Overall Accuracy
 
-The fine-tuned **Qwen-2.5-VL** model achieves a substantially higher overall accuracy of **97.23%** compared to **LlamaExtract**'s **70.75%**. This **26.48%** improvement highlights the fine-tuned model's reliability, making it a stronger candidate for production environments where precision is critical, such as mortgage underwriting.
+The fine-tuned **Qwen-2.5-VL** model achieves a substantially higher overall accuracy of **97.23%** compared to **LlamaExtract**'s **70.75%**. This **26.48%** improvement highlights the fine-tuned model's reliability, making it a stronger candidate for production environments where accuracy is critical.
 
 ### Form-Type Performance
 
