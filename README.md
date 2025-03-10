@@ -58,7 +58,7 @@ The workflow is divided into three Jupyter notebooks:
 
 ---
 
-## Performance Improvements
+## Performance Findings
 
 ### Overall Performance
 - **Zero-Shot Baseline Accuracy**: 87.23%
