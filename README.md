@@ -8,7 +8,7 @@ This project demonstrates how fine-tuning the Qwen-2.5-VL-7B-Instruct model on t
 ## Introduction
 
 ### Business Use Case of Document Extraction
-In loan underwriting, as an example, extracting data from W2 forms is critical for verifying income and tax details. Traditionally, this process involved manual data entry, which is time-consuming, expensive, and prone to human error. Automating W2 extraction with AI not only accelerates the process but also reduces costs and speed, delivering substantial value to financial institutions by enhancing operational efficiency and decision-making reliability. The key question is whether the state-of-the-art is sufficiently accurate to enable adoption. 
+In loan underwriting, as an example, extracting data from W2 forms is critical for verifying income and tax details. Traditionally, this process involved manual data entry, which is time-consuming, expensive, and prone to human error. Automating W2 extraction with AI not only accelerates the process but also reduces costs and increases speed, delivering substantial value to financial institutions by enhancing operational efficiency and decision-making reliability. The key question is whether the state-of-the-art is sufficiently accurate to enable adoption. 
 
 ### State of the Art in Vision-Language Models
 The field of document extraction has evolved significantly, with vision-language models (VLMs) like Qwen-2.5-VL-7B-Instruct marking a major advancement over traditional methods:
