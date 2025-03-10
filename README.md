@@ -50,7 +50,7 @@ The project utilizes the [mcvishnu1/fake-w2-us-tax-form-dataset](https://www.kag
 This dataset was chosen over alternatives like the [SROIE dataset](https://paperswithcode.com/dataset/sroie) (focused on receipts) because w2 data extraction aligns closely with financial document extraction needs in mortgage underwriting, offering a realistic mix of complexity and standardization.
 
 ### Notebook Overview
-The workflow is divided into three Jupyter notebooks:
+The workflow is divided into the following Jupyter notebooks:
 - **`01_w2_dataset_preprocessing.ipynb`**: Prepares the Kaggle dataset for model input.
 - **`02_zero_shot_baseline.ipynb`**: Establishes a baseline via zero-shot inference.
 - **`03_qlora_fine_tuning.ipynb`**: Fine-tunes the model with QLoRA for optimal performance.
