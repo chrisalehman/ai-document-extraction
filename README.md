@@ -134,7 +134,7 @@ The process is as follows:
 - Open a notebook in [Google Colab](https://colab.research.google.com/) by navigating to the Github repo at `https://github.com/chrisalehman/ai-document-extraction`. 
   - Select one of the notebooks. You'll need to execute notebook 1 first to download and preprocess the dataset. 
 - Go to "Runtime" > "Change runtime type."
-  - For notebook 1: `High-RAM` works perfectly well and is recommended to save cost. 
+  - For notebooks 1 and 4: `High-RAM` works perfectly well and is recommended to save cost. 
   - For notebooks 2-3: `Nvidia A100` is recommended as the notebooks are GPU-intensive and were designed to work with this setting. 
 - Start a terminal session in Colab, and clone the GitHub project into the base directory `/content`, or a directory of your choosing. Command: `git clone https://github.com/chrisalehman/ai-document-extraction`.
   - Create a .env.colab file with the required environment variables. See the `example.env` file for an example.
